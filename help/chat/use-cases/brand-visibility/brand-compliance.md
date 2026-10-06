@@ -28,4 +28,4 @@ Co-worker可簡化行銷工作流程中品牌一致性的維護作業。 它可�
 
 同事不僅會找出問題，還會提供可操作的建議。 例如，如果註解過於普遍或缺少call to action，則會提供符合您品牌標準的修訂版本，並附上相關標籤。 此程式可簡化內容建立，並確保品牌合規性，而只需最少的心力。
 
->[!VIDEO](https://video.tv.adobe.com/v/3502691/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502715/?captions=chi_hant&learn=on&enablevpops)

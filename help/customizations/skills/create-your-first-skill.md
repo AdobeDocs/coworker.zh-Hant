@@ -31,7 +31,7 @@ ht-degree: 0%
 
 結果會產生可重複的工作流程，只需簡單的提示即可依需求執行。
 
->[!VIDEO](https://video.tv.adobe.com/v/3502323/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502341/?captions=chi_hant&learn=on&enablevpops)
 
 ## 將分析變成可重複使用的技能
 

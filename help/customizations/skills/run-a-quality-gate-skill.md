@@ -21,7 +21,7 @@ ht-degree: 1%
 
 在本影片中，您將會瞭解自訂同事技能如何作為啟動門，在對象向下游移動之前，根據組織的啟動標準自動驗證對象。
 
->[!VIDEO](https://video.tv.adobe.com/v/3503162/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503174/?captions=chi_hant&learn=on&enablevpops)
 
 ## 啟動品質閘道技能範例
  

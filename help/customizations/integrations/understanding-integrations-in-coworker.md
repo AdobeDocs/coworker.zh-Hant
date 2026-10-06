@@ -17,4 +17,4 @@ ht-degree: 0%
 
 取得Co-worker中整合的快速導覽和總覽，包括什麼是整合、為何要使用整合，以及如何使用介面。
 
->[!VIDEO](https://video.tv.adobe.com/v/3503744/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503754/?captions=chi_hant&learn=on&enablevpops)

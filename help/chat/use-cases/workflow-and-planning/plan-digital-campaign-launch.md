@@ -22,7 +22,7 @@ ht-degree: 0%
 
 為新屬性規劃數位發佈通常表示吸引分析、受眾、創意和網站團隊的工作可能需要數週。 在這段影片中，瞭解Adobe Enterprise Co-worker如何規劃透過單一交談在邁阿密推出新屬性的數位推出。 同事瞭解第一則訊息的目標和歷史記錄，將第一方Experience Platform資料與Semrush的即時市場情報相結合，然後建立對象、客戶歷程、內容實驗及登陸頁面，同時治理、同意和業務規則在有需要時保持有效。
 
->[!VIDEO](https://video.tv.adobe.com/v/3503873?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503882?captions=chi_hant&learn=on)
 
 ## 排定您一天的優先順序並闡明目標
 

@@ -27,4 +27,4 @@ Co-worker可簡化為社群媒體和其他頻道建立品牌資產的程式。 �
 
 Co-worker還提供進一步自訂的彈性。 您可以修改資產、建立變數或調整內容以符合不同的格式，例如Instagram內文。 此方法可讓您專注於目標，而由同事管理技術細節。
 
->[!VIDEO](https://video.tv.adobe.com/v/3502692/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502720/?captions=chi_hant&learn=on&enablevpops)

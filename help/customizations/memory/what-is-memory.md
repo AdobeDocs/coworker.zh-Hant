@@ -19,7 +19,7 @@ ht-degree: 1%
 
 「記憶體」可讓同事在不同工作階段之間傳遞選取的資訊，而不是每次您開始新的交談時重複相同的指示，協助您提供更快速且更相關的回應。
 
->[!VIDEO](https://video.tv.adobe.com/v/3503657/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503675/?captions=chi_hant&learn=on&enablevpops)
 
 ## 瞭解記憶體
 

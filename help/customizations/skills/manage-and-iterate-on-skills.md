@@ -17,7 +17,7 @@ ht-degree: 0%
 
 可重複使用的AI技能可協助團隊執行一致、可重複的工作。 然而，隨著業務需求不斷演化，這些技能也需要隨之演化。 這部影片示範如何以實用的方式，管理以治理為中心的AI技能的完整生命週期，從評估和改善，到驗證和淘汰。
 
->[!VIDEO](https://video.tv.adobe.com/v/3503566/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503575/?captions=chi_hant&learn=on)
 
 ## 基線為什麼重要
 

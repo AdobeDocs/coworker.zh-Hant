@@ -17,7 +17,7 @@ ht-degree: 4%
 
 此影片介紹外掛程式，並說明它們如何以新功能延伸[!DNL Coworker]。 您將瞭解什麼是外掛程式、其包含哪些元件、外掛程式與技能和MCP伺服器的關係，以及如何從您的工作區安裝、使用和移除外掛程式。
 
->[!VIDEO](https://video.tv.adobe.com/v/3503656/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503666/?captions=chi_hant&learn=on&enablevpops)
 
 ## 什麼是外掛程式？
 

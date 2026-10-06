@@ -46,7 +46,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/skills/what-are-skills" title="什麼是技能？" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502322/?format=jpeg&nocache=1790273741021" alt="什麼是技能？"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502332/?captions=chi_hant&format=jpeg&nocache=1790273741021" alt="什麼是技能？"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -69,7 +69,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/integrations/understanding-integrations-in-coworker" title="什麼是整合？" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503744/?format=jpeg&nocache=1790273741207" alt="什麼是整合？"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503754/?captions=chi_hant&format=jpeg&nocache=1790273741207" alt="什麼是整合？"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -92,7 +92,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/plugins/what-are-plugins" title="什麼是外掛程式？" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503656/?format=jpeg&nocache=1790273741022" alt="什麼是外掛程式？"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503666/?captions=chi_hant&format=jpeg&nocache=1790273741022" alt="什麼是外掛程式？"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -115,7 +115,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/memory/what-is-memory" title="什麼是記憶體？" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503657/?format=jpeg&nocache=1790273741019" alt="什麼是記憶體？"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503675/?captions=chi_hant&format=jpeg&nocache=1790273741019" alt="什麼是記憶體？"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
