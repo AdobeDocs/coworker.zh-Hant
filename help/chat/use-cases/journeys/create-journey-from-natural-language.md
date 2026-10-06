@@ -30,5 +30,5 @@ ht-degree: 1%
 
 ## 另請參閱
 
-- [Journey Agent](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create)，基礎人工智慧功能，可在同事聊天中建立歷程。
+- [Journey Agent](https://experienceleague.adobe.com/zh-hant/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create)，基礎人工智慧功能，可在同事聊天中建立歷程。
 - [更多同事聊天使用案例](../overview.md#journeys)

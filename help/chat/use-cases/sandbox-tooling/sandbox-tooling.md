@@ -33,7 +33,7 @@ ht-degree: 1%
 - 存取您要探索或移轉的物件。
 - CX Coworker中安裝的Adobe CXO外掛程式。
 
-如需有關安裝外掛程式的說明，請參閱[Co-worker UI指南](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide)。
+如需有關安裝外掛程式的說明，請參閱[Co-worker UI指南](https://experienceleague.adobe.com/zh-hant/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide)。
 
 ## 使用沙箱工具代理技能 {#use-sandbox-tooling-agentic-skills}
 
@@ -62,7 +62,7 @@ ht-degree: 1%
 
    ![顯示要求狀態的傳輸完成頁面。](./assets/sandbox-tooling/transfer-complete.png)
 
-如需使用CX Coworker的詳細資訊，請參閱[同事UI指南](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide)。
+如需使用CX Coworker的詳細資訊，請參閱[同事UI指南](https://experienceleague.adobe.com/zh-hant/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide)。
 
 ## 支援的使用案例 {#supported-use-cases}
 
@@ -108,5 +108,5 @@ ht-degree: 1%
 
 閱讀本指南後，您應該瞭解如何使用沙箱工具代理技巧，在沙箱之間探索、封裝和移轉支援的物件。
 
-如需沙箱工具的詳細資訊，請參閱[沙箱工具指南](https://experienceleague.adobe.com/en/docs/experience-platform/sandbox/ui/sandbox-tooling)。
+如需沙箱工具的詳細資訊，請參閱[沙箱工具指南](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/sandbox/ui/sandbox-tooling)。
 

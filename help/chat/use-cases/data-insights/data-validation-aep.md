@@ -156,5 +156,5 @@ Co-worker包含資料驗證技能，可檢查Experience Platform資料集的資�
 
 * [升級時驗證Adobe Analytics至Customer Journey Analytics的資料](./data-validation-aa-cja.md)
 * [使用Co-worker中的資料驗證技能驗證Customer Journey Analytics資料](./validate-dataset-quality-for-cja.md)
-* [驗證您的資料（AI助理）](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-validation)
+* [驗證您的資料（AI助理）](https://experienceleague.adobe.com/zh-hant/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-validation)
 * [信任您的Customer Journey Analytics報告： Adobe CX Coworker中的資料驗證技能](https://www.youtube.com/watch?v=gCSm_QYSYhk) （影片）

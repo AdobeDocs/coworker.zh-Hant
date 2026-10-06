@@ -29,6 +29,6 @@ ht-degree: 1%
 
 ## 另請參閱
 
-- [Journey Agent](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent)，用於同事聊天所提供的其他AJO AI功能，例如歷程建立、分析和模擬。
+- [Journey Agent](https://experienceleague.adobe.com/zh-hant/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent)，用於同事聊天所提供的其他AJO AI功能，例如歷程建立、分析和模擬。
 - Adobe Journey Optimizer檔案中的[忠誠度挑戰管理](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/essentials/ajo-coworker-skills#loyalty-challenge-management){target="_blank"}。
 - [更多同事聊天使用案例](../overview.md#journeys)
