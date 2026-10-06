@@ -17,7 +17,7 @@ ht-degree: 4%
 
 開始使用同事聊天介面。 本指南涵蓋所有內容，從存取應用程式和導覽工作區，到充份運用交談、管理您的歷程記錄，以及量身打造您的設定。
 
->[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498576?captions=chi_hant&learn=on)
 
 ## 存取同事聊天
 
