@@ -8,7 +8,7 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 12ee914ed944c82694b9373f611e19cf040e2229
 workflow-type: tm+mt
 source-wordcount: '1719'
 ht-degree: 4%
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 開始使用同事聊天介面。 本指南涵蓋所有內容，從存取應用程式和導覽工作區，到充份運用交談、管理您的歷程記錄，以及量身打造您的設定。
 
->[!VIDEO](https://video.tv.adobe.com/v/3498576?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## 存取同事聊天
 
@@ -25,7 +25,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->產品內的體驗可透過右上角的同事圖示![同事圖示](./assets/icon-coworker.png)存取。 沈浸式體驗詳細資訊如下[&#128279;](#immersive)。
+>產品內的體驗可透過右上角的同事圖示![同事圖示](./assets/icon-coworker.png)存取。 沈浸式體驗詳細資訊如下[](#immersive)。
 
 下表擷取這些體驗何時可用於每個CX Enterprise應用程式。
 
@@ -36,7 +36,7 @@ ht-degree: 4%
 | CJA | 現在可用 | 即將推出 |
 | Workfront | 現在可用 | 即將推出：<br><br>* 2026年9月初在預覽執行個體中，針對符合資格的Workfront系統管理員<br><br>* 2026年9月中旬在生產執行個體中，針對符合資格的快速發行Workfront客戶<br><br>* 2026年10月中旬在生產執行個體中，針對符合資格的Workfront季度發行客戶 |
 | 目標 | 現在可用 | 現在可用 |
-| AEM | 現在可用 | 即將推出 |
+| AEM | 現在可用 | 現在可用 |
 | Marketo Engage | 現在可用 | 即將推出 |
 
 ### 沈浸式體驗 {#immersive}
