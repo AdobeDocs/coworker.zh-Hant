@@ -25,7 +25,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->產品內的體驗可透過右上角的同事圖示![同事圖示](./assets/icon-coworker.png)存取。 沈浸式體驗詳細資訊如下[](#immersive)。
+>產品內的體驗可透過右上角的同事圖示![同事圖示](./assets/icon-coworker.png)存取。 沈浸式體驗詳細資訊如下[&#128279;](#immersive)。
 
 下表擷取這些體驗何時可用於每個CX Enterprise應用程式。
 
