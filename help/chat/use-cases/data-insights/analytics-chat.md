@@ -1,5 +1,5 @@
 ---
-title: 透過同事聊天分析Customer Journey Analytics資料
+title: 開始使用同事聊天分析資料
 description: 瞭解如何使用Adobe CX Enterprise Coworker Chat分析Customer Journey Analytics資料、建立漏斗，並找出客戶在歷程中的流失位置。
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
@@ -7,23 +7,18 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 2d4922c334bcc2ec93dec46098a9c021623034ad
+source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
 workflow-type: tm+mt
-source-wordcount: '3338'
-ht-degree: 3%
+source-wordcount: '2094'
+ht-degree: 4%
 ---
-# 透過同事聊天分析Adobe CX Analytics資料
+# 開始使用同事聊天分析資料
 
-Adobe CX Enterprise Coworker Chat可以執行進階資料分析，而以前只在Analysis Workspace中可以執行。 Co-worker Chat會存取您Customer Journey Analytics資料檢視或Adobe Analytics報表套裝中的資料，讓您探索該資料並獲得自然語言提示的答案。
-
-您可以透過兩種方式使用「同事聊天」，視您需要的分析數量而定：
-
-* **快速解答** — 直接詢問簡單語言的問題，並取得立即的答案。 商務使用者經常以這種方式使用同事聊天，而分析師在需要為利害關係人提供快速答案時也會使用聊天。
-* **深思熟慮的工作** — 與同事聊天室進行延伸、多回合的交談，以調查業務問題、排除原因，並取得建議。 分析人員通常會在建議前，使用此方法來深入探索資料。
+設定Adobe CX Enterprise Coworker Chat以分析您的Customer Journey Analytics資料檢視或Adobe Analytics報表套裝，然後遵循運作範例。 如需使用同事聊天所能進行的概述，包括使用案例、技巧和最佳實務，請參閱[使用同事聊天分析資料](/help/chat/use-cases/data-insights/analytics-overview-v2.md)。
 
 開始之前，請先瞭解同事聊天介面和設定選項，然後確定同事已連線至Customer Journey Analytics或Adobe Analytics以及相關資料檢視或報表套裝。
 
-## 開始使用同事聊天
+## 開始之前
 
 ### 資料存取與許可權
 
@@ -43,40 +38,6 @@ Adobe CX Enterprise Coworker Chat可以執行進階資料分析，而以前只�
 * 及更多內容
 
 如需詳細資訊，請參閱[同事聊天使用者介面指南](/help/chat/ui-guide.md)。
-
-### 使用同事聊天分析資料的最佳實務
-
-#### 組織層級最佳實務
-
-* 指定貴組織的分析人員為同事達人。
-
-* 建立與使用者可用的資料和元件相關的已稽核提示和技能資料庫。
-
-* 建立一或多個技能，指示「同事聊天」只使用您要在分析中使用的元件。 這可幫助「同事聊天」為您組織中的使用者提供最相關的資料。
-
-* 教育使用者何時向同事聊天詢問快速解答，以及何時將其用於深入思考工作。
-
-#### 使用者層級最佳實務
-
-* 使用計畫模式。
-
-  此模式在複雜任務中特別有用，但也可以為簡單任務產生更好的結果，因為它允許同事在採取行動之前提出後續問題。 如需詳細資訊，請參閱[計畫模式](/help/chat/ui-guide.md#plan-mode)。
-
-* 建立提示時，請儘可能具體一些：
-
-  * 命名您要分析的維度、量度和日期範圍。
-  * 依元件的確切名稱參照元件。
-  * 指定您要包含、排除或比較的任何區段、對象、管道或裝置。
-  * 指出您想要特定的視覺效果型別，例如funnel、趨勢或同類群組表格。
-  * 如果您希望「同事聊天」提供後續問題的建議，請詢問建議的後續步驟。
-  * 在預測量度時要求預測總時程，例如「未來30天」。
-  * 提及您已擁有的任何假設，以便「同事聊天」可驗證或排除該假設。
-  * 如果您想要劃分量度變更，請詢問貢獻維度。
-  * 指定摘要的對象，例如領導或行銷團隊，如果您打算展示發現，請要求投影片投影片大綱。
-  * 為驗證資料時您想要比較的特定報表套裝和資料檢視命名。
-  * 先完成分析，然後要求「同事聊天」將其儲存為技能，提供清楚的描述性名稱，並記下您計畫重複使用分析的頻率。
-
-* 將標準方向新增至Co-worker Chat記憶體。 例如，如果您一律使用相同資料檢視或報表套裝的資料，請將其新增至記憶體。
 
 ## 確認同事聊天已連線至Customer Journey Analytics
 
@@ -139,161 +100,6 @@ Co-worker Chat包含記憶體功能，可讓您存取跨越所有聊天內容的
 1. 在「記憶體」頁面的&#x200B;[!UICONTROL **儲存的偏好設定**]&#x200B;區段中，指定您希望「同事聊天」在聊天中使用的一或多個資料檢視或報表套裝。
 
    左側邊欄中的![記憶體區段](../../assets/coworker-memory.png)
-
-## 在Customer Journey Analytics中分析
-
-Co-worker建立視覺效果後，您可以在Analysis Workspace中開啟該視覺效果，以進行更深入的分析及精細控制。 視覺效果會在Customer Journey Analytics的新Analysis Workspace專案中開啟。
-
-若要在新的Analysis Workspace專案中開啟視覺效果：
-
-1. 選取「在CJA中分析&#x200B;**」（位於在Co-worker中建立的任何視覺效果旁）。**
-
-1. 在Customer Journey Analytics中開啟視覺效果後，您可以使用Analysis Workspace拖放瀏覽器介面進行修改、進一步製作分析、建立對象等。 您甚至可以和您選擇的任何人共用您的Workspace專案。
-
-   如需Analysis Workspace的詳細資訊，請參閱[Analysis Workspace概觀](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-workspace/home)。
-
-### Customer Journey Analytics的使用案例
-
-您可以檢視Customer Journey Analytics使用案例和從業人員在Adobe CX Enterprise Coworker Chat中使用的範例提示，從快速解答到深入思考工作調查。 每個提示都是為複製而建置，會根據您自己的資料和內容進行調整，並透過對話進行細化。
-
-如需詳細資訊，請參閱[使用案例](/help/chat/use-cases/overview.md)。
-
-## Analytics技能
-
-下列技能適用於分析Customer Journey Analytics或Adobe Analytics資料。
-
-### 查詢和分析資料
-
-這些技能可讓您即時查詢資料和分析結果，而不需在Analysis Workspace中自行建立請求：
-
-* `cja` — 查詢Customer Journey Analytics資料檢視
-* `aa` — 查詢Adobe Analytics報表套裝
-
-#### 必要權限
-
-* 檢視對您要查詢之資料檢視或報表套裝的存取權
-
-#### 主要使用案例
-
-| 使用案例 | 函數 | 範例提示 |
-|---------|----------|---------|
-| **提取報告和量度** | 即時查詢Customer Journey Analytics或Adobe Analytics以提取量度、維度、區段、資料檢視和報表套裝。 | <ul><li>「顯示過去30天的頁面檢視」</li><li>「在主資料檢視中列出排名最前的區段」</li></ul> |
-| **比較分析** | 並排比較不同管道、時段或區段的量度。 | <ul><li>「依管道月份比較收入（月份）」</li><li>「本季行動與桌上型電腦轉換表現如何？」</li></ul> |
-| **Funnel分析** | 逐步瞭解每個階段都含有流失的多步驟轉換漏斗。 | <ul><li>「帶我瀏覽funnel結帳」</li><li>「顯示從PDP到購買的轉換funnel」</li></ul> |
-| **預測** | 根據歷史資料來專案未來的量度值。 | <ul><li>「未來30天的預測工作階段」</li><li>「我們是否可望達成收入目標？」</li></ul> |
-
-#### 在範圍中
-
-* 即時查詢量度、維度、區段、資料檢視和報表套裝
-* 跨管道、時段或區段的並排比較
-* 多步驟funnel和流失分析
-* 根據歷史趨勢的量度預測
-
-#### 超出範圍
-
-* 建立或編輯資料檢視或報表套裝元件
-* 資料檢視或您有權存取的報告套裝之外的資料
-* 超越量度預測的預測性模型
-
-### 根本原因分析
-
-這些技能會調查量度變更的原因，而不僅僅是報告其已變更：
-
-* `cja-root-cause-analysis` — 分析Customer Journey Analytics資料檢視中的量度變更
-* `aa-root-cause-analysis` — 分析Adobe Analytics報表套裝中的量度變更
-
-#### 必要權限
-
-* 檢視對所分析資料檢視或報表套裝的存取權
-
-#### 主要使用案例
-
-| 使用案例 | 函數 | 範例提示 |
-|---------|----------|---------|
-| **診斷量度變更** | 調查量度變更的原因，包括下降、尖峰和異常。 | <ul><li>「為什麼上週轉換率下降？」</li><li>「是什麼導致1月15日的收入激增？」</li></ul> |
-
-#### 在範圍中
-
-* 調查已知量度在已知期間內的變更
-* 為造成變更的尺寸和區段提供曲面處理
-
-#### 超出範圍
-
-* 偵測您未詢問的異常（無自動或即時警報）
-* 針對您有權存取的資料檢視或報表套裝外部量度的根本原因分析
-
-### 執行摘要和效能摘要
-
-此技能(`cja-executive-summary`)可產生適用於利害關係人的Customer Journey Analytics或Adobe Analytics資料摘要。
-
-#### 必要權限
-
-* 檢視摘要中涵蓋的資料檢視或報表套裝存取權
-
-#### 主要使用案例
-
-| 使用案例 | 函數 | 範例提示 |
-|---------|----------|---------|
-| **效能摘要** | 製作適用於利害關係人的效能摘要、規範性建議，以及投影片組概述。 | <ul><li>「給我上個月的執行摘要」</li><li>「從本季的資料建立投影片投影片組大綱」</li></ul> |
-
-#### 在範圍中
-
-* 摘要指定期間的效能
-* 根據資料產生規範性建議
-* 概述投影片投影片或利害關係人閱讀的內容
-
-#### 超出範圍
-
-* 建立最後的投影片單元或簡報檔案
-* 跨越您無權存取的資料檢視或報表套裝的摘要
-
-### 使用Adobe Analytics進行資料驗證
-
-此技能(`aa-cja-validation`)可比較、稽核及協調[!DNL Adobe Analytics]與Customer Journey Analytics之間的資料。
-
-#### 必要權限
-
-* 檢視對正在比較的[!DNL Adobe Analytics]報表套裝和Customer Journey Analytics資料檢視的存取權
-
-#### 主要使用案例
-
-| 使用案例 | 函數 | 範例提示 |
-|---------|----------|---------|
-| **從Adobe Analytics升級至Customer Journey Analytics時驗證資料** | 比較、稽核及調解[!DNL Adobe Analytics]與Customer Journey Analytics之間的資料。<p>如需詳細資訊，請參閱[從Adobe Analytics升級至Customer Journey Analytics時，與同事驗證資料](data-validation-aa-cja.md)。</p> | <ul><li>「將我的Adobe Analytics報表套裝與Customer Journey Analytics資料檢視進行比較」</li><li>「驗證Adobe Analytics與Customer Journey Analytics之間的頁面檢視」</li></ul> |
-
-#### 在範圍中
-
-* 比較報表套裝和資料檢視之間的量度值
-* 標示兩個資料來源之間的差異
-
-#### 超出範圍
-
-* 解決資料差異的根本原因
-* 驗證[!DNL Adobe Analytics]和Customer Journey Analytics以外的資料來源
-
-### 建立自訂技能
-
-此技能(`cja-skill-creator`)將您已遇到的分析轉換為可重複使用的技能，該技能會跨工作階段持續存在。
-
-#### 必要權限
-
-* 管理技能
-
-#### 主要使用案例
-
-| 使用案例 | 函數 | 範例提示 |
-|---------|----------|---------|
-| **可重複使用的分析模式** | 將分析模式轉換為可重複使用、且跨工作階段儲存的技能。 | <ul><li>「將這份每週收入分析變成可重複使用的技能」</li><li>「將此儲存為每月funnel報告的技能」</li></ul> |
-
-#### 在範圍中
-
-* 將完成的分析轉換為已命名且可重複使用的技能
-* 讓儲存的技能可在您未來的聊天工作階段中使用
-
-#### 超出範圍
-
-* 自動與其他使用者共用已儲存的技能（組織層級技能庫需要管理員設定）
-* 編輯技能參照的資料檢視或報告套裝元件
 
 ## 範例：尋找客戶流失的位置
 
@@ -510,3 +316,19 @@ Co-worker建立視覺效果後，您可以在Analysis Workspace中開啟該視�
 * 排除行銷管道是造成問題的原因 — 每個管道洩漏的速度幾乎相同
 * 將真正的問題隔離到行動結帳中，並以35%的購買量來量化修正
 * 離開時可設定優先順序：行動支付與表單摩擦。 以桌上型電腦的23.2%轉換率為基準
+
+## 在Customer Journey Analytics中分析
+
+Co-worker建立視覺效果後，您可以在Analysis Workspace中開啟該視覺效果，以進行更深入的分析及精細控制。 視覺效果會在Customer Journey Analytics的新Analysis Workspace專案中開啟。
+
+若要在新的Analysis Workspace專案中開啟視覺效果：
+
+1. 選取「在CJA中分析&#x200B;**」（位於在Co-worker中建立的任何視覺效果旁）。**
+
+1. 在Customer Journey Analytics中開啟視覺效果後，您可以使用Analysis Workspace拖放瀏覽器介面進行修改、進一步製作分析、建立對象等。 您甚至可以和您選擇的任何人共用您的Workspace專案。
+
+   如需Analysis Workspace的詳細資訊，請參閱[Analysis Workspace概觀](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-workspace/home)。
+
+## 後續步驟
+
+如需更多使用案例、「同事聊天」用於分析資料的技能，以及撰寫提示的最佳實務，請參閱[使用同事聊天分析資料](/help/chat/use-cases/data-insights/analytics-overview-v2.md)。

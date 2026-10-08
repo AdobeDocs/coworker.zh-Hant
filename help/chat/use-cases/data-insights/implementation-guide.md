@@ -2,15 +2,15 @@
 title: 與同事一同規劃您的Customer Journey Analytics或串流媒體實作
 description: 瞭解同事的實作指南技能如何透過可匯出的核對清單，將探索對話轉換為個人化、有序的實作計畫。
 hold: true
-source-git-commit: 94cf399a48d13ee83c702804b50fdccd4baa9d71
+source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
 workflow-type: tm+mt
-source-wordcount: '1236'
+source-wordcount: '1239'
 ht-degree: 1%
 ---
 
 # 與同事一起規劃您的實作
 
-Co-worker包含五種實施指南技能，每個產品介面各一個：Customer Journey Analytics、Adobe Analytics至Customer Journey Analytics升級、Content Analytics (ACA)、Marketing Campaign Analytics (MCA)和串流媒體。 每項技能都會將簡短探索對話轉換為個人化、相依性感知的實作計畫，並透過互動式檢查清單和隨時可使用的匯出功能，全部透過單一同事聊天對話完成。
+Adobe CX Enterprise Coworker包含五個實作指南技能，每個產品介面各一個：Customer Journey Analytics、Adobe Analytics升級至Customer Journey Analytics、Content Analytics (ACA)、Marketing Campaign Analytics (MCA)和串流媒體。 每項技能都會將簡短探索對話轉換為個人化、相依性感知的實作計畫，並透過互動式檢查清單和隨時可使用的匯出功能，全部透過單一同事聊天對話完成。
 
 如果您正站起來或移轉至這些產品的任一項，您便可以使用這些技能來取得循序漸進的計畫，無需手動研究Adobe的實作需求，或從頭開始建立專案計畫。
 
