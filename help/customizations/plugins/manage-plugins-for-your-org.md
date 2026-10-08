@@ -54,7 +54,7 @@ ht-degree: 0%
 
 瞭解管理員如何使用核准的外掛程式來擴充Adobe同事聊天、管理市場以及控管對技能和連結工具的存取，同時保持與現有Adobe許可權的一致性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504191/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504182/?learn=on&enablevpops)
 
 ## 您將瞭解的內容
  
