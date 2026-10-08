@@ -6,10 +6,10 @@ description: 瞭解CX Enterprise中的AI工具。 在CX Enterprise中使用AI來
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 hide: true
-source-git-commit: e35e97f90153da41a9236a9fa761be65d3bd73c1
+source-git-commit: 787ca195c0e779575bd17a67ffac16941dc5135a
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 19%
+source-wordcount: '222'
+ht-degree: 18%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -39,6 +39,7 @@ ht-degree: 19%
       - [建立忠誠度挑戰並顯示深入分析](./chat/use-cases/journeys/create-loyalty-challenge.md)
     - 最佳化 {#optimization}
       - [啟動Target活動](./chat/use-cases/optimization/target.md)
+      - [加速實驗](./chat/use-cases/optimization/accelerate-experimentation.md)
     - 沙箱工具 {#sandbox-tooling}
       - [沙箱工具代理程式技能](./chat/use-cases/sandbox-tooling/sandbox-tooling.md)
     - 警報 {#alerts}
