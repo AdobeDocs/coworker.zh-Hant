@@ -37,7 +37,7 @@ ht-degree: 6%
 
 ### search_allowed_ip_ranges
 
-**資源：**資料Distiller驗證· IP範圍
+**資源：**&#x200B;資料Distiller驗證· IP範圍
 **狀態：**&#x200B;作用中
 
 為目前沙箱中的查詢服務擷取所有已設定的IP存取限制。 傳回組織ID和允許的IP範圍清單。 僅適用於擁有資料Distiller附加元件的客戶。
@@ -48,7 +48,7 @@ ht-degree: 6%
 
 ### search_audit
 
-**資源：**稽核查詢·稽核事件
+**資源：**&#x200B;稽核查詢·稽核事件
 **狀態：**&#x200B;作用中
 
 列出跨Experience Platform服務的使用者活動時間戳記記錄。 傳回動作型別、使用者電子郵件、資產資訊和事件狀態。 使用`asset_type`和`action`來縮小結果範圍。 若未指定時間範圍，預設為過去7天。 限於過去90天的前1000筆記錄和事件。
@@ -72,7 +72,7 @@ ht-degree: 6%
 
 ### search_dataset
 
-**資源：**目錄API ·資料集，批次
+**資源：**&#x200B;目錄API ·資料集，批次
 **狀態：**&#x200B;作用中
 
 Experience Platform目錄服務的統一派遣工具。 查詢資料集中繼資料（結構描述參考、標籤、建立資訊）或批次擷取記錄（狀態、量度、檔案清單）。 使用`dataset/list`來探索資料集，`batch/list`來檢查擷取健全狀態，以及`batch/list_files`或`batch/get_meta_files`來檢查特定批次內容。 所有作業均為唯讀。
@@ -103,7 +103,7 @@ Experience Platform目錄服務的統一派遣工具。 查詢資料集中繼資
 
 ### search_class_relations
 
-**資源：**類別關係·靜態YAML索引
+**資源：**&#x200B;類別關係·靜態YAML索引
 **狀態：**&#x200B;作用中
 
 使用靜態`class_relations_v1.yaml`索引，依名稱搜尋Experience Platform企業類別關係。 未執行Experience Platform API呼叫。 接受單一字詞或逗號分隔的字詞；每個字詞使用部分權杖比對來比對類別名稱。 傳回具有正向關係（每個類別指向的內容）和反向關係（哪些類別指向它）的相符類別。 在建立查詢、資料流或結構描述組合之前，使用此資訊來瞭解實體關係。
@@ -119,7 +119,7 @@ Experience Platform目錄服務的統一派遣工具。 查詢資料集中繼資
 
 ### search_data_access
 
-**資源：**資料存取API ·失敗的批次
+**資源：**&#x200B;資料存取API ·失敗的批次
 **狀態：**&#x200B;作用中
 
 從失敗的Experience Platform資料擷取批次存取檔案。 使用`failed_batch/list_failed`列出屬於失敗批次的檔案以進行失敗診斷。 所有作業都需要批次ID。 注意： `file/get`和`dataset/preview`已停用，因為它們會公開實際記錄資料。 所有作業均為唯讀。
@@ -140,7 +140,7 @@ Experience Platform目錄服務的統一派遣工具。 查詢資料集中繼資
 
 ### search_data_lake
 
-**資源：**資料湖API ·資料集，批次
+**資源：**&#x200B;資料湖API ·資料集，批次
 **狀態：**&#x200B;作用中
 
 從Data Lake層檢查資料集並批次中繼資料。 使用`get`代表完整的中繼資料，`get_size`代表儲存和擷取大小量度，並使用`list_failed`來監視時間範圍內的擷取失敗。 未提供`list_failed`的時間範圍時，預設為過去7天。 所有作業均為唯讀，且需要資源ID。
@@ -161,7 +161,7 @@ Experience Platform目錄服務的統一派遣工具。 查詢資料集中繼資
 
 ### search_dule
 
-**資源：**資料控管·標籤、原則、marketing_actions
+**資源：**&#x200B;資料控管·標籤、原則、marketing_actions
 **狀態：**&#x200B;作用中
 
 查詢原則服務API，以取得資料使用標籤、原則和行銷動作。 使用`marketing_action/evaluate`測試對具有特定標籤之資料的行銷動作是否會違反任何治理原則。 所有作業均為唯讀。
@@ -186,7 +186,7 @@ Experience Platform目錄服務的統一派遣工具。 查詢資料集中繼資
 
 ### search_query_service
 
-**資源：**查詢服務·查詢、範本、排程、排程執行、連線、警示訂閱
+**資源：**&#x200B;查詢服務·查詢、範本、排程、排程執行、連線、警示訂閱
 **狀態：**&#x200B;作用中
 
 查詢服務資源的統一工具。 列出並擷取特定查詢、儲存的SQL範本、排程的查詢及其執行、互動式連線引數（適用於psql/JDBC使用者端）以及警示訂閱。 對於查詢清單，預設為`isService==false,isParentLevel==true`以篩選掉內部流量。 所有作業均為唯讀。
@@ -202,7 +202,7 @@ Experience Platform目錄服務的統一派遣工具。 查詢資料集中繼資
 
 ### execute_observability_metrics_query
 
-**資源：**可觀察性深入分析·量度
+**資源：**&#x200B;可觀察性深入分析·量度
 **狀態：**&#x200B;作用中
 
 查詢目前沙箱或組織內所有沙箱的[!DNL Observability Insights]量度。 支援單一請求中的多個量度、標籤式篩選器和每個量度縮減取樣。 針對`scope=org`，請在每個量度上至少包含一個`groupBy`篩選器。 所有作業均為唯讀。
@@ -223,7 +223,7 @@ Experience Platform目錄服務的統一派遣工具。 查詢資料集中繼資
 
 ### inspect_observability_implications
 
-**資源：**可觀察性深入分析·違規
+**資源：**&#x200B;可觀察性深入分析·違規
 **狀態：**&#x200B;作用中
 
 針對目前的沙箱或組織中的所有沙箱，偵測[!DNL Observability Insights]個破壞間隔（量度超過其設定基準的時間範圍）。 傳回每個數列的預先比對間隔。 視窗結束時仍在進行中的開放式違規會傳回`end: null`。 所有作業均為唯讀。
@@ -248,7 +248,7 @@ Experience Platform目錄服務的統一派遣工具。 查詢資料集中繼資
 
 ### search_sandbox_health_assessment
 
-**資源：**執行並運作·健康狀態檢查評估
+**資源：**&#x200B;執行並運作·健康狀態檢查評估
 **狀態：**&#x200B;作用中
 
 擷取目前沙箱的最新「執行與操作」健康狀態檢查評估結果。 傳回每個支援類別的結果，包括結構描述和身分、分段、內嵌和設定檔。 為了識別根本原因而不進行單獨的查詢，每個結果都包括失敗檢查背後的受影響資產。 僅傳回具有已發佈、人類可讀名稱的檢查。 所有作業均為唯讀。

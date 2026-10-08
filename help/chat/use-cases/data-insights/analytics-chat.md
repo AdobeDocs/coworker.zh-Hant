@@ -323,7 +323,7 @@ Co-worker建立視覺效果後，您可以在Analysis Workspace中開啟該視�
 
 若要在新的Analysis Workspace專案中開啟視覺效果：
 
-1. 選取「在CJA中分析&#x200B;**]」（位於在Co-worker中建立的任何視覺效果旁）。[!UICONTROL **
+1. 選取「在CJA中分析&#x200B;**」（位於在Co-worker中建立的任何視覺效果旁）。**
 
 1. 在Customer Journey Analytics中開啟視覺效果後，您可以使用Analysis Workspace拖放瀏覽器介面進行修改、進一步製作分析、建立對象等。 您甚至可以和您選擇的任何人共用您的Workspace專案。
 
