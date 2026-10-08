@@ -26,4 +26,4 @@ ht-degree: 0%
  
 使用自然語言，分析師和行銷人員可以詢問有關其資料的問題、接收視覺化結果、找出有意義的趨勢，並找出驅動效能的因素，所有這些都可以透過單一對話進行。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496847/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496861/?captions=chi_hant&learn=on&enablevpops)
