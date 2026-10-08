@@ -2,15 +2,15 @@
 title: 與同事驗證您的串流媒體實作
 description: 瞭解同事的串流媒體驗證技能如何檢查您的設定、工作階段和記錄，以確認您的實施是否正確追蹤。
 hold: true
-source-git-commit: 94cf399a48d13ee83c702804b50fdccd4baa9d71
+source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
 workflow-type: tm+mt
-source-wordcount: '1301'
+source-wordcount: '1304'
 ht-degree: 0%
 ---
 
 # 與同事驗證您的串流媒體實施
 
-Co-worker包含串流媒體驗證技能，可檢查您在Edge Network上的Adobe串流媒體（視訊和音訊Analytics）實施，以提供Customer Journey Analytics和/或Adobe Analytics。 您不會手動交叉參考Assurance、資料集設定、XDM結構欄位群組、Customer Journey Analytics資料檢視設定和原始網路記錄，而是會取得單一驗證報告。
+Adobe CX Enterprise Coworker包含串流媒體驗證技能，可檢查您在Edge Network上的Adobe串流媒體（視訊和音訊Analytics）實施，以傳送Customer Journey Analytics和/或Adobe Analytics。 您不會手動交叉參考Assurance、資料集設定、XDM結構欄位群組、Customer Journey Analytics資料檢視設定和原始網路記錄，而是會取得單一驗證報告。
 
 如果您要實作或疑難排解串流媒體追蹤，可以使用此技能確認您的實作已正確設定、如預期收集資料並擷取您打算追蹤的內容，所有這些都在單一同事聊天對話中。
 
