@@ -28,7 +28,7 @@ ht-degree: 2%
 - 存取為貴組織啟用資料上線技能的Adobe CX Enterprise Coworker。
 - 在Adobe Experience Platform中建立結構描述的許可權。
 
-如需有關安裝外掛程式的說明，請參閱[Co-worker UI指南](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide)。
+如需有關安裝外掛程式的說明，請參閱[Co-worker UI指南](https://experienceleague.adobe.com/zh-hant/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide)。
 
 ## 使用資料上線技能 {#use-the-data-onboarding-skill}
 
@@ -48,7 +48,7 @@ ht-degree: 2%
 
 1. 透過資料品質審查、語意擴充、結構描述對應和結構描述建立繼續與同事對話，並隨時確認每個步驟。
 
-如需使用CX Coworker的詳細資訊，請參閱[同事UI指南](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide)。
+如需使用CX Coworker的詳細資訊，請參閱[同事UI指南](https://experienceleague.adobe.com/zh-hant/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide)。
 
 ## 支援的使用案例 {#supported-use-cases}
 
@@ -78,4 +78,4 @@ Co-worker建議傳入欄位的語意意義，減少將原始欄位對應到標�
 
 閱讀本指南後，您應該瞭解如何從架構建立開始資料入門技能，以及它有助於您在CX Coworker中完成什麼。
 
-如需Experience Platform UI程式和存取/適用案例，請參閱結構描述UI指南中的[使用AI載入資料](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/ui/resources/schemas#data-onboarding-skill)。
+如需Experience Platform UI程式和存取/適用案例，請參閱結構描述UI指南中的[使用AI載入資料](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/xdm/ui/resources/schemas#data-onboarding-skill)。
