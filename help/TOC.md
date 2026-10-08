@@ -6,9 +6,9 @@ description: 瞭解CX Enterprise中的AI工具。 在CX Enterprise中使用AI來
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 hide: true
-source-git-commit: 6c126810936bea3e883d74e6ff685991cb40cd4a
+source-git-commit: e35e97f90153da41a9236a9fa761be65d3bd73c1
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '220'
 ht-degree: 19%
 ---
 
@@ -65,6 +65,7 @@ ht-degree: 19%
   - 記憶 {#memory}
     - [什麼是記憶體？](./customizations/memory/what-is-memory.md)
 - 行銷活動 {#campaigns}
+  - {hide-from-toc}[新團隊體驗](./campaigns/new-teams-experience.md)
   - [概覽](./campaigns/overview.md)
   - [建立電子郵件行銷活動](./campaigns/create-an-email-campaign.md)
   - [啟動及管理行銷活動](./campaigns/launch-manage-campaign.md)
