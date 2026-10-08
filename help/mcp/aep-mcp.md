@@ -255,7 +255,7 @@ Experience Platform目錄服務的統一派遣工具。 查詢資料集中繼資
 
 >[!NOTE]
 >
->此工具只會擷取評估結果。 若要修正標幟的問題，請使用[!DNL Experience Platform] UI中的健康情況檢查詳細資料面板。 請參閱[健康情況檢查](https://experienceleague.adobe.com/en/docs/experience-platform/run-and-operate/health-checks)。 支援健康情況檢查的自動修正指引可在[CX Coworker Chat](../chat/overview.md)中作為技能提供。
+>此工具只會擷取評估結果。 若要修正標幟的問題，請使用[!DNL Experience Platform] UI中的健康情況檢查詳細資料面板。 請參閱[健康情況檢查](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/run-and-operate/health-checks)。 支援健康情況檢查的自動修正指引可在[CX Coworker Chat](../chat/overview.md)中作為技能提供。
 
 **功能：**&#x200B;列出目前沙箱的所有健康情況檢查結果，取得一個具名檢查的結果
 

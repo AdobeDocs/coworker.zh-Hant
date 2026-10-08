@@ -43,7 +43,7 @@ CX Coworker Gateway為CX Coworker Gateway產品工具提供受控端點。 與�
 | **Journey Optimizer** | 行銷活動、歷程和管道設定（唯讀）；內容範本、片段、登陸頁面和內嵌訊息內容（讀取和寫入） | Beta | [Journey Optimizer工具](ajo-mcp.md) |
 | **Customer Journey Analytics** | 資料檢視、維度、量度、報表、區段、日期範圍、專案和對象（讀取和寫入） | 可用 | [Customer Journey Analytics工具](cja-mcp.md) |
 | **Adobe Analytics** | 報表套裝、維度、量度、報表、區段、日期範圍和Workspace專案（可讀取和寫入支援的元件） | 可用 | [Adobe Analytics工具](analytics-mcp.md) |
-| **Workfront** | 專案、任務和核准工作流程的工作管理工具 | 預覽 | [Workfront MCP伺服器](https://experienceleague.adobe.com/en/docs/workfront/using/basics/workfront-mcp-server/workfront-mcp-server-overview) |
+| **Workfront** | 專案、任務和核准工作流程的工作管理工具 | 預覽 | [Workfront MCP伺服器](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/basics/workfront-mcp-server/workfront-mcp-server-overview) |
 
 
 >[!NOTE]

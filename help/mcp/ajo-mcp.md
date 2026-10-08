@@ -11,9 +11,9 @@ ht-degree: 2%
 
 使用Adobe Journey Optimizer產品工具，從相容於MCP的使用者端檢查行銷活動、歷程和管道設定。 當您的組織已啟用，且您的使用者帳戶擁有必要的Journey Optimizer許可權時，即可透過[CX Coworker閘道](overview.md)使用這些工具。
 
-如需詳細資訊，請參閱Adobe Journey Optimizer檔案中的[使用MCP使用者端](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/ajo-mcp){target="_blank"}。
+如需詳細資訊，請參閱Adobe Journey Optimizer檔案中的[使用MCP使用者端](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/content-management/combine/ajo-mcp){target="_blank"}。
 
-若要建立、分析和模擬歷程的對話式代理程式體驗，請改為參閱[Journey Agent](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent)。
+若要建立、分析和模擬歷程的對話式代理程式體驗，請改為參閱[Journey Agent](https://experienceleague.adobe.com/zh-hant/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent)。
 
 >[!AVAILABILITY]
 >
