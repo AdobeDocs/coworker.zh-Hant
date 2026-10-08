@@ -23,4 +23,4 @@ ht-degree: 0%
 
 瞭解如何使用同事在Adobe Experience Manager Assets中有效設定您的數位資產管理(DAM)。 本影片概述入門品牌的步驟，確保簡化設定程式，並為貴組織最佳使用AEM Assets。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504157/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504167/?captions=chi_hant&learn=on&enablevpops)

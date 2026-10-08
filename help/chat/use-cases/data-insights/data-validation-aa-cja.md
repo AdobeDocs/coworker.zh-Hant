@@ -45,7 +45,7 @@ Adobe CX Enterprise Coworker包含驗證技能，可讓您在從Adobe Analytics�
 
 您不需要知道實作的架構方式。 此技能會自動偵測您的Customer Journey Analytics實作是使用Analytics Source Connector，還是Experience Platform Web SDK的新實作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496846/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496866/?captions=chi_hant&learn=on&enablevpops)
 
 ## 開始驗證工作階段
 
