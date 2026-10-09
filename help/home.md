@@ -8,9 +8,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: ee990126b1447f2eb2634761d27358f9d2e4586d
+source-git-commit: 0bdba61cab438bc8e3ad4f7ca04f1df2cd3711b7
 workflow-type: tm+mt
-source-wordcount: '802'
+source-wordcount: '800'
 ht-degree: 15%
 ---
 # CX Enterprise Coworker概觀 {#overview}
@@ -21,7 +21,7 @@ Co-worker是AI支援的團隊成員，可重新構想組織、團隊和個人的
 
 同事聊天可讓團隊使用自然語言自動化Adobe產品工作，透過彈性規劃、可自訂的技能和智慧型執行，快速將想法轉換為動作。
 
-## 同事Chat Essentials
+## 同事聊天要點
 
 無論您是剛開始使用還是想加深您的專業知識，這些播放清單都提供了CX Enterprise Coworker Chat的引導式介紹。 瞭解如何導覽主要功能、製作有效提示，並檢視同事如何協助團隊在Adobe Experience Cloud產品中更有效率的實際範例。
 
@@ -89,7 +89,7 @@ CARDS
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-## Experience League LIVE：同事解除鎖定系列
+## Experience League LIVE：同事已解除鎖定系列
 
 加入CX Enterprise Coworker Unlocked系列，瞭解組織如何使用AI支援的協助來簡化客戶體驗工作。 每個會議都會探討實用的使用案例、即時示範和專家指引，協助團隊加速工作流程、發掘見解並自動化Adobe Experience Cloud應用程式的任務。 瀏覽先前的集數或報名參加即將到來的活動，以瞭解提高生產力及促進客戶體驗成果的新方式。
 
@@ -155,9 +155,9 @@ CARDS
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-## 同事團隊（前身為行銷活動）
+## 同事行銷活動
 
-「同事團隊」是小型敏捷團隊的範本化功能，可供他們站起來執行行銷活動。
+「同事行銷活動」是小型敏捷團隊的範本化功能，可供他們站起來執行行銷活動。
 
 * [概覽](./campaigns/overview.md)
 * [建立電子郵件行銷活動](./campaigns/create-an-email-campaign.md)
