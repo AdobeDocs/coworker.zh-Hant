@@ -16,7 +16,7 @@ ht-degree: 1%
 
 使用CX Coworker瞭解沙箱中Experience Event資料的價值，並識別可能受益於最佳化的資料。 您可以從廣泛的請求開始，例如要求同事最佳化您的沙箱資料或清除資料集。 Co-worker使用資料管理代理程式來呈現值得調查的資料集、分析資料集的使用主動性、模擬保留期間的影響，並在適當時協助您管理其Data Lake保留政策。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504095?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504105?captions=chi_hant&learn=on)
 
 ## 開始之前 {#before-you-begin}
 
