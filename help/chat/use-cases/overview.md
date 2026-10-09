@@ -7,9 +7,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 2d4922c334bcc2ec93dec46098a9c021623034ad
+source-git-commit: 1071cb1d9d08d89592f14f05ec9e32087ad937f3
 workflow-type: tm+mt
-source-wordcount: '7086'
+source-wordcount: '7196'
 ht-degree: 6%
 ---
 # 同事聊天使用案例 {#use-cases}
@@ -149,6 +149,7 @@ Co-worker Chat可讓您使用自然語言來查詢、分析和處理您的[!DNL 
 | [分析歷程流失](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | 識別客戶在歷程中下降的位置和原因，並偵測導致脫離參與的行為模式 | `journey-analyze-fallout` | Adobe Journey Optimizer (AJO) | 「我的重新參與歷程中哪裡有人員離開？」 <br> 「歷程X中的哪些節點流失率最高？」 |
 | [分析自訂動作錯誤](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | 識別歷程中自訂動作失敗或錯誤率飆升的時間，並在失敗升級為更廣泛的中斷之前診斷根本原因 | `journey-analyze-custom-action` | Adobe Journey Optimizer (AJO) | 「為什麼自訂動作會在我的熟客註冊歷程中失敗？」 <br> 「在我的歡迎歷程中，顯示自訂動作ExternalPush的錯誤率。」 |
 | [偵測歷程異常](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | 偵測並確認歷程登入、退出或傳送計數時依據歷史基準線的非預期尖峰、下降或平線，並找出可能的根本原因 | `journey-analyze-anomaly` | Adobe Journey Optimizer (AJO) | 「昨天為什麼我的歡迎歷程的專案會中斷？」 <br> 「本週購物車放棄歷程的退出次數尖峰嗎？」 |
+| [業務績效分析](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | 分析歷程績效並找出績效不佳歷程的具體最佳化機會。 呈現趨勢、瓶頸及導致結果降低的可能原因，讓您提升參與度和轉換率。 獲得可操作的建議，以根據業務績效見解調整歷程設計、目標定位或訊息策略。 | 歷程分析 | Adobe Journey Optimizer (AJO) | 「分析歷程[歷程名稱]的效能並建議最佳化。」<br> 「為什麼歷程[歷程名稱]與上個月相比表現不佳？」 <br> 「我應該進行哪些變更來提高歷程[歷程名稱]的效能？」 <br> 「歷程[歷程名稱]的哪些部分可能會限制轉換或參與？」 |
 | [比較歷程版本](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | 比較兩個歷程版本，並檢閱節點、連線和歷程層級屬性變更的結構化差異 | `journey-analyze-version-comparison` | Adobe Journey Optimizer (AJO) | 「比較我的歡迎歷程的版本2和3」<br>「這兩個歷程版本之間有何變更？」 |
 
 **相關資訊**
