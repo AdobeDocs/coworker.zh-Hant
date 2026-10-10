@@ -18,4 +18,4 @@ ht-degree: 0%
 
 瞭解CX Enterprise Coworker如何使用Adobe Target簡化Adobe Experience Manager (AEM)網站上的實驗。 從業務目標開始，瞭解Co-worker如何協助開發實驗策略、在Adobe Target中建立A/B測試、疑難排解傳送問題，以及在AEM as a Cloud Service網站上成功執行多個體驗。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504249/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504258/?captions=chi_hant&learn=on&enablevpops)

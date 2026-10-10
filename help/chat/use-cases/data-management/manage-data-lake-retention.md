@@ -1,7 +1,13 @@
 ---
 title: 管理資料湖保留
 description: 瞭解如何使用CX Coworker來識別值得最佳化的體驗事件資料、分析資料集使用和保留影響，以及管理資料湖保留政策。
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+role: Developer
+level: Beginner, Intermediate
+doc-type: Feature Video
+duration: 160
+last-substantial-update: 2026-10-09
+jira: KT-22762
+source-git-commit: 7ae11e6865d847c6a3c316ffa26b2e4303f7e40d
 workflow-type: tm+mt
 source-wordcount: '1316'
 ht-degree: 1%
@@ -9,6 +15,8 @@ ht-degree: 1%
 # 管理資料湖保留
 
 使用CX Coworker瞭解沙箱中Experience Event資料的價值，並識別可能受益於最佳化的資料。 您可以從廣泛的請求開始，例如要求同事最佳化您的沙箱資料或清除資料集。 Co-worker使用資料管理代理程式來呈現值得調查的資料集、分析資料集的使用主動性、模擬保留期間的影響，並在適當時協助您管理其Data Lake保留政策。
+
+>[!VIDEO](https://video.tv.adobe.com/v/3504105?captions=chi_hant&learn=on)
 
 ## 開始之前 {#before-you-begin}
 
