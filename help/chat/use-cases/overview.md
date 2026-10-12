@@ -7,9 +7,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: cd9cf5d6dd6e24274ea814a87509a427b9cfd394
+source-git-commit: fca51b8777f14bbfa1469c66f04e297867a96de6
 workflow-type: tm+mt
-source-wordcount: '7135'
+source-wordcount: '7646'
 ht-degree: 6%
 ---
 # 同事聊天使用案例 {#use-cases}
@@ -221,6 +221,27 @@ Co-worker Chat可讓您使用自然語言來查詢、分析和處理您的[!DNL 
 **相關資訊**
 
 * [內容管理的同事](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/content-management/content-management-coworker-skills){target="_blank"}提供Adobe Journey Optimizer內容管理工具和可用技能的詳細資訊。
+
+## Campaign v8
+
+在Adobe Campaign v8中，使用「同事聊天」來尋找及更新傳遞、管理資產、探索資料模型，以及檢查、驗證及疑難排解工作流程。
+
+| 使用案例 | 說明 | 技能 | 應用程式 | 範例提示 |
+| --- | --- | --- | --- | --- |
+| 尋找及檢查傳遞 | 依名稱、資料夾、頻道或狀態搜尋傳遞，擷取傳遞的完整詳細資料，包括頻道內容和SMTP設定、瀏覽可重複使用的電子郵件內容範本，以及讀取內建傳遞報告 | `find_delivery`, `describe_delivery`, `find_content_template`, `read_delivery_indicator` | Adobe Campaign v8 | 「尋找名稱含有&#39;newsletter&#39;的電子郵件內容範本。」 · 「顯示電子郵件傳遞草稿。」 · 「本月有多少傳遞失敗？」 · 「此傳遞使用哪個主旨和寄件者？」 |
+| 建立和更新傳遞 | 從頻道範本和具名內容建立傳遞或範本，並編輯現有傳遞的標籤和每個頻道訊息內容 | `create_delivery`, `update_delivery` | Adobe Campaign v8 | 「使用我的Newsletter內容範本建立電子郵件。」 · 「變更夏季啟動電子郵件主題。」 · 「取代此傳遞的HTML內容。」 |
+| 準備傳遞而不傳送 | 解決目標並呈現個人化而不廣播傳遞 | `prepare_delivery` | Adobe Campaign v8 | 「準備夏季啟動傳遞。」 · 「對此傳送執行準備，但請勿傳送。」 |
+| 設定電子郵件SMTP和網頁分析設定 | 設定電子郵件傳遞的SMTP標題設定，以及網站分析帳戶和追蹤標籤 | `update_email_smtp_config`, `update_email_web_analytics` | Adobe Campaign v8 |  |
+| 管理資產和附件 | 將檔案上傳為資產、讀取其中繼資料和公用URL、將私人資產設為公用，以及將資產連結至作為實際附件的傳送 | `upload_asset`, `get_asset_url`, `publish_asset`, `attach_asset` | Adobe Campaign v8 | 「上傳此影像，以便用於我的電子郵件。」 · 「給我所上傳影像的公開URL。」 · 「將我上傳的PDF附加至夏季Launch傳遞。」 |
+| 檢查行銷活動 | 搜尋行銷活動和範本，並取得行銷活動的完整詳細資料，包括其子工作流程和傳遞 | `find_campaign`, `describe_campaign` | Adobe Campaign v8 |  |
+| 瞭解及驗證工作流程 | 搜尋工作流程、摘要工作流程或深入研究其活動和傳送接觸點，並以靜態方式驗證工作流程定義 | `find_workflow`, `describe_workflow`, `validate_workflow` | Adobe Campaign v8 | 「說明歡迎工作流程。」 · 「此工作流程使用哪些傳送？」 · 「驗證歡迎工作流程」。 |
+| 控制工作流程 | 透過生命週期命令（啟動、暫停、停止、恢復或喚醒）驅動工作流程，並在工作流程內重新設定傳送活動 | `control_workflow`, `update_workflow_delivery_activity` | Adobe Campaign v8 | 「開始歡迎工作流程。」 · 「暫停此工作流程。」 |
+| 疑難排解工作流程 | 一次讀取許多工作流程的狀況，當工作流程執行時，其執行日誌、其目前任務及其擱置的引擎命令 | `read_workflow_health`, `read_workflow_history`, `read_workflow_logs`, `read_workflow_tasks`, `read_workflow_jobs` | Adobe Campaign v8 |  |
+| 探索及擴充資料模型 | 瀏覽綱要目錄、檢查綱要的結構、從任何綱要讀取資料列、建立新綱要，以及建立或更改其實體SQL表格 | `find_schema`, `describe_schema`, `read_schema_entity`, `create_schema`, `update_database_structure` | Adobe Campaign v8 | 「尋找與收件者相關的結構描述。」 · 「說明收件者綱要」。 · 「建立忠誠度偏好設定的自訂結構。」 |
+
+**相關資訊**
+
+* [開始使用Adobe Campaign](https://experienceleague.adobe.com/zh-hant/docs/campaign/campaign-v8/new/get-started){target="_blank"}提供Adobe Campaign v8的概述。
 
 ## 最佳化
 
