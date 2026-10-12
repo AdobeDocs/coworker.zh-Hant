@@ -19,8 +19,8 @@ Co-worker是AI支援的團隊成員，可重新構想組織、團隊和個人的
 
 同事透過三種體驗提供：
 
-**[同事[!UICONTROL 聊天]](./chat/overview.md)：** _[!UICONTROL 聊天]_功能可讓您使用自然語言處理跨Adobe應用程式的複雜請求、深入分析、內容產生和動作。
-**[同事[!UICONTROL 行銷活動]](./campaigns/overview.md)：** _[!UICONTROL 行銷活動]_的設計目的是讓敏捷行銷團隊從行銷活動目標朝著協調的行銷活動執行。
+**[同事[!UICONTROL 聊天]](./chat/overview.md)：** _[!UICONTROL 聊天]_&#x200B;功能可讓您使用自然語言處理跨Adobe應用程式的複雜請求、深入分析、內容產生和動作。
+**[同事[!UICONTROL 行銷活動]](./campaigns/overview.md)：** _[!UICONTROL 行銷活動]_&#x200B;的設計目的是讓敏捷行銷團隊從行銷活動目標朝著協調的行銷活動執行。
 **同事[!UICONTROL 專案] （即將推出）：** _[!UICONTROL 專案]_&#x200B;是專為執行時間較長、跨職能的企業工作流程所設計，其中團隊會定義程式、核准及同事的自主性等級。
 
 ## [!DNL Coworker]的Essentials [!UICONTROL 聊天]
