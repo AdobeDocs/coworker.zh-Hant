@@ -7,14 +7,14 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
+source-git-commit: 60669850e4005be01c31d9f7818d1c4ad3ed8f3a
 workflow-type: tm+mt
 source-wordcount: '2094'
 ht-degree: 4%
 ---
 # 開始使用同事聊天分析資料
 
-設定Adobe CX Enterprise Coworker Chat以分析您的Customer Journey Analytics資料檢視或Adobe Analytics報表套裝，然後遵循運作範例。 如需使用同事聊天所能進行的概述，包括使用案例、技巧和最佳實務，請參閱[使用同事聊天分析資料](/help/chat/use-cases/data-insights/analytics-overview-v2.md)。
+設定Adobe CX Enterprise Coworker Chat以分析您的Customer Journey Analytics資料檢視或Adobe Analytics報表套裝，然後遵循運作範例。 如需使用同事聊天所能進行的概述，包括使用案例、技巧和最佳實務，請參閱[使用同事聊天分析資料](/help/chat/use-cases/data-insights/analytics-overview.md)。
 
 開始之前，請先瞭解同事聊天介面和設定選項，然後確定同事已連線至Customer Journey Analytics或Adobe Analytics以及相關資料檢視或報表套裝。
 
@@ -331,4 +331,4 @@ Co-worker建立視覺效果後，您可以在Analysis Workspace中開啟該視�
 
 ## 後續步驟
 
-如需更多使用案例、「同事聊天」用於分析資料的技能，以及撰寫提示的最佳實務，請參閱[使用同事聊天分析資料](/help/chat/use-cases/data-insights/analytics-overview-v2.md)。
+如需更多使用案例、「同事聊天」用於分析資料的技能，以及撰寫提示的最佳實務，請參閱[使用同事聊天分析資料](/help/chat/use-cases/data-insights/analytics-overview.md)。
