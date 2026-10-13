@@ -8,22 +8,24 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 0bdba61cab438bc8e3ad4f7ca04f1df2cd3711b7
+source-git-commit: 662ac793f7838834f84cddc5d78859dae97930aa
 workflow-type: tm+mt
-source-wordcount: '800'
-ht-degree: 15%
+source-wordcount: '834'
+ht-degree: 14%
 ---
 # CX Enterprise Coworker概觀 {#overview}
 
 Co-worker是AI支援的團隊成員，可重新構想組織、團隊和個人的工作性質。 同事可以優雅地自動化客戶體驗和行銷工作流程，讓組織可以專注於實現業務目標和轉變成果，而非協調工作。 Co-worker作為代理引擎，採用創新的方式自動化業務流程。 藉由將資料、智慧、共同作業和代理程式技能執行與內建的企業情境、治理和人為監督整合在一起，它可提升AI模型效能和準確性。
 
-## 同事聊天
+同事透過三種體驗提供：
 
-同事聊天可讓團隊使用自然語言自動化Adobe產品工作，透過彈性規劃、可自訂的技能和智慧型執行，快速將想法轉換為動作。
+* **[同事[!UICONTROL 聊天]](./chat/overview.md)：**&#x200B;在Adobe應用程式間使用自然語言處理複雜的請求、深入分析、內容產生和動作。
+* **[同事[!UICONTROL 行銷活動]](./campaigns/overview.md)：**&#x200B;旨在讓敏捷行銷團隊從行銷活動目標朝著協調的行銷活動執行。
+* **同事[!UICONTROL 專案] （即將推出）：**&#x200B;專為長時間執行、跨職能的企業工作流程所設計，其中團隊會定義程式、核准及同事的自主性等級。
 
-## 同事聊天要點
+## [!DNL Coworker]的Essentials [!UICONTROL 聊天]
 
-無論您是剛開始使用還是想加深您的專業知識，這些播放清單都提供了CX Enterprise Coworker Chat的引導式介紹。 瞭解如何導覽主要功能、製作有效提示，並檢視同事如何協助團隊在Adobe Experience Cloud產品中更有效率的實際範例。
+無論您是剛開始使用或是想要加深您的專業知識，這些播放清單都提供在[!DNL Coworker]中使用[!UICONTROL 聊天]功能的引導式簡介。 瞭解如何導覽主要功能、製作有效提示，並檢視同事如何協助團隊在Adobe Experience Cloud產品中更有效率的實際範例。
 
 <!--
 CARDS
