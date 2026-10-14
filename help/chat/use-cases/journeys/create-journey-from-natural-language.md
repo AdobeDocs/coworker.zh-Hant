@@ -14,9 +14,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: bc2c2d0bb2f73ffb9018325f812c9701c90779e1
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '128'
 ht-degree: 1%
 ---
 
@@ -26,9 +26,9 @@ ht-degree: 1%
  
 透過自動化初始設定程式，團隊可以花更少的時間從頭開始建立歷程，而花更多時間改善客戶體驗和業務成果。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496885/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496867/?learn=on&enablevpops)
 
 ## 另請參閱
 
-- [Journey Agent](https://experienceleague.adobe.com/zh-hant/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create)，基礎人工智慧功能，可在同事聊天中建立歷程。
-- [更多同事聊天使用案例](../overview.md#journeys)
+- [Journey Agent](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create)，基礎人工智慧功能，可在同事聊天中建立歷程。
+- [更多同事聊天工作流程](../workflows.md#journeys)

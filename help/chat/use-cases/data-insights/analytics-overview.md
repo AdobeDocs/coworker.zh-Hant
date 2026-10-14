@@ -5,7 +5,7 @@ product_v2:
   internal-label: CX Enterprise Coworker
 feature_v2:
   internal-label: CX Enterprise Coworker
-source-git-commit: 1406a6258a8f7ad3a7e5268a01c8ab2b449505b6
+source-git-commit: b6a05e2fdc16830fd69ac1b5ea68ed1d4c5d5c5f
 workflow-type: tm+mt
 source-wordcount: '1915'
 ht-degree: 1%
@@ -67,7 +67,7 @@ Co-worker Chat可以執行進階資料分析，而之前僅能在Analysis Worksp
 | 使用案例 | 函數 |
 | --- | --- |
 | [比較效能](#skills-and-limitations) | 並排比較不同管道、時段或區段的量度。<p>**範例提示：** 「按管道月份比較收入」</p><p>如需詳細資訊，請參閱[技能與限制](#skills-and-limitations)。</p> |
-| [分析營運趨勢與原因](/help/chat/use-cases/overview.md#data-insights) | 查詢對象、資料集和歷程的歷史時間序列資料，並識別導致變更的原因。<p>**範例提示：** 「顯示過去90天的對象人數趨勢」</p><p>如需詳細資訊，請參閱同事聊天使用案例中的[資料深入分析](/help/chat/use-cases/overview.md#data-insights)。</p> |
+| [分析營運趨勢與原因](/help/chat/use-cases/workflows.md#data-insights) | 查詢對象、資料集和歷程的歷史時間序列資料，並識別導致變更的原因。<p>**範例提示：** 「顯示過去90天的對象人數趨勢」</p><p>如需詳細資訊，請參閱同事聊天使用案例中的[資料深入分析](/help/chat/use-cases/workflows.md#data-insights)。</p> |
 
 ### 業務績效
 
@@ -86,9 +86,9 @@ Co-worker Chat可以執行進階資料分析，而之前僅能在Analysis Worksp
 
 | 使用案例 | 函數 |
 | --- | --- |
-| [測量行銷活動績效](/help/chat/use-cases/overview.md#data-insights) | 瞭解特定期間內的行銷活動、管道和Web屬性的執行方式。<p>**範例提示：** 「上個月我們的Acrobat網路行銷活動的表現如何？」</p><p>如需詳細資訊，請參閱同事聊天使用案例中的[資料深入分析](/help/chat/use-cases/overview.md#data-insights)。</p> |
+| [測量行銷活動績效](/help/chat/use-cases/workflows.md#data-insights) | 瞭解特定期間內的行銷活動、管道和Web屬性的執行方式。<p>**範例提示：** 「上個月我們的Acrobat網路行銷活動的表現如何？」</p><p>如需詳細資訊，請參閱同事聊天使用案例中的[資料深入分析](/help/chat/use-cases/workflows.md#data-insights)。</p> |
 
-如需關於這些使用案例的詳細資訊，包括他們使用的技巧和更多範例提示，請參閱[資料深入分析使用案例](/help/chat/use-cases/overview.md#data-insights)。
+如需關於這些使用案例的詳細資訊，包括他們使用的技巧和更多範例提示，請參閱[資料深入分析使用案例](/help/chat/use-cases/workflows.md#data-insights)。
 
 ## 技能和限制
 

@@ -7,7 +7,7 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: ee66c1cc95ef1dd8c5e45c1fcb699547e63b9c8a
+source-git-commit: b6a05e2fdc16830fd69ac1b5ea68ed1d4c5d5c5f
 workflow-type: tm+mt
 source-wordcount: '781'
 ht-degree: 1%
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->目前，您只能連線至同事行銷活動支援的整合。 如果您有任何現有的Adobe Enterprise應用程式（可儲存對象或建立歷程），我們建議您改用[CX Enterprise Coworker](/help/chat/use-cases/overview.md)。
+>目前，您只能連線至同事行銷活動支援的整合。 如果您有任何現有的Adobe Enterprise應用程式（可儲存對象或建立歷程），我們建議您改用[CX Enterprise Coworker](/help/chat/use-cases/workflows.md)。
 
 ## 使用CO-STAR架構
 
