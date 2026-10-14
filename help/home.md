@@ -7,16 +7,20 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: f0ca8fc373cae1697ac28a4f555e8c096ff6fbca
+source-git-commit: 8cefb410e43dfb295d72ff5284348fdfb604093f
 workflow-type: tm+mt
-source-wordcount: '843'
-ht-degree: 14%
+source-wordcount: '863'
+ht-degree: 18%
 ---
-# CX Enterprise Coworker概觀 {#overview}
+# CX Enterprise Coworker指南 {#overview}
 
-Co-worker是AI支援的團隊成員，可重新構想組織、團隊和個人的工作性質。 同事可以優雅地自動化客戶體驗和行銷工作流程，讓組織可以專注於實現業務目標和轉變成果，而非協調工作。 Co-worker作為代理引擎，採用創新的方式自動化業務流程。 藉由將資料、智慧、共同作業和代理程式技能執行與內建的企業情境、治理和人為監督整合在一起，它可提升AI模型效能和準確性。
+[!DNL Coworker]是Adobe的代理AI團隊成員，負責客戶體驗和行銷工作。 其用途不僅僅是回答問題或建議動作：它可以跨Adobe和其他企業系統協調並執行複雜的多步驟行銷工作流程，同時透過定義的核准和治理讓您保持控制。 深入瞭解[Adobe for Business](https://business.adobe.com/tw/products/cx-enterprise-coworker.html)。
 
-同事透過三種體驗提供：
+## 如何使用[!DNL Coworker]
+
+使用[!DNL Coworker]，您可以建立及驗證對象、從目標建立客戶歷程、分析跨頻道效能、診斷行銷活動效能變更的原因、執行健康狀態檢查、維護永遠開啟的方案、處理作業例外狀況，以及協調行銷活動啟動。
+
+[!DNL Coworker]透過三個體驗傳遞：
 
 * **[同事[!UICONTROL 聊天]](./chat/overview.md)：**&#x200B;在Adobe應用程式間使用自然語言處理複雜的請求、深入分析、內容產生和動作。
 * **[同事[!UICONTROL 行銷活動]](./campaigns/overview.md)：**&#x200B;旨在讓敏捷行銷團隊從行銷活動目標朝著協調的行銷活動執行。
@@ -103,7 +107,7 @@ CARDS
 *  https://experienceleague.adobe.com/en/on-demand-events/exl-live-episode-10-08-26
   {title = Audience and Journey B2C capabilities in Coworker}
   {description = See how Coworker can execute end-to-end workflows for customer experience orchestration, increasing productivity and simplifying otherwise technical or complex tasks.}
-  {cta = Register}
+  {cta = Watch}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -148,7 +152,7 @@ CARDS
                     <p class="is-size-6">瞭解同事如何執行端對端工作流程，以協調客戶體驗，提高生產力並簡化其他技術性或複雜的工作。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/on-demand-events/exl-live-episode-10-08-26" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">註冊</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
                 </a>
             </div>
         </div>

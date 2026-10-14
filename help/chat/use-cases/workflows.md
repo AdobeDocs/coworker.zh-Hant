@@ -1,30 +1,30 @@
 ---
-description: 瀏覽同事聊天使用案例和範例提示，依資料深入分析、受眾、歷程和平台操作的區域進行整理。
-title: 同事聊天使用案例
+description: 瀏覽同事聊天工作流程和範例提示，依資料深入分析、受眾、歷程和平台操作的區域進行整理。
+title: 同事聊天工作流程
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: fca51b8777f14bbfa1469c66f04e297867a96de6
+source-git-commit: 0ccc8faed069b726a28a39042047d1e66200181e
 workflow-type: tm+mt
-source-wordcount: '7646'
+source-wordcount: '7618'
 ht-degree: 6%
 ---
-# 同事聊天使用案例 {#use-cases}
+# 同事聊天工作流程 {#use-cases}
 
-Co-worker Chat可讓您使用自然語言來查詢、分析和處理您的[!DNL Experience Platform]資料，而不需手動導覽多個UI或撰寫查詢。 此頁面提供從業人員最仰賴的使用案例目錄，並按工作區域整理：資料深入分析、對象、歷程、忠誠度、基本元素和沙箱工具。 每個專案都包含它叫用的技能、它使用的應用程式，以及範例提示，您可以複製、調整您自己的資料，並透過對話調整內容。
+Co-worker Chat可讓您使用自然語言來查詢、分析和處理您的[!DNL Experience Platform]資料，而不需手動導覽多個UI或撰寫查詢。 此頁面將從業人員最仰賴的工作流程分類，依工作區域組織：資料深入分析、對象、歷程、忠誠度、基本元素和沙箱工具。 每個專案都包含它叫用的技能、它使用的應用程式，以及範例提示，您可以複製、調整您自己的資料，並透過對話調整內容。
 
 ## 品牌體驗
 
-| 使用案例 | 說明 | 技能 | 應用程式 | 範例提示 |
+| 工作流程 | 說明 | 技能 | 應用程式 | 範例提示 |
 | --- | --- | --- | --- | --- |
 | [更新AEM頁面](brand-visibility/author-web-pages.md) | 執行更新、移除、取代或新增內容元素等動作，讓體驗保持精確且最新。 輸入內容可以是自然語言或視覺化註解，例如PDF或熒幕擷圖。 | `aem-sites-pages-update` | Adobe Experience Manager (AEM) - AEM Sites | 在&lt;URL>將標題更新為Hello World<br><br>在&lt;URL>上將「參加我們的咖啡測驗」按鈕變更為更吸引人的版本<br><br>根據附加的<br><br>在&lt;URL>上更新&lt;URL>我想在頁面底部新增新的Teaser區段，說明我們在8月份進行的促銷活動，購買咖啡機並免費取得2袋咖啡。 同時尋找喝咖啡的朋友的影像，並在Teaser中使用 |
 | 大量更新AEM | 同時跨多個頁面執行大量動作，例如移除、取代或新增內容元素，以保持體驗正確且最新。 | `aem-sites-pages-bulkreplace` | Adobe Experience Manager (AEM) - AEM Sites | 在&lt;aem path>上，將包含複製「MyBarista\」的所有頁面更新為「BrewPass」 |
 | 從圖表移至視覺內容片段 | 使用自然語言，直接從Figma將設計匯入Adobe Experience Manager。 此技能會自動建立所需的內容模型、內容片段、資產和視覺效果範本，讓業務使用者在數分鐘內從設計移至網頁就緒內容，無需手動設定。 | `aem-sites-visualcontentfragments-create` | Adobe Experience Manager (AEM) - AEM Sites | 從&lt;Figma_URL>匯入 |
 
-| 使用案例 | 說明 | 技能 | 應用程式 | 範例提示 |
+| 工作流程 | 說明 | 技能 | 應用程式 | 範例提示 |
 | --- | --- | --- | --- | --- |
 | 建立表單 | 從純語言說明、附加的簡報、影像或PDF產生新的調適型表單 | `aem-forms-adaptiveform-create` | Adobe Experience Manager (AEM) - AEM Forms | 「建立員工入門表單」<br><br>「使用附加的簡報（影像或pdf）建立表單」<br><br>「建立&lt;form type>最適化表單」 |
 | 編輯/更新表單 | 修改現有表單 — 新增/編輯欄位、調整簡單版面、設定提交動作，或套用附加准則檔案的變更 | `aem-forms-adaptiveform-edit` | Adobe Experience Manager (AEM) - AEM Forms | 「在名字欄位下方新增中間名欄位」<br><br>「將名字和姓氏欄位放在2欄佈局中，50/50」<br><br>「設定表單以傳送資料到REST端點」<br><br>「更新此表單以符合附加的准則檔案」<br><br>「在&lt;現有欄位>欄位下方新增&lt;欄位名稱>欄位」 |
@@ -39,7 +39,7 @@ Co-worker Chat可讓您使用自然語言來查詢、分析和處理您的[!DNL 
 
 ### 開發
 
-| 使用案例 | 說明 | 技能 | 應用程式 | 範例提示 |
+| 工作流程 | 說明 | 技能 | 應用程式 | 範例提示 |
 | --- | --- | --- | --- | --- |
 | 管理Cloud Manager管道 | 建立、執行和監視AEM Cloud Manager管道，包括記錄、成品、變數和設定 | `cloud-manager-pipeline-management` | Adobe Experience Manager (AEM) | 「列出方案12345的管道」<br><br>「我最近管道的狀態如何？」 |
 | 管理Cloud Manager環境 | 建立、設定和維護AEM Cloud Manager環境，包括RDE、環境變數、記錄檔和備份 | `cloud-manager-environment-management` | Adobe Experience Manager (AEM) | 列出我的計畫12345環境&quot;<br><br>&quot;重設我的RDE&quot; |
@@ -52,7 +52,7 @@ Co-worker Chat可讓您使用自然語言來查詢、分析和處理您的[!DNL 
 
 ### 上線
 
-| 使用案例 | 說明 | 技能 | 應用程式 | 範例提示 |
+| 工作流程 | 說明 | 技能 | 應用程式 | 範例提示 |
 | --- | --- | --- | --- | --- |
 | 引導式端對端上線 | 協調完整的入門生命週期、存放庫選擇、委派到資料夾、標籤、中繼資料、匯入和搜尋子技能（如果您不知道您需要的特定入門任務）。 | `aem-onboarding-workflow` | Adobe Experience Manager (AEM) - AEM Assets | 「將我們的團隊加入AEM Assets」<br><br>「帶我瞭解AEM DAM加入」 |
 | 設計和建立資料夾階層 | 根據業務需求或CSV輸入，在AEM Assets （在`/content/dam`下）中建議並建立可擴充的資料夾結構。 | `aem-folder-management` | Adobe Experience Manager (AEM) - AEM Assets | 「建議我們生活方式行銷資產的資料夾結構」<br><br>「根據此CSV檔案建立資料夾」 |
@@ -67,7 +67,7 @@ Co-worker Chat可讓您使用自然語言來查詢、分析和處理您的[!DNL 
 
 ### 內容探索
 
-| 使用案例 | 說明 | 技能 | 應用程式 | 範例提示 |
+| 工作流程 | 說明 | 技能 | 應用程式 | 範例提示 |
 | --- | --- | --- | --- | --- |
 | 依語意主題搜尋 | 使用AI支援的語意比對功能，依概念、心情或視覺主題尋找資產。 | `aem-assets-discovery` | Adobe Experience Manager (AEM) - AEM Assets | 「尋找我晨間咖啡生活方式影像」 |
 | 依自訂中繼資料搜尋 | 依自訂中繼資料欄位篩選資產（例如Coffee Blend、Brand、Roast Level）。 | `aem-assets-discovery` | Adobe Experience Manager (AEM) - AEM Assets | 「尋找`Coffee Blend`為`Morning Muse`的資產」<br><br>「取得授權未過期的資產」<br><br>「尋找未設定行銷活動名稱的資產（屬性必須針對適當結果編制索引）。」 |
@@ -80,7 +80,7 @@ Co-worker Chat可讓您使用自然語言來查詢、分析和處理您的[!DNL 
 
 ### 內容最佳化
 
-| 使用案例 | 說明 | 技能 | 應用程式 | 範例提示 |
+| 工作流程 | 說明 | 技能 | 應用程式 | 範例提示 |
 | --- | --- | --- | --- | --- |
 | 高解析度轉譯建立和通道最佳化的轉譯 | 以指定的解析度和品質等級產生資產的新轉譯，讓您無需手動編輯即可輕鬆準備通道就緒的變數。 您也可以根據平台特定需求量身打造轉譯，例如Instagram故事，確保資產自動符合格式、比例和品質准則。 | `aem-assets-content-optimisation` | Adobe Experience Manager (AEM) - AEM Assets | 「使用`80% quality`建立`2000px`轉譯為`JPEG`」<br><br>「為Instagram故事建立轉譯」 |
 | 品牌覆蓋圖與複合圖產生 | 透過精確放置將促銷圖形、覆蓋圖或徽章套用至現有資產，可支援快速建立適用於行銷活動的複合專案。 | `aem-assets-content-optimisation` | Adobe Experience Manager (AEM) - AEM Assets | 「將含有`30%`折扣圖片的影像覆蓋在促銷橫幅上，從中心放置`100px`」 |
@@ -92,7 +92,7 @@ Co-worker Chat可讓您使用自然語言來查詢、分析和處理您的[!DNL 
 
 ## 品牌控管
 
-| 使用案例 | 說明 | 技能 | 應用程式 | 範例提示 |
+| 工作流程 | 說明 | 技能 | 應用程式 | 範例提示 |
 | --- | --- | --- | --- | --- |
 | 指引和區段查閱 | 擷取詳細的品牌指引，依區段、市場或類別設定範圍 | enterprise-context | Adobe Experience Manager (AEM) | 「這個品牌的聲調准則是什麼？」<br>「列出健康情況垂直領域使用的索賠類別」 |
 | 根據品牌准則評估內容 | 根據已設定的品牌檢查評估已發佈/編寫的頁面、文字區塊或影像 | aem治理 | Adobe Experience Manager (AEM) | 「根據SecurBank准則評估此登陸頁面」<br>「此標語是否通過我們的語調檢查？」 |
@@ -104,7 +104,7 @@ Co-worker Chat可讓您使用自然語言來查詢、分析和處理您的[!DNL 
 
 ## 資料深入分析
 
-| 使用案例 | 說明 | 技能 | 應用程式 | 範例提示 |
+| 工作流程 | 說明 | 技能 | 應用程式 | 範例提示 |
 | --- | --- | --- | --- | --- |
 | [提取CJA和AA報告與量度](data-insights/analytics-chat.md) | 即時查詢CJA或AA以提取量度、維度、區段、資料檢視和報告套裝 | `cja`, `aa` | Customer Journey Analytics (CJA)、Adobe Analytics (AA) | 「顯示過去30天的頁面檢視」 <br>「列出主要資料檢視中的排名最前的區段」 |
 | 比較分析 | 並排比較不同管道、時段或區段的量度 | `cja-root-cause-analysis`, `cja`, `aa-root-cause-analysis`, `aa`, `dx-api`, `knowledge-graph` | Customer Journey Analytics (CJA)、Adobe Analytics (AA) | 「依管道月份和月份比較收入」 <br>「本季行動與案頭轉換看起來如何？」 |
@@ -120,7 +120,7 @@ Co-worker Chat可讓您使用自然語言來查詢、分析和處理您的[!DNL 
 
 ## 客群
 
-| 使用案例 | 說明 | 技能 | 應用程式 | 範例提示 |
+| 工作流程 | 說明 | 技能 | 應用程式 | 範例提示 |
 | --- | --- | --- | --- | --- |
 | [從自然語言建立對象](audiences/create-audience-from-natural-language.md) | 透過每個階段的使用者核准，策劃逐步的受眾建立 | `audience-creation-flow` | Real-Time CDP (RTCDP) | 「建立過去30天內購買的使用者受眾」<br>「為加州的高價值忠誠會員建立區段」 |
 | 建置PQL定義 | 從XDM屬性、行為事件或現有對象中組合對象定義；支援彙總和時間範圍 | `segment-definition-assembly` | Real-Time CDP (RTCDP) | 「為檢視3個以上產品但未購買的使用者建立PQL」 <br>「為我的事件條件新增7天時段」 |
@@ -132,7 +132,7 @@ Co-worker Chat可讓您使用自然語言來查詢、分析和處理您的[!DNL 
 
 ## 歷程
 
-| 使用案例 | 說明 | 技能 | 應用程式 | 範例提示 |
+| 工作流程 | 說明 | 技能 | 應用程式 | 範例提示 |
 | --- | --- | --- | --- | --- |
 | [從自然語言建立歷程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-create){target="_blank"} | 透過文字提示或上傳的影像/流程圖，在AJO中協調歷程建立 | `journey-create` | Adobe Journey Optimizer (AJO) | 「建立歡迎歷程，在註冊後傳送電子郵件、等待3天，然後傳送後續追蹤」 <br> 「從這個上傳的流程圖影像建立歷程」 |
 | [分析歷程衝突](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | 偵測使用中歷程之間的對象重疊、排程衝突及重複資料刪除問題 | `journey-analyze-conflict` | Adobe Journey Optimizer (AJO) | 「我的購物車放棄歷程是否與其他歷程衝突？」 <br> 「檢查我作用中歷程之間的受眾重疊」 |
@@ -149,7 +149,7 @@ Co-worker Chat可讓您使用自然語言來查詢、分析和處理您的[!DNL 
 ## Journey Optimizer內容管理
 
 
-| 使用案例 | 說明 | 技能 | 應用程式 | 範例提示 |
+| 工作流程 | 說明 | 技能 | 應用程式 | 範例提示 |
 | --- | --- | --- | --- | --- |
 | [套用品牌指引](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/content-management/content-management-coworker-skills#ce-channel-content){target="_blank"} | 尋找、選取並套用適用於行銷活動語音、文字、影像、術語和法律指引的核准品牌指引。 | `brand-lookup` | Adobe Journey Optimizer (AJO) | 「提取我們Acme品牌的撰寫與視覺化指引。」 |
 | [檢查內容整備](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/content-management/content-management-coworker-skills#ce-channel-content){target="_blank"} | 針對品牌語調、編輯品質、參與度、清晰度和整備程度，審查行銷活動內容。 | `check-content-readiness` | Adobe Journey Optimizer (AJO) | 「此電子郵件副本是否準備好傳送？ 檢查品牌語調、清晰度、協助工具及法規遵循。」 |
@@ -169,7 +169,7 @@ Co-worker Chat可讓您使用自然語言來查詢、分析和處理您的[!DNL 
 
 ## 行銷方案
 
-| 使用案例 | 說明 | 技能 | 應用程式 | 範例提示 |
+| 工作流程 | 說明 | 技能 | 應用程式 | 範例提示 |
 | --- | --- | --- | --- | --- |
 | 建置計畫 | 將現有的方案範本調整至新方案，利用從簡單語言說明或上傳的簡報產生的Smart Campaigns、排程和預留位置電子郵件 | `build-programs` | Adobe Marketo Engage | 「為我們8月產品示範建立網路研討會註冊計畫」<br><br>「建立當潛在客戶點選50分時觸發的計畫」<br><br>「為未作用中的90天潛在客戶建立3封電子郵件的重新參與系列」 |
 | 從簡短的演講中站起程式 | 將純語言簡介或上傳的行銷活動檔案轉換為有效程式：複製最接近的相符範本、保留Smart Campaigns和Token，並更新事件詳細資料。 新的Smart Campaigns保持停用以供您檢閱 | `build-programs` | Adobe Marketo Engage | 「我即將於9月10日在芝加哥舉辦網路研討會。 為我設定程式&quot;<br><br>&quot;從此簡報設定下個月的路演程式並更新活動權杖&quot; |
@@ -178,7 +178,7 @@ Co-worker Chat可讓您使用自然語言來查詢、分析和處理您的[!DNL 
 
 ## 忠誠度
 
-| 使用案例 | 說明 | 技能 | 應用程式 | 範例提示 |
+| 工作流程 | 說明 | 技能 | 應用程式 | 範例提示 |
 | --- | --- | --- | --- | --- |
 | [建立、編輯和管理忠誠度挑戰](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-challenge-management){target="_blank"} | 簡化並加速熟客方案管理 | `loyalty` | Adobe Journey Optimizer (AJO) | 「建立挑戰，鼓勵會員嘗試新的季節性飲品」 <br> 「以最高的會員流失率向我展示忠誠度挑戰。」 |
 | [分析熟客方案績效](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-data-insight){target="_blank"} | 使用自然語言查詢和分析熟客點數、成員層級、贖回和收入量度 | `loyalty-insights` | Adobe Journey Optimizer (AJO) | 「2026年8月期間已授與多少忠誠點數？」 <br> 「顯示2026年8月期間依日劃分的熟客方案總收入。」 |
@@ -193,7 +193,7 @@ Co-worker Chat可讓您使用自然語言來查詢、分析和處理您的[!DNL 
 
 ### 訊息復本
 
-| 使用案例 | 說明 | 技能 | 應用程式 | 範例提示 |
+| 工作流程 | 說明 | 技能 | 應用程式 | 範例提示 |
 | --- | --- | --- | --- | --- |
 | [擷取行銷簡報](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/content-management/content-management-coworker-skills){target="_blank"} | 擷取行銷活動策略並植入創意簡報。 | `capture-marketing-brief` | Adobe Journey Optimizer (AJO) | 「為季節性產品上市建立行銷簡報」 <br> 「將此行銷活動策略化為行銷簡報」 |
 | [擷取創意簡報](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/content-management/content-management-coworker-skills){target="_blank"} | 建構複製執行規格並建立內容計畫矩陣。 | `capture-creative-brief` | Adobe Journey Optimizer (AJO) | 「從這個核准的行銷簡報建立創意簡報」<br>「為我們的電子郵件和簡訊行銷活動建立內容計畫矩陣」 |
@@ -208,7 +208,7 @@ Co-worker Chat可讓您使用自然語言來查詢、分析和處理您的[!DNL 
 
 ### 電子郵件設計
 
-| 使用案例 | 說明 | 技能 | 應用程式 | 範例提示 |
+| 工作流程 | 說明 | 技能 | 應用程式 | 範例提示 |
 | --- | --- | --- | --- | --- |
 | [撰寫電子郵件](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/content-management/content-management-coworker-skills){target="_blank"} | 計畫會從行銷目標和品牌輸入封鎖結構和樣式。 | `compose-email` | Adobe Journey Optimizer (AJO) | 「使用我們的品牌指南規劃產品發佈的電子郵件版面配置」 <br> 「使用主圖區段、產品重點和call to action撰寫歡迎電子郵件」 |
 | [建置電子郵件](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/content-management/content-management-coworker-skills){target="_blank"} | 從版面配置計畫、熒幕擷圖或Figma設計連結建立、調整、編輯及改良電子郵件HTML。 | `build-email` | Adobe Journey Optimizer (AJO) | 「從這個核准的版面配置計畫建置電子郵件HTML」<br>「從這個Figma設計連結建立電子郵件」 |
@@ -226,7 +226,7 @@ Co-worker Chat可讓您使用自然語言來查詢、分析和處理您的[!DNL 
 
 在Adobe Campaign v8中，使用「同事聊天」來尋找及更新傳遞、管理資產、探索資料模型，以及檢查、驗證及疑難排解工作流程。
 
-| 使用案例 | 說明 | 技能 | 應用程式 | 範例提示 |
+| 工作流程 | 說明 | 技能 | 應用程式 | 範例提示 |
 | --- | --- | --- | --- | --- |
 | 尋找及檢查傳遞 | 依名稱、資料夾、頻道或狀態搜尋傳遞，擷取傳遞的完整詳細資料，包括頻道內容和SMTP設定、瀏覽可重複使用的電子郵件內容範本，以及讀取內建傳遞報告 | `find_delivery`, `describe_delivery`, `find_content_template`, `read_delivery_indicator` | Adobe Campaign v8 | 「尋找名稱含有&#39;newsletter&#39;的電子郵件內容範本。」 · 「顯示電子郵件傳遞草稿。」 · 「本月有多少傳遞失敗？」 · 「此傳遞使用哪個主旨和寄件者？」 |
 | 建立和更新傳遞 | 從頻道範本和具名內容建立傳遞或範本，並編輯現有傳遞的標籤和每個頻道訊息內容 | `create_delivery`, `update_delivery` | Adobe Campaign v8 | 「使用我的Newsletter內容範本建立電子郵件。」 · 「變更夏季啟動電子郵件主題。」 · 「取代此傳遞的HTML內容。」 |
@@ -249,7 +249,7 @@ Co-worker Chat可讓您使用自然語言來查詢、分析和處理您的[!DNL 
 
 ### 實驗分析和策略
 
-| 使用案例 | 說明 | 技能 | 應用程式 | 範例提示 |
+| 工作流程 | 說明 | 技能 | 應用程式 | 範例提示 |
 | --- | --- | --- | --- | --- |
 | 瀏覽和探索實驗 | 查詢實驗概述、清單、計數、原始結果、見解和機會 | `experiment-explorer` | ADOBE TARGET / ADOBE JOURNEY OPTIMIZER | 「顯示我的實驗」 · 「列出作用中測試」 · 「正在執行多少個實驗？」 |
 | 分析實驗效能 | 使用量度取得產品組合細目、單一實驗健康狀態檢查、執行摘要和跨實驗報告，可選擇使用CJA資料豐富這些內容 | `experiment-analysis` | ADOBE TARGET / ADOBE JOURNEY OPTIMIZER | 「我的A/B測試表現如何？」 · 「使用CJA量度產生活動報表」 · 「此測試是否正常？」 |
@@ -258,7 +258,7 @@ Co-worker Chat可讓您使用自然語言來查詢、分析和處理您的[!DNL 
 
 ### Target活動和對象
 
-| 使用案例 | 說明 | 技能 | 應用程式 | 範例提示 |
+| 工作流程 | 說明 | 技能 | 應用程式 | 範例提示 |
 | --- | --- | --- | --- | --- |
 | 瀏覽目標實體 | 探索、檢查及計算活動、選件、對象、mbox、屬性、工作區、AT.js設定、回應Token和修訂歷史記錄。 也可以擷取活動強制體驗的熒幕擷圖 | `target-browse` | Adobe Target | 「列出我的A/B測試」 · 「本月啟動多少活動？」 · 「顯示活動12345的詳細資訊」 |
 | 分析活動績效 | 取得單一活動的轉換率、提升度、信賴區間、收入和曝光計數。 僅陳述事實，且永遠不會宣告獲勝者 | `target-analyze` | Adobe Target | 「活動X表現如何？」 · 「顯示轉換提升度」 · 「什麼是結帳測試的AOV？」 |
@@ -274,7 +274,7 @@ Co-worker Chat可讓您使用自然語言來查詢、分析和處理您的[!DNL 
 
 ### 推薦
 
-| 使用案例 | 說明 | 技能 | 應用程式 | 範例提示 |
+| 工作流程 | 說明 | 技能 | 應用程式 | 範例提示 |
 | --- | --- | --- | --- | --- |
 | 瀏覽Recommendations實體 | 瀏覽並檢查Recommendations條件、集合、設計、促銷活動、排除專案、目錄和摘要，以及取得清理建議和目錄屬性指引 | `target-recs` | Adobe Target | 「列出我的Recommendations條件」 · 「我有哪些設計？」 · 「我們可以清理哪些記錄？」 |
 | 診斷Recommendations問題 | 追蹤活動、條件、摘要、集合和設計鏈結，以說明Recommendations為何空白、過時或無法顯示 | `target-recs-diagnose` | Adobe Target | 「我的建議為何空白？」 · 「為什麼我的Recs活動在48小時內一直是『結果未就緒』？」 |
@@ -282,7 +282,7 @@ Co-worker Chat可讓您使用自然語言來查詢、分析和處理您的[!DNL 
 
 ## 基本元素
 
-| 使用案例 | 說明 | 技能 | 應用程式 | 範例提示 |
+| 工作流程 | 說明 | 技能 | 應用程式 | 範例提示 |
 | --- | --- | --- | --- | --- |
 | 產品知識與檔案 | 從官方Adobe檔案中回答操作說明、概念、疑難排解和最佳作法問題 | `product-knowledge` | 所有符合資格的應用程式 | 「如何設定串流目的地？」 <br> 「批次和串流細分之間有何差異？」 |
 | 查詢Experience Platform / Journey Optimizer實體 | 作為平台實體相關問題的主要入口點；視需要路由至KG、欄位探索或API | `operational-insights` | 所有符合資格的應用程式 | 「我有多少資料集？」 <br> 「顯示所有使用中的歷程」<br>「列出我的目的地」 |
@@ -296,20 +296,20 @@ Co-worker Chat可讓您使用自然語言來查詢、分析和處理您的[!DNL 
 
 ## 資料管理
 
-| 使用案例 | 說明 | 技能 | 應用程式 | 範例提示 |
+| 工作流程 | 說明 | 技能 | 應用程式 | 範例提示 |
 | --- | --- | --- | --- | --- |
 | [尋找值得最佳化或清理的資料](./data-management/manage-data-lake-retention.md#find-data-worth-optimizing) | 瞭解您是否可透過將最大、最少使用或忘記的資料集顯示為候選資料集來進行清理或資料湖保留原則，以最佳化您的Experience Event資料 | `List datasets` | Adobe Experience Platform | 「我感覺我的資料可以最佳化」 <br> 「協助我瞭解我的資料的價值」 <br> 「最佳化我的沙箱資料」 <br> 「清理我的沙箱資料集」 |
 | [調查資料集的使用情況並管理其保留](./data-management/manage-data-lake-retention.md#check-how-actively-a-dataset-is-used) | 一旦您找到值得進一步檢視的資料集，即可瞭解資料集的使用積極性、模型化潛在資料湖保留原則的影響，並在您準備就緒時設定、變更或移除該原則，並在任何變更前完成稽核和核准 | `Analyze dataset usage`, `Analyze dataset retention`, `Manage dataset retention` | Adobe Experience Platform | 「使用我的Web事件資料集的積極性如何？」 <br> 「如果對此資料集設定60天的保留期，會有什麼影響？」 |
 
 ## 沙箱工具
 
-| 使用案例 | 說明 | 技能 | 應用程式 | 範例提示 |
+| 工作流程 | 說明 | 技能 | 應用程式 | 範例提示 |
 | --- | --- | --- | --- | --- |
 | [跨沙箱移動物件](/help/chat/use-cases/sandbox-tooling/sandbox-tooling.md) | 透過自動解析的相依性，順暢地跨沙箱移轉結構描述、受眾和其他物件設定 | `sandbox-tooling-workflow` | Adobe Experience Platform | 「將結構描述Luma忠誠會員白金從目前的沙箱移動到生產沙箱」<br>「將美國金級忠誠會員對象提升到中繼」 |
 
 ## 客戶警報
 
-| 使用案例 | 說明 | 技能 | 應用程式 | 範例提示 |
+| 工作流程 | 說明 | 技能 | 應用程式 | 範例提示 |
 | --- | --- | --- | --- | --- |
 | 管理警報訂閱 | 透過自然語言對話檢視及管理警示訂閱。 | `alerts-subscribe` | Adobe Experience Platform | 「我訂閱了哪些警示？」<br><br>「訂閱此警示給我。」<br><br>「移除此警示的訂閱。」 |
 | 檢閱警示活動 | 檢閱指定期間內的目前警示狀態和歷史警示活動。 | `alerts-list` | Adobe Experience Platform | 「過去24小時內發生了什麼事？」<br><br>「過去24小時內觸發了哪些警示？」<br><br>「顯示過去七天的作用中警示。」 |
@@ -321,7 +321,7 @@ Co-worker Chat可讓您使用自然語言來查詢、分析和處理您的[!DNL 
 
 ## 工作流程與規劃
 
-| 使用案例 | 說明 | 技能 | 應用程式 | 範例提示 |
+| 工作流程 | 說明 | 技能 | 應用程式 | 範例提示 |
 | --- | --- | --- | --- | --- |
 | 管理Planning工作區 | 建立和改進Workfront Planning工作區、區段、記錄型別和欄位，以組織方案和追蹤工作 | `manage-workfront-planning`, `wf-planning-solution-architect` | Workfront規劃 | 「建立名為MKG Hub的工作區，並設定記錄型別以依地區追蹤程式」<br>「設定跨頻道和區域追蹤MKG程式所需的記錄型別和關係」 |
 | 管理Planning記錄 | 在工作區中建立和更新計畫記錄（行銷活動、簡報）及其欄位值 | `manage-workfront-planning` | Workfront規劃 | 「建立秋季品牌上市行銷活動的簡報，包含目標、目標對象和重要訊息」 <br> 「使用預算和主要管道更新秋季品牌上市簡報」 |
