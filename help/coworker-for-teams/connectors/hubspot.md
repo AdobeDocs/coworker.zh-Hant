@@ -1,5 +1,5 @@
 ---
-description: 使用服務金鑰將您的HubSpot帳戶連線至Co-worker Campaigns以同步處理連絡人清單，然後隨時管理或中斷整合服務。
+description: 使用服務金鑰將您的HubSpot帳戶連線至團隊的同事，以同步處理連絡人清單，然後隨時管理或中斷整合服務。
 title: 連線到HubSpot
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
@@ -7,14 +7,14 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '261'
 ht-degree: 0%
 ---
 # 連線到HubSpot {#hubspot}
 
-Adobe同事行銷活動可讓您連線HubSpot帳戶以提取聯絡人清單。
+適用於團隊的Adobe Co-worker可讓您連線您的HubSpot帳戶，以提取連絡人清單。
 
 >[!PREREQUISITES]
 >
@@ -25,7 +25,7 @@ Adobe同事行銷活動可讓您連線HubSpot帳戶以提取聯絡人清單。
 
 ## 如何連線
 
-1. 在[同事行銷活動首頁](https://coworker-campaigns.experience.adobe.com/)上，按一下&#x200B;**自訂**&#x200B;並選取&#x200B;**聯結器**。
+1. 在[團隊的同事首頁](https://coworker-campaigns.experience.adobe.com/)上，按一下&#x200B;**自訂**&#x200B;並選取&#x200B;**聯結器**。
 
    ![在側邊欄中展開的自訂功能表並選取聯結器](./assets/hubspot-1.png)
 

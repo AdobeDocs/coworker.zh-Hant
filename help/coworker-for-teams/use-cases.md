@@ -1,24 +1,24 @@
 ---
-description: 瀏覽Adobe CX Enterprise Coworker行銷活動的實際提示模式，依贏取、參與、事件、轉換和保留行銷活動中的使用案例來整理。
-title: 同事行銷活動使用案例
+description: 瀏覽團隊的Adobe CX Enterprise Coworker實際提示模式，依贏取、參與、事件、轉換和保留行銷活動中的使用案例進行整理。
+title: 適用於團隊的使用案例的同事
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '512'
 ht-degree: 0%
 ---
 # 使用案例 {#use-cases}
 
-生命週期和成長行銷人員在Adobe CX Enterprise Coworker行銷活動中使用的實際提示模式如下。 每個區段都設計為可複製、與您自己的對象和品牌詳細資料交換，並在對話中精簡。
+生命週期和成長行銷人員在Adobe CX Enterprise Coworker團隊中使用的實際提示模式如下。 每個區段都設計為可複製、與您自己的對象和品牌詳細資料交換，並在對話中精簡。
 
 ## 使用方式
 
-挑選符合您目標的使用案例、複製範例提示並將其貼到同事行銷活動中、將預留位置取代為您的詳細資訊，以及透過聊天調整輸出。 如需完整逐步進行，請前往建立並產生行銷活動。
+挑選符合您目標的使用案例、複製範例提示並將其貼到團隊合作者中、將預留位置取代為您的具體資訊，以及透過聊天調整輸出。 如需完整逐步進行，請前往建立並產生行銷活動。
 
 ## 贏取與上線
 
@@ -74,7 +74,7 @@ ht-degree: 0%
 
 最適合：零售業季節性推銷、系列下降、重新整理時刻。
 
-`"Build a 2-touch email campaign, 3 days apart, announcing our new seasonal catalog. Highlight what’s new and relevant for buyers in my CSV list. Personalize content to each person’s first name, product interest category, and region."`
+`"Build a 2-touch email campaign, 3 days apart, announcing our new seasonal catalog. Highlight what's new and relevant for buyers in my CSV list. Personalize content to each person's first name, product interest category, and region."`
 
 ## 事件和時刻導向
 

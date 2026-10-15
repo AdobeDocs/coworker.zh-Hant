@@ -1,5 +1,5 @@
 ---
-description: 瞭解同事行銷活動提示最佳實務 — CO-STAR框架、有無、不支援的內容，以及提示的品質檢查清單。
+description: 向團隊的同事學習提示最佳實務 — CO-STAR框架、有無、不支援的內容，以及提示的品質檢查清單。
 title: 提示最佳做法
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
@@ -7,18 +7,18 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: b6a05e2fdc16830fd69ac1b5ea68ed1d4c5d5c5f
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '781'
+source-wordcount: '785'
 ht-degree: 1%
 ---
 # 提示最佳實務 {#best-practices}
 
-充分運用同事行銷活動始於您的提示方式。 瞭解產生最佳結果的實務：用於建構提示的CO-STAR框架、要包含哪些內容和要避免什麼，以及情景型範例，這些範例為AI提供產生相關、準確定位內容所需的上下文。
+讓團隊的同事發揮最大效用，首先要看您如何提示。 瞭解產生最佳結果的實務：用於建構提示的CO-STAR框架、要包含哪些內容和要避免什麼，以及情景型範例，這些範例為AI提供產生相關、準確定位內容所需的上下文。
 
 >[!NOTE]
 >
->目前，您只能連線至同事行銷活動支援的整合。 如果您有任何現有的Adobe Enterprise應用程式（可儲存對象或建立歷程），我們建議您改用[CX Enterprise Coworker](/help/chat/use-cases/workflows.md)。
+>目前，您只能連線到Co-worker以進行團隊支援的整合。 如果您有任何現有的Adobe Enterprise應用程式（可儲存對象或建立歷程），我們建議您改用[CX Enterprise Coworker](/help/chat/use-cases/workflows.md)。
 
 ## 使用CO-STAR架構
 
@@ -179,4 +179,4 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->瀏覽更多[同事行銷活動的提示模式](use-cases.md)。
+>瀏覽更多[團隊同事的提示模式](use-cases.md)。

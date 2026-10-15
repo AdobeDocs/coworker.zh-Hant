@@ -8,20 +8,18 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 216699c5b1bd34ffea0884083599fb51609762d1
+source-git-commit: 74f8413fcb9bb0ab6c257a56c38e5e374414e2d5
 workflow-type: tm+mt
-source-wordcount: '1799'
+source-wordcount: '1802'
 ht-degree: 2%
 ---
 # 開始使用同事聊天 {#ui-guide}
 
 Co-worker Chat可讓您透過簡單語言詢問您所需的內容，以使用Adobe CX Enterprise資料和工具。 使用此頁面來開啟「同事聊天」、傳送您的第一則訊息，並設定您的工作方式。
 
->[!VIDEO](https://video.tv.adobe.com/v/3498576?captions=chi_hant&learn=on)
-
 ## 可用性
 
-同事聊天功能提供沈浸式體驗、全頁工作區，以及部分CX Enterprise應用程式中的產品內體驗。 若要開啟產品內體驗，請按一下應用程式右上角的同事圖示![同事圖示](./assets/icon-coworker.png)。
+[!DNL Coworker] [!UICONTROL 聊天]可作為沈浸式體驗、整頁工作區以及某些[!DNL CX Enterprise]應用程式的產品內體驗。
 
 下表顯示每個體驗的可用位置。
 
@@ -35,20 +33,24 @@ Co-worker Chat可讓您透過簡單語言詢問您所需的內容，以使用Ado
 | AEM | 現在可用 | 現在可用 |
 | Marketo Engage | 現在可用 | 即將推出 |
 
-## 開啟同事聊天 {#immersive}
+## 開啟[!DNL Coworker]聊天 {#immersive}
 
 若要使用沈浸式體驗，請使用您的Adobe憑證登入。 您可以從直接連結或CX Enterprise中開啟它。
 
 1. 移至[https://experience.adobe.com/#/coworker](https://experience.adobe.com/#/coworker)。
 1. 使用您的 Adobe ID 登入。
-
-或者，按一下CX Enterprise標題中應用程式選擇器中的&#x200B;**[!UICONTROL Co-worker]**。
+1. 在[!DNL CX Enterprise]中，按一下應用程式選擇器功能表![產品功能表圖示](./assets/apps-icon.png)，然後按一下&#x200B;**[!DNL Coworker]**。
+1. 若要開啟「聊天」（產品內體驗），請按一下&#x200B;**[!UICONTROL 聊天]** ![同事圖示](./assets/icon-coworker.png)。
 
 ![CX Enterprise應用程式選擇器中的同事](./assets/ui-guide-1.png)
 
-## 設定您的內容
+## 影片 — [!DNL Coworker]聊天介面的基本知識
 
-您的組織和沙箱決定了對話可以觸及的資料、技能和相關工具。 開始前請先檢查這些專案。 您目前的上下文會顯示在左側導覽邊欄的底部，且位於您的名稱下方。
+>[!VIDEO](https://video.tv.adobe.com/v/3498576?captions=chi_hant&learn=on)
+
+## 選擇您的組織
+
+您的[組織](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/administration/organizations)和沙箱決定了對話可以觸及的資料、技能和連線工具。 開始前請先檢查這些專案。 您目前的上下文會顯示在左側導覽邊欄的底部，且位於您的名稱下方。
 
 若要變更您的內容：
 
@@ -89,7 +91,7 @@ Co-worker Chat可讓您透過簡單語言詢問您所需的內容，以使用Ado
 
 ## 傳送您的第一則訊息
 
-首頁畫面會根據同事聊天可在您的沙箱中執行的操作，顯示問候語、輸入方塊和建議提示。 您可以從建議開始，或撰寫您自己的訊息。
+Home畫面會根據同事聊天可在您的沙箱中執行的操作，顯示問候語、輸入（[!UICONTROL 聊天]）方塊以及建議的提示。 您可以從建議開始，或撰寫您自己的訊息。
 
 若要傳送訊息：
 
@@ -132,7 +134,7 @@ Co-worker Chat可讓您透過簡單語言詢問您所需的內容，以使用Ado
 
 ![附加功能表](./assets/ui-guide-5.png)
 
-### 在「同事聊天」動作前先檢閱計畫
+### 在「同事聊天」動作前先檢閱計畫 {#plan-mode}
 
 針對變更資料的複雜工作或工作，使用「計畫」模式。 當「計畫」模式開啟時，「同事聊天」會提出計畫並等待您的核准，然後才會執行。 當「計畫」模式關閉時，「同事聊天」會立即開始工作。
 

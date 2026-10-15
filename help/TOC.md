@@ -5,9 +5,9 @@ user-guide-description: 瞭解Adobe CX Enterprise Coworker，這是AI支援的�
 description: 瞭解CX Enterprise中的AI工具。 在CX Enterprise中使用AI來改善您的產品知識並獲得操作見解。
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 69cf9eca65b61d4eb86ea3365013d8553a81e6e3
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '233'
 ht-degree: 17%
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 17%
 - [同事概觀](home.md)
 - Chat {#chat}
   - [概覽](./chat/overview.md)
-  - [UI指南](./chat/ui-guide.md)
+  - [開始聊天](./chat/ui-guide.md)
   - {hide-from-toc}[在遊樂場的同事聊天](./playground-coworker-chat.md)
   - 使用案例 {#use-cases}
     - [同事聊天工作流程](./chat/use-cases/workflows.md)
@@ -66,15 +66,15 @@ ht-degree: 17%
     - [管理組織的外掛程式](./customizations/plugins/manage-plugins-for-your-org.md)
   - 記憶 {#memory}
     - [什麼是記憶體？](./customizations/memory/what-is-memory.md)
-- 行銷活動 {#campaigns}
-  - {hide-from-toc}[新團隊體驗](./campaigns/new-teams-experience.md)
-  - [概覽](./campaigns/overview.md)
-  - [建立電子郵件行銷活動](./campaigns/create-an-email-campaign.md)
-  - [啟動及管理行銷活動](./campaigns/launch-manage-campaign.md)
-  - [使用案例](./campaigns/use-cases.md)
-  - [提示最佳實務](./campaigns/prompting-best-practices.md)
-  - [C2PA 中繼資料](./campaigns/c2pa-metadata.md)
+- 團隊同事 {#coworker-for-teams}
+  - {hide-from-toc}[新團隊體驗](./coworker-for-teams/new-teams-experience.md)
+  - [概覽](./coworker-for-teams/overview.md)
+  - [建立電子郵件行銷活動](./coworker-for-teams/create-an-email-campaign.md)
+  - [啟動及管理行銷活動](./coworker-for-teams/launch-manage-campaign.md)
+  - [使用案例](./coworker-for-teams/use-cases.md)
+  - [提示最佳實務](./coworker-for-teams/prompting-best-practices.md)
+  - [C2PA 中繼資料](./coworker-for-teams/c2pa-metadata.md)
   - 連接器 {#connectors}
-    - [Marketo Engage](./campaigns/connectors/marketo.md)
-    - [Hubspot](./campaigns/connectors/hubspot.md)
-  - [發行說明](./campaigns/release-notes.md)
+    - [Marketo Engage](./coworker-for-teams/connectors/marketo.md)
+    - [Hubspot](./coworker-for-teams/connectors/hubspot.md)
+  - [發行說明](./coworker-for-teams/release-notes.md)

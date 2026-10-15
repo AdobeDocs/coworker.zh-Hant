@@ -7,9 +7,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 161506b712f3a5f39cb584d0491795a3db6faa95
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '936'
+source-wordcount: '935'
 ht-degree: 18%
 ---
 # CX Enterprise Coworker指南 {#overview}
@@ -23,7 +23,7 @@ ht-degree: 18%
 [!DNL Coworker]透過三個體驗傳遞：
 
 * **[同事[!UICONTROL 聊天]](./chat/overview.md)：**&#x200B;以自然語言詢問所有Adobe應用程式的深入分析、內容和動作。
-* **[同事[!UICONTROL 行銷活動]](./campaigns/overview.md)：**&#x200B;協助敏捷行銷團隊從行銷活動目標轉為協調執行。
+* **[同事[!UICONTROL 行銷活動]](./coworker-for-teams/overview.md)：**&#x200B;協助敏捷行銷團隊從行銷活動目標轉為協調執行。
 * **同事[!UICONTROL 專案] （即將推出）：**&#x200B;適用於長期執行的跨職能企業工作流程，其中團隊會設定程式、核准及同事的自主性等級。
 
 ## 如何啟用同事
@@ -36,7 +36,7 @@ ht-degree: 18%
 
 * **存取：**&#x200B;在Adobe [Admin Console](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/administration/admin-console)中為您的團隊指派角色並存取同事功能。
 
-* **開始使用：**&#x200B;啟用同事後，請參閱[使用者介面指南](./chat/ui-guide.md)，瞭解您如何運用同事聊天介面，包括輸入方塊、回應、聊天歷程記錄及技能、MCP伺服器和記憶體設定。
+* **開始使用：**&#x200B;同事啟用後，請參閱[開始同事聊天](./chat/ui-guide.md)，瞭解您如何進行同事聊天介面，包括輸入方塊、回應、聊天記錄及技能、MCP伺服器和記憶體設定。
 
 ## 使用同事聊天的相關影片
 
@@ -106,20 +106,20 @@ CARDS
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-## 同事行銷活動
-
-「同事行銷活動」是小型敏捷團隊的範本化功能，可供他們站起來執行行銷活動。
-
-* [概覽](./campaigns/overview.md)
-* [建立電子郵件行銷活動](./campaigns/create-an-email-campaign.md)
-* [使用案例](./campaigns/use-cases.md)
-* [提示最佳實務](./campaigns/prompting-best-practices.md)
-* [連線至Marketo Engage](./campaigns/connectors/marketo.md)
-* [連線到Hubspot](./campaigns/connectors/hubspot.md)
-
 ## 專案（即將推出）
 
 「同事專案」是共用工作區，可自動化從策略到交付的客戶體驗工作流程。 團隊用它來協調任務、核准和執行。
+
+## 團隊同事
+
+團隊合作是小型敏捷團隊的範本化功能，用於站起來執行行銷活動。
+
+**受歡迎的文章**
+
+* [概覽](./coworker-for-teams/overview.md)
+* [建立電子郵件行銷活動](./coworker-for-teams/create-an-email-campaign.md)
+* [使用案例](./coworker-for-teams/use-cases.md)
+* [提示最佳實務](./coworker-for-teams/prompting-best-practices.md)
 
 ## Experience League LIVE：同事已解除鎖定系列
 

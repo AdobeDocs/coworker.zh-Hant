@@ -7,9 +7,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '741'
+source-wordcount: '751'
 ht-degree: 3%
 ---
 # Adobe CX Enterprise Coworker Chat概觀 {#overview}
@@ -18,13 +18,15 @@ ht-degree: 3%
 
 價值：過去跨越多個熒幕、團隊和天數的工作，現在只需幾分鐘即可在一個交談中進行。 您可以透過檢閱和核准來委派結果並維持控制；同事聊天會執行步驟、在此過程中從錯誤中恢復，並隨著瞭解您團隊的工作方式而變得更清晰。
 
+若要開始使用，請參閱[開始使用同事聊天](ui-guide.md)。
+
 >[!AVAILABILITY]
 >
 >同事聊天功能現已正式推出。 功能與連線的應用程式持續擴展。 請檢視可用的技能和聯結器部分，以瞭解目前支援的內容。
 
 >[!NOTE]
 >
->同事聊天是Adobe CX Enterprise Coworker的一個模組。 其他兩個模組則延伸了相同基礎：同事行銷活動（從一場交談中站起來並啟動一個完整的行銷活動）和同事專案（端對端、多團隊工作流程的永遠線上工作區）。 本頁涵蓋「同事聊天」。
+>同事聊天是Adobe CX Enterprise Coworker的一個模組。 其他兩個模組則延伸了相同基礎：團隊同事（站起來並從一場交談中啟動完整的行銷活動）和同事專案（端對端、多團隊工作流程的永遠線上工作區）。 本頁涵蓋「同事聊天」。
 
 ## AI助理的演變
 

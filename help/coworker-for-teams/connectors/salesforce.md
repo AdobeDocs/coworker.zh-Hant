@@ -7,14 +7,14 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 12ee914ed944c82694b9373f611e19cf040e2229
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '224'
 ht-degree: 0%
 ---
 # 連線至Salesforce {#salesforce}
 
-Adobe同事行銷活動可讓您連線您的Salesforce帳戶，以存取您的銷售機會和聯絡人。
+適用於團隊的Adobe同事可讓您連線您的Salesforce帳戶，以存取您的銷售機會和聯絡人。
 
 >[!PREREQUISITES]
 >
@@ -26,9 +26,9 @@ Adobe同事行銷活動可讓您連線您的Salesforce帳戶，以存取您的�
 
 ## 如何連線
 
-1. 在[同事行銷活動首頁](https://coworker-campaigns.experience.adobe.com/)上，按一下&#x200B;**自訂**&#x200B;並選取&#x200B;**聯結器**。
+1. 在[團隊的同事首頁](https://coworker-campaigns.experience.adobe.com/)上，按一下&#x200B;**自訂**&#x200B;並選取&#x200B;**聯結器**。
 
-   ![同事行銷活動左側導覽包含自訂展開並醒目提示聯結器](./assets/salesforce-1.png)
+   ![團隊的同事已離開導覽，並展開自訂並醒目提示聯結器](./assets/salesforce-1.png)
 
 1. 按一下&#x200B;**新增整合**。
 

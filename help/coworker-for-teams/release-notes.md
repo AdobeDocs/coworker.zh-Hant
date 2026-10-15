@@ -1,20 +1,20 @@
 ---
-description: 瞭解Adobe CX Enterprise Coworker Campaigns版本注意事項中的功能增強和修正。
-title: CX Enterprise Coworker Campaigns發行說明
+description: 瞭解適用於團隊的Adobe CX Enterprise Coworker版本注意事項中的功能增強和修正。
+title: 適用於團隊的CX Enterprise Coworker發行說明
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: ee66c1cc95ef1dd8c5e45c1fcb699547e63b9c8a
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '3590'
+source-wordcount: '3597'
 ht-degree: 0%
 ---
-# Adobe CX Enterprise Coworker Campaigns發行說明 {#release-notes}
+# 適用於團隊的Adobe CX Enterprise Coworker發行說明 {#release-notes}
 
-Co-worker Campaign版本會在持續傳遞模式上運作，允許以更可縮放、分階段的方法進行功能部署。
+團隊版本的同事會在持續傳遞模式上運作，允許以更可縮放、分階段的方法進行功能部署。
 
 ## 2026 年 9 月 {#sep-2026}
 
@@ -173,7 +173,7 @@ Co-worker Campaign版本會在持續傳遞模式上運作，允許以更可縮�
 * 行銷活動深入分析會顯示每個量度的主要資料來源
 * 品牌編輯器現在內建在入門中，以便進行更順暢的首次設定
 * 在認可行銷活動之前預覽範例對象
-* 同事行銷活動現在位於統一的Experience Cloud導覽殼層內
+* 適用於團隊的同事現在位於統一的Experience Cloud導覽殼層中
 * 已移除清潔行銷活動展示板的浮動意見提示列
 * 全方位的效能與可靠性提升功能
 
@@ -276,7 +276,7 @@ Co-worker Campaign版本會在持續傳遞模式上運作，允許以更可縮�
 
 **發行日期： 2026年6月10日**
 
-* 此應用程式現在是「同事行銷活動」，其命名方式在整個
+* 此應用程式現在是團隊的合作者，且在整個過程中都更新命名
 * 首次入門導覽會逐步引導您建立示範品牌
 * 當您的計畫準備就緒時，從專用對話方塊啟動行銷活動
 * 使用整合目錄中的API金鑰連線HubSpot
@@ -370,7 +370,7 @@ Co-worker Campaign版本會在持續傳遞模式上運作，允許以更可縮�
 
 * 當您工作時，行銷活動展示板和清單會與最新詳細資料保持一致
 * 行銷活動聊天室和Agent Builder中會顯示清楚的產生式AI免責宣告
-* 支援聯絡詳細資料現在使用專用的CX Coworker行銷活動電子郵件地址
+* 支援聯絡詳細資料現在使用團隊專用的CX Coworker電子郵件地址
 * 行銷首頁會移除輪候表區段，且主圖影片顯示得更清晰
 * 更多畫面會自動採用您的語言和當地日期格式
 * 全方位的效能與可靠性提升功能

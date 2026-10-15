@@ -1,5 +1,5 @@
 ---
-description: 瞭解如何將您的Marketo Engage帳戶連結至Co-worker Campaigns，以便同步Marketo智慧與靜態清單。
+description: 瞭解如何將您的Marketo Engage帳戶連線到團隊的同事，以便同步Marketo智慧和靜態清單。
 title: 連線至Marketo Engage
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
@@ -7,14 +7,14 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '316'
 ht-degree: 0%
 ---
 # 連線至Marketo Engage {#marketo}
 
-Adobe Co-worker Campaigns可讓您連線Marketo Engage帳戶，提取智慧和靜態清單。
+適用於團隊的Adobe Co-worker可讓您連線Marketo Engage帳戶，以提取智慧和靜態清單。
 
 >[!PREREQUISITES]
 >
@@ -22,13 +22,13 @@ Adobe Co-worker Campaigns可讓您連線Marketo Engage帳戶，提取智慧和�
 >
 >* 有效的Marketo Engage帳戶
 >* 您的Marketo **執行個體URL**
->* 為Marketo中的同事行銷活動建立的[自訂服務](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/custom-services#custom-services-1)，其有[使用者端ID和使用者端密碼](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token)
+>* 為Marketo團隊的同事建立的[自訂服務](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/custom-services#custom-services-1)，其有[使用者端ID和使用者端密碼](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token)
 
 ## 如何連線
 
-1. 在[同事行銷活動首頁](https://coworker-campaigns.experience.adobe.com/)上，按一下&#x200B;**自訂**&#x200B;並選取&#x200B;**聯結器**。
+1. 在[團隊的同事首頁](https://coworker-campaigns.experience.adobe.com/)上，按一下&#x200B;**自訂**&#x200B;並選取&#x200B;**聯結器**。
 
-   ![同事行銷活動左側導覽包含自訂展開並醒目提示聯結器](./assets/marketo-1.png)
+   ![團隊的同事已離開導覽，並展開自訂並醒目提示聯結器](./assets/marketo-1.png)
 
 1. 按一下&#x200B;**新增整合**。
 

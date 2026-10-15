@@ -1,5 +1,5 @@
 ---
-description: 在Adobe CX Enterprise Coworker行銷活動中產生電子郵件行銷活動的逐步指南，從撰寫提示到檢閱和匯出行銷活動。
+description: 在Adobe CX Enterprise Coworker中為團隊產生電子郵件行銷活動的逐步指南，從撰寫提示到檢閱和匯出行銷活動。
 title: 建立電子郵件行銷活動
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
@@ -7,9 +7,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 2d4922c334bcc2ec93dec46098a9c021623034ad
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '976'
+source-wordcount: '983'
 ht-degree: 0%
 ---
 # 建立電子郵件行銷活動 {#create-an-email-campaign}
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 請確定您擁有：
 
-* 有效的Adobe CX Enterprise Coworker Campaigns帳戶([在此註冊](https://coworker-campaigns.experience.adobe.com/){target="_blank"} （如果尚未註冊）。
+* 適用於團隊帳戶的作用中Adobe CX Enterprise Coworker ([在此註冊](https://coworker-campaigns.experience.adobe.com/){target="_blank"} （如果尚未註冊）。
 
 * 您的品牌已新增到&#x200B;**您的資料** > **品牌**&#x200B;下。
 
@@ -46,7 +46,7 @@ _使用時機：您明確知道想要什麼的時候。_
 
 _何時使用：當您不確定所要時。_
 
-**選項三**：使用提示列下拉式清單中的「協助我提示」選項，讓「同事行銷活動」引導您撰寫提示。
+**選項三**：使用提示列下拉式清單中的[協助我提示]選項，讓Co-worker for teams引導您撰寫提示。
 
 _使用時機：您可能知道您想要什麼，但想要一點協助（或使用「驚喜我」來讓我驚訝）時。_
 
@@ -54,7 +54,7 @@ _使用時機：您可能知道您想要什麼，但想要一點協助（或使�
 
 ## 步驟2：建立提示
 
-強大的「同事行銷活動」提示包括：
+適用於團隊的強大同事提示包括：
 
 * 行銷活動目標（您正在嘗試達成的目標）。
 * 對象（對象是誰，或對象資料的來源）。
@@ -75,7 +75,7 @@ _使用時機：您可能知道您想要什麼，但想要一點協助（或使�
 
 ![輸入您自己的提示](./assets/create-an-email-campaign-2.png)
 
-當您準備好提示時，請按一下[產生行銷活動]。**&#x200B;** 屆時，同事行銷活動會：
+當您準備好提示時，請按一下[產生行銷活動]。**&#x200B;** 團隊的同事將會：
 
 * 產生結構化的行銷活動計畫。
 * 詢問您的目標對象，這些對象也會用於內容個人化。
@@ -115,7 +115,7 @@ _使用時機：您可能知道您想要什麼，但想要一點協助（或使�
 
  — 或 — 
 
-* 使用對話式介面，直接與「同事行銷活動」對話以進行變更。 部分範例包括：
+* 使用對話式介面，直接與團隊的同事交談，以進行變更。 部分範例包括：
 
   * 「讓主旨列更緊急。」
   * 「縮短正文復本。」
@@ -149,7 +149,7 @@ Launch功能（傳送您的電子郵件行銷活動）即將推出。 在此之�
 
 它為您產生整個行銷活動，包括策略、所需對象、工作流程等。產生您的內容的首次回應平均時間通常約為1分鐘。
 
-**如果「同事行銷活動」輸出不太正確怎麼辦？**
+**如果Teams的同事輸出不太正確怎麼辦？**
 
 按一下標題中的意見回饋圖示，讓我們知道，這樣我們就能改善平台。
 
