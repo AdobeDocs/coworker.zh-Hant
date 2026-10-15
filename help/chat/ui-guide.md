@@ -8,20 +8,18 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: e3d44db4695911c1b72f47fb66bd75e24acfc2e2
+source-git-commit: 74f8413fcb9bb0ab6c257a56c38e5e374414e2d5
 workflow-type: tm+mt
-source-wordcount: '1809'
+source-wordcount: '1802'
 ht-degree: 2%
 ---
 # 開始使用同事聊天 {#ui-guide}
 
 Co-worker Chat可讓您透過簡單語言詢問您所需的內容，以使用Adobe CX Enterprise資料和工具。 使用此頁面來開啟「同事聊天」、傳送您的第一則訊息，並設定您的工作方式。
 
->[!VIDEO](https://video.tv.adobe.com/v/3498576?captions=chi_hant&learn=on)
-
 ## 可用性
 
-同事聊天功能提供沈浸式體驗、全頁工作區，以及部分CX Enterprise應用程式中的產品內體驗。 若要開啟產品內體驗，請按一下應用程式右上角的同事圖示![同事圖示](./assets/icon-coworker.png)。
+[!DNL Coworker] [!UICONTROL 聊天]可作為沈浸式體驗、整頁工作區以及某些[!DNL CX Enterprise]應用程式的產品內體驗。
 
 下表顯示每個體驗的可用位置。
 
@@ -35,16 +33,20 @@ Co-worker Chat可讓您透過簡單語言詢問您所需的內容，以使用Ado
 | AEM | 現在可用 | 現在可用 |
 | Marketo Engage | 現在可用 | 即將推出 |
 
-## 開啟同事聊天 {#immersive}
+## 開啟[!DNL Coworker]聊天 {#immersive}
 
 若要使用沈浸式體驗，請使用您的Adobe憑證登入。 您可以從直接連結或CX Enterprise中開啟它。
 
 1. 移至[https://experience.adobe.com/#/coworker](https://experience.adobe.com/#/coworker)。
 1. 使用您的 Adobe ID 登入。
-
-或者，按一下CX Enterprise標題中應用程式選擇器中的&#x200B;**[!UICONTROL Co-worker]**。
+1. 在[!DNL CX Enterprise]中，按一下應用程式選擇器功能表![產品功能表圖示](./assets/apps-icon.png)，然後按一下&#x200B;**[!DNL Coworker]**。
+1. 若要開啟「聊天」（產品內體驗），請按一下&#x200B;**[!UICONTROL 聊天]** ![同事圖示](./assets/icon-coworker.png)。
 
 ![CX Enterprise應用程式選擇器中的同事](./assets/ui-guide-1.png)
+
+## 影片 — [!DNL Coworker]聊天介面的基本知識
+
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## 選擇您的組織
 
@@ -233,7 +235,7 @@ Home畫面會根據同事聊天可在您的沙箱中執行的操作，顯示問�
 
 模型內容通訊協定(MCP)伺服器將「同事聊天」連線至外部工具和服務，例如Adobe Journey Optimizer、Real-Time CDP、Target和Workfront。 **[!UICONTROL MCP伺服器]**&#x200B;索引標籤會列出您連線的伺服器和使用中連線的數目。 每個卡片都會顯示伺服器名稱、其端點，以及描述其所提供內容的標籤。
 
-若要連線伺服器，請按一下[新增伺服器] **&#x200B;**，然後依照提示操作。
+若要連線伺服器，請按一下[新增伺服器] ****，然後依照提示操作。
 
 ![MCP伺服器索引標籤](./assets/ui-guide-15.png)
 

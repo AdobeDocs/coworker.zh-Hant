@@ -7,9 +7,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: d87a189293dcc367e5fdfd80e6b59615fdbe9a2d
+source-git-commit: 74f8413fcb9bb0ab6c257a56c38e5e374414e2d5
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '750'
 ht-degree: 3%
 ---
 # Adobe CX Enterprise Coworker Chat概觀 {#overview}
@@ -18,7 +18,7 @@ ht-degree: 3%
 
 價值：過去跨越多個熒幕、團隊和天數的工作，現在只需幾分鐘即可在一個交談中進行。 您可以透過檢閱和核准來委派結果並維持控制；同事聊天會執行步驟、在此過程中從錯誤中恢復，並隨著瞭解您團隊的工作方式而變得更清晰。
 
-請參閱[開始使用同事聊天](ui-guide.md)。
+若要開始使用，請參閱[開始使用同事聊天](ui-guide.md)。
 
 >[!AVAILABILITY]
 >
@@ -72,4 +72,4 @@ ht-degree: 3%
 
 ## 影片概觀
 
->[!VIDEO](https://video.tv.adobe.com/v/3495976?captions=chi_hant&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3495967?learn=on){transcript=true}
