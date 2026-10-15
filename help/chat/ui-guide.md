@@ -17,7 +17,7 @@ ht-degree: 2%
 
 Co-worker Chat可讓您透過簡單語言詢問您所需的內容，以使用Adobe CX Enterprise資料和工具。 使用此頁面來開啟「同事聊天」、傳送您的第一則訊息，並設定您的工作方式。
 
->[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498576?captions=chi_hant&learn=on)
 
 ## 可用性
 
