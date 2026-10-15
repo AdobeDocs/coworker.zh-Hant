@@ -5,10 +5,10 @@ user-guide-description: 瞭解Adobe CX Enterprise Coworker，這是AI支援的�
 description: 瞭解CX Enterprise中的AI工具。 在CX Enterprise中使用AI來改善您的產品知識並獲得操作見解。
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 0ccc8faed069b726a28a39042047d1e66200181e
+source-git-commit: 69cf9eca65b61d4eb86ea3365013d8553a81e6e3
 workflow-type: tm+mt
-source-wordcount: '226'
-ht-degree: 18%
+source-wordcount: '229'
+ht-degree: 17%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -27,6 +27,7 @@ ht-degree: 18%
       - [升級時驗證AA至CJA資料](./chat/use-cases/data-insights/data-validation-aa-cja.md)
       - [驗證CJA報表的資料集品質](./chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)
       - [驗證Experience Platform資料](./chat/use-cases/data-insights/data-validation-aep.md)
+      - [加速資料深入分析](./chat/use-cases/data-insights/accelerate-data-insights.md)
     - 資料上線 {#data-onboarding}
       - {hide-from-toc}[與同事將資料上線](./agents/data-onboarding-skill.md)
     - 資料管理 {#data-management}
