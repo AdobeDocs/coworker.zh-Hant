@@ -7,9 +7,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: d87a189293dcc367e5fdfd80e6b59615fdbe9a2d
 workflow-type: tm+mt
-source-wordcount: '741'
+source-wordcount: '747'
 ht-degree: 3%
 ---
 # Adobe CX Enterprise Coworker Chat概觀 {#overview}
@@ -17,6 +17,8 @@ ht-degree: 3%
 同事聊天是讓客戶體驗工作完成的對話式介面。 您以簡單的語言描述目標（例如「建立春季瑜伽促銷活動的對象」或「告訴我為什麼這個對象上週會收縮」），Co-worker Chat會規劃工作、在Adobe和連線系統上執行、驗證結果，以及將完成的工作交還給您核准。
 
 價值：過去跨越多個熒幕、團隊和天數的工作，現在只需幾分鐘即可在一個交談中進行。 您可以透過檢閱和核准來委派結果並維持控制；同事聊天會執行步驟、在此過程中從錯誤中恢復，並隨著瞭解您團隊的工作方式而變得更清晰。
+
+請參閱[開始使用同事聊天](ui-guide.md)。
 
 >[!AVAILABILITY]
 >
@@ -70,4 +72,4 @@ ht-degree: 3%
 
 ## 影片概觀
 
->[!VIDEO](https://video.tv.adobe.com/v/3495976?captions=chi_hant&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3495967?learn=on){transcript=true}

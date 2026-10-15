@@ -8,7 +8,7 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 216699c5b1bd34ffea0884083599fb51609762d1
+source-git-commit: 9dbf1eb9bf7b975af633b67ea2af812392932ec3
 workflow-type: tm+mt
 source-wordcount: '1799'
 ht-degree: 2%
@@ -17,7 +17,7 @@ ht-degree: 2%
 
 Co-worker Chat可讓您透過簡單語言詢問您所需的內容，以使用Adobe CX Enterprise資料和工具。 使用此頁面來開啟「同事聊天」、傳送您的第一則訊息，並設定您的工作方式。
 
->[!VIDEO](https://video.tv.adobe.com/v/3498576?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## 可用性
 
@@ -132,7 +132,7 @@ Co-worker Chat可讓您透過簡單語言詢問您所需的內容，以使用Ado
 
 ![附加功能表](./assets/ui-guide-5.png)
 
-### 在「同事聊天」動作前先檢閱計畫
+### 在「同事聊天」動作前先檢閱計畫 {#plan-mode}
 
 針對變更資料的複雜工作或工作，使用「計畫」模式。 當「計畫」模式開啟時，「同事聊天」會提出計畫並等待您的核准，然後才會執行。 當「計畫」模式關閉時，「同事聊天」會立即開始工作。
 
@@ -233,7 +233,7 @@ Co-worker Chat可讓您透過簡單語言詢問您所需的內容，以使用Ado
 
 模型內容通訊協定(MCP)伺服器將「同事聊天」連線至外部工具和服務，例如Adobe Journey Optimizer、Real-Time CDP、Target和Workfront。 **[!UICONTROL MCP伺服器]**&#x200B;索引標籤會列出您連線的伺服器和使用中連線的數目。 每個卡片都會顯示伺服器名稱、其端點，以及描述其所提供內容的標籤。
 
-若要連線伺服器，請按一下[新增伺服器] **&#x200B;**，然後依照提示操作。
+若要連線伺服器，請按一下[新增伺服器] ****，然後依照提示操作。
 
 ![MCP伺服器索引標籤](./assets/ui-guide-15.png)
 
