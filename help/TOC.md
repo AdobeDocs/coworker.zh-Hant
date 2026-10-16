@@ -5,17 +5,17 @@ user-guide-description: 瞭解Adobe CX Enterprise Coworker，這是AI支援的�
 description: 瞭解CX Enterprise中的AI工具。 在CX Enterprise中使用AI來改善您的產品知識並獲得操作見解。
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: f914f4a123216985ae9b562413f26e7b8c29eb0f
+source-git-commit: 9d38c1c9bb50ff07d82da24143074090bf49d7aa
 workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 17%
+source-wordcount: '275'
+ht-degree: 16%
 ---
 
 # CX Enterprise Coworker {#content}
 
 - [同事概觀](home.md)
 - Chat {#chat}
-  - [概覽](./chat/overview.md)
+  - [概觀](./chat/overview.md)
   - [開始聊天](./chat/ui-guide.md)
   - {hide-from-toc}[在遊樂場的同事聊天](./playground-coworker-chat.md)
   - 使用案例 {#use-cases}
@@ -24,7 +24,7 @@ ht-degree: 17%
       - [概觀](./chat/use-cases/data-insights/analytics-overview.md)
       - [開始使用](./chat/use-cases/data-insights/analytics-chat.md)
       - 資料治理和驗證 {#data-governance-and-validation}
-        - [概覽](./chat/use-cases/data-insights/data-governance-and-validation.md)
+        - [概觀](./chat/use-cases/data-insights/data-governance-and-validation.md)
         - [規劃您的實作](./chat/use-cases/data-insights/implementation-guide.md)
         - [產生實施檢查清單](./chat/use-cases/data-insights/intelligent-checklist.md)
         - [升級時驗證AA至CJA資料](./chat/use-cases/data-insights/data-validation-aa-cja.md)
@@ -33,11 +33,11 @@ ht-degree: 17%
         - [驗證Experience Platform資料](./chat/use-cases/data-insights/data-validation-aep.md)
         - [加速資料深入分析](./chat/use-cases/data-insights/accelerate-data-insights.md)
       - 歷程分析 {#journey-analysis}
-        - [概覽](./chat/use-cases/data-insights/journey-analysis.md)
+        - [概觀](./chat/use-cases/data-insights/journey-analysis.md)
       - 對象和區段分析 {#audience-and-segment-analysis}
         - [概觀](./chat/use-cases/data-insights/audience-and-segment-analysis.md)
       - 業務績效 {#business-performance}
-        - [概觀](./chat/use-cases/data-insights/business-performance.md)
+        - [概覽](./chat/use-cases/data-insights/business-performance.md)
         - [探索趨勢和根本原因](./chat/use-cases/data-insights/root-cause-analysis.md)
       - 內容績效 {#content-performance}
         - [概覽](./chat/use-cases/data-insights/content-performance.md)
@@ -51,6 +51,7 @@ ht-degree: 17%
       - [評估平台運作狀況並建置對象](./chat/use-cases/audiences/create-audience-from-natural-language.md)
     - 歷程 {#journeys}
       - [使用自然語言建立歷程](./chat/use-cases/journeys/create-journey-from-natural-language.md)
+      - [建立、模擬和分析跨頻道歷程](./chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker-feature-video.md)
     - 忠誠度 {#loyalty}
       - [建立忠誠度挑戰並顯示深入分析](./chat/use-cases/journeys/create-loyalty-challenge.md)
     - 最佳化 {#optimization}
@@ -68,7 +69,7 @@ ht-degree: 17%
     - 工作流程與規劃 {#workflow-and-planning}
       - [規劃數位行銷活動啟動](./chat/use-cases/workflow-and-planning/plan-digital-campaign-launch.md)
 - 自訂 {#customizations}
-  - [概覽](./customizations/overview.md)
+  - [概觀](./customizations/overview.md)
   - 技能 {#skills}
     - [什麼是技能？](./customizations/skills/what-are-skills.md)
     - [建立您的第一項技能](./customizations/skills/create-your-first-skill.md)
