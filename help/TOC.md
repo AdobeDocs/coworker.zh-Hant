@@ -5,10 +5,10 @@ user-guide-description: 瞭解Adobe CX Enterprise Coworker，這是AI支援的�
 description: 瞭解CX Enterprise中的AI工具。 在CX Enterprise中使用AI來改善您的產品知識並獲得操作見解。
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
+source-git-commit: 4d91397c769a76fba4f0ec1c3e86938a01fe2c6a
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 17%
+source-wordcount: '250'
+ht-degree: 16%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -21,13 +21,18 @@ ht-degree: 17%
   - 使用案例 {#use-cases}
     - [同事聊天工作流程](./chat/use-cases/workflows.md)
     - 資料分析 {#data-insights}
-      - {hide-from-toc}[概觀](./chat/use-cases/data-insights/analytics-overview.md)
+      - [概觀](./chat/use-cases/data-insights/analytics-overview.md)
       - [開始使用](./chat/use-cases/data-insights/analytics-chat.md)
-      - [探索趨勢和根本原因](./chat/use-cases/data-insights/root-cause-analysis.md)
-      - [升級時驗證AA至CJA資料](./chat/use-cases/data-insights/data-validation-aa-cja.md)
-      - [驗證CJA報表的資料集品質](./chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)
-      - [驗證Experience Platform資料](./chat/use-cases/data-insights/data-validation-aep.md)
-      - [加速資料深入分析](./chat/use-cases/data-insights/accelerate-data-insights.md)
+      - 資料治理和驗證 {#data-governance-and-validation}
+        - [規劃您的實作](./chat/use-cases/data-insights/implementation-guide.md)
+        - [產生實施檢查清單](./chat/use-cases/data-insights/intelligent-checklist.md)
+        - [升級時驗證AA至CJA資料](./chat/use-cases/data-insights/data-validation-aa-cja.md)
+        - [驗證串流媒體實施](./chat/use-cases/data-insights/streaming-media-validation.md)
+        - [驗證CJA報表的資料集品質](./chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)
+        - [驗證Experience Platform資料](./chat/use-cases/data-insights/data-validation-aep.md)
+        - [加速資料深入分析](./chat/use-cases/data-insights/accelerate-data-insights.md)
+      - 業務績效 {#business-performance}
+        - [探索趨勢和根本原因](./chat/use-cases/data-insights/root-cause-analysis.md)
     - 資料上線 {#data-onboarding}
       - {hide-from-toc}[與同事將資料上線](./agents/data-onboarding-skill.md)
     - 資料管理 {#data-management}
@@ -68,7 +73,7 @@ ht-degree: 17%
     - [什麼是記憶體？](./customizations/memory/what-is-memory.md)
 - 團隊同事 {#coworker-for-teams}
   - {hide-from-toc}[新團隊體驗](./coworker-for-teams/new-teams-experience.md)
-  - [概覽](./coworker-for-teams/overview.md)
+  - [概觀](./coworker-for-teams/overview.md)
   - [建立電子郵件行銷活動](./coworker-for-teams/create-an-email-campaign.md)
   - [啟動及管理行銷活動](./coworker-for-teams/launch-manage-campaign.md)
   - [使用案例](./coworker-for-teams/use-cases.md)

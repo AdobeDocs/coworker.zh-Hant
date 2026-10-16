@@ -1,8 +1,7 @@
 ---
 title: 與同事一同規劃您的Customer Journey Analytics或串流媒體實作
 description: 瞭解同事的實作指南技能如何透過可匯出的核對清單，將探索對話轉換為個人化、有序的實作計畫。
-hold: true
-source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
+source-git-commit: 4d91397c769a76fba4f0ec1c3e86938a01fe2c6a
 workflow-type: tm+mt
 source-wordcount: '1239'
 ht-degree: 1%
