@@ -5,10 +5,10 @@ user-guide-description: 瞭解Adobe CX Enterprise Coworker，這是AI支援的�
 description: 瞭解CX Enterprise中的AI工具。 在CX Enterprise中使用AI來改善您的產品知識並獲得操作見解。
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 4d91397c769a76fba4f0ec1c3e86938a01fe2c6a
+source-git-commit: f914f4a123216985ae9b562413f26e7b8c29eb0f
 workflow-type: tm+mt
-source-wordcount: '250'
-ht-degree: 16%
+source-wordcount: '268'
+ht-degree: 17%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -24,6 +24,7 @@ ht-degree: 16%
       - [概觀](./chat/use-cases/data-insights/analytics-overview.md)
       - [開始使用](./chat/use-cases/data-insights/analytics-chat.md)
       - 資料治理和驗證 {#data-governance-and-validation}
+        - [概覽](./chat/use-cases/data-insights/data-governance-and-validation.md)
         - [規劃您的實作](./chat/use-cases/data-insights/implementation-guide.md)
         - [產生實施檢查清單](./chat/use-cases/data-insights/intelligent-checklist.md)
         - [升級時驗證AA至CJA資料](./chat/use-cases/data-insights/data-validation-aa-cja.md)
@@ -31,8 +32,17 @@ ht-degree: 16%
         - [驗證CJA報表的資料集品質](./chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)
         - [驗證Experience Platform資料](./chat/use-cases/data-insights/data-validation-aep.md)
         - [加速資料深入分析](./chat/use-cases/data-insights/accelerate-data-insights.md)
+      - 歷程分析 {#journey-analysis}
+        - [概覽](./chat/use-cases/data-insights/journey-analysis.md)
+      - 對象和區段分析 {#audience-and-segment-analysis}
+        - [概觀](./chat/use-cases/data-insights/audience-and-segment-analysis.md)
       - 業務績效 {#business-performance}
+        - [概觀](./chat/use-cases/data-insights/business-performance.md)
         - [探索趨勢和根本原因](./chat/use-cases/data-insights/root-cause-analysis.md)
+      - 內容績效 {#content-performance}
+        - [概覽](./chat/use-cases/data-insights/content-performance.md)
+      - 行銷測量與歸因 {#marketing-measurement-and-attribution}
+        - [概觀](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
     - 資料上線 {#data-onboarding}
       - {hide-from-toc}[與同事將資料上線](./agents/data-onboarding-skill.md)
     - 資料管理 {#data-management}

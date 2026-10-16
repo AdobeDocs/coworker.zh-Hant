@@ -5,9 +5,9 @@ product_v2:
   internal-label: CX Enterprise Coworker
 feature_v2:
   internal-label: CX Enterprise Coworker
-source-git-commit: 4d91397c769a76fba4f0ec1c3e86938a01fe2c6a
+source-git-commit: f914f4a123216985ae9b562413f26e7b8c29eb0f
 workflow-type: tm+mt
-source-wordcount: '1969'
+source-wordcount: '1281'
 ht-degree: 1%
 ---
 
@@ -36,60 +36,16 @@ Co-worker Chat可以執行進階資料分析，而之前僅能在Analysis Worksp
 
 首先以簡單的語言描述您想知道的事情。 Co-worker Chat會規劃分析、查詢您的資料檢視或報告套裝，並建立視覺效果和摘要。
 
-以下使用案例依分析網域分組。 每個群組都列出最適合的角色。
+以下使用案例依分析網域分組。 每個網域都有自己的頁面，其中包含使用案例、範例提示、必要條件及其使用的技能。
 
-### 資料治理和驗證
-
-**最佳對象：**&#x200B;管理員、分析師
-
-| 使用案例 | 函數 |
-| --- | --- |
-| [規劃您的實作](/help/chat/use-cases/data-insights/implementation-guide.md)<p>![規劃您的實作](../../assets/ui-guide-6.png)</p> | 建立實施Customer Journey Analytics、從Adobe Analytics升級，或在Edge上設定Content Analytics、Marketing Campaign Analytics或串流媒體集合的個人化逐步計畫。 計畫包含如擁有者、工作量估算、相依性和驗證步驟等詳細資訊。<p>**範例提示：** 「協助我規劃Customer Journey Analytics的實作」</p><p>如需詳細資訊，請參閱[與同事一起規劃實作](/help/chat/use-cases/data-insights/implementation-guide.md)。</p> |
-| [產生實作檢查清單](/help/chat/use-cases/data-insights/intelligent-checklist.md)<p>![產生實作檢查清單](../../assets/data-validation-aa-cja/date-detail.png)</p> <p>實驗性</p> | 將您的Customer Journey Analytics實作計畫轉換為同事專案中的檢查清單，您的團隊可以在其中指派步驟、追蹤狀態和新增核准閘門。<p>如需詳細資訊，請參閱[與同事專案產生實作檢查清單](/help/chat/use-cases/data-insights/intelligent-checklist.md)。</p> |
-| [從Adobe Analytics升級至Customer Journey Analytics時驗證資料](/help/chat/use-cases/data-insights/data-validation-aa-cja.md)<p>![從Adobe Analytics升級至Customer Journey Analytics時驗證資料](../../assets/data-validation-aa-cja/trend-bar-card.png)</p> | 比較Adobe Analytics報表套裝與Customer Journey Analytics資料檢視之間的維度、量度和趨勢，然後建議修正以支援您的升級。<p>**範例提示：** 「將我的AA報告套裝與我的CJA資料檢視進行比較」</p><p>如需詳細資訊，請參閱[從Adobe Analytics升級至Customer Journey Analytics時，與同事驗證資料](/help/chat/use-cases/data-insights/data-validation-aa-cja.md)。</p> |
-| [驗證您的串流媒體實作](/help/chat/use-cases/data-insights/streaming-media-validation.md)<p>![驗證您的串流媒體實作](../../assets/ui-guide-8.png)</p> <p>實驗性</p> | 檢查您的資料流、結構、資料集、資料檢視和工作階段資料，確認已正確設定串流媒體追蹤並收集資料。<p>**範例提示：** 「我的串流媒體實施整體狀況如何？」</p><p>如需詳細資訊，請參閱[與同事驗證您的串流媒體實作](/help/chat/use-cases/data-insights/streaming-media-validation.md)。</p> |
-| [驗證Customer Journey Analytics的資料集品質](/help/chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)<p>![驗證Customer Journey Analytics的資料集品質](../../assets/data-validation-aep/dataset-validation.png)</p> <p>實驗性（下週）</p> | 識別摘要提供Customer Journey Analytics報告的資料集，然後檢查結構描述、身分品質和欄位品質，以便在建立儀表板之前解決問題。<p>如需詳細資訊，請參閱[在同事中使用資料驗證技能驗證Customer Journey Analytics資料](/help/chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)。</p> |
-| [擷取到Experience Platform後驗證資料](/help/chat/use-cases/data-insights/data-validation-aep.md)<p>![擷取到Experience Platform後驗證資料](../../assets/data-validation-aep/null-values.png)</p> | 對Experience Platform資料集和欄位執行統計和語意檢查，以尋找資料品質問題，例如無效值或對應問題。<p>**範例提示：** 「驗證資料集Electronics Sample 1000」</p><p>如需詳細資訊，請參閱[與同事驗證您的Experience Platform資料](/help/chat/use-cases/data-insights/data-validation-aep.md)。</p> |
-| [加速資料深入分析](/help/chat/use-cases/data-insights/accelerate-data-insights.md) | 在影片中顯示Co-worker如何規劃您的實施、執行支援的動作，以及在Adobe Experience Manager、Experience Platform、Web SDK和Customer Journey Analytics中引導產品和開發步驟，直到您的網站參與資料準備好分析為止。<p>如需詳細資訊，請參閱[與同事、AEM和CJA加速資料深入分析](/help/chat/use-cases/data-insights/accelerate-data-insights.md)。</p> |
-
-### 歷程分析
-
-**最佳對象：**&#x200B;分析師、業務使用者
-
-| 使用案例 | 函數 |
-| --- | --- |
-| [分析Customer Journey Analytics和Adobe Analytics資料](/help/chat/use-cases/data-insights/analytics-chat.md)<p>![分析Customer Journey Analytics和Adobe Analytics資料](../../assets/coworker-funnel-response-card.png)</p> | 回答有關資料檢視或報表套裝的自然語言問題、建置漏斗和其他視覺效果，並找出客戶流失的位置。 您可以在Analysis Workspace中開啟任何視覺效果以供進一步分析。<p>**範例提示：** 「顯示過去30天的頁面檢視」</p><p>如需詳細資訊，請參閱[開始使用同事聊天分析資料](/help/chat/use-cases/data-insights/analytics-chat.md)。</p> |
-| [分析漏斗](#skills-and-limitations) | 逐步瞭解多步驟轉換漏斗，並檢視每個階段的流失情況。<p>**範例提示：** 「引導我完成結帳funnel」</p><p>如需詳細資訊，請參閱[技能與限制](#skills-and-limitations)。</p> |
-
-### 對象和區段分析
-
-**最佳對象：**&#x200B;分析師、業務使用者、管理員
-
-| 使用案例 | 函數 |
-| --- | --- |
-| [比較效能](#skills-and-limitations) | 並排比較不同管道、時段或區段的量度。<p>**範例提示：** 「按管道月份比較收入」</p><p>如需詳細資訊，請參閱[技能與限制](#skills-and-limitations)。</p> |
-| [分析營運趨勢與原因](/help/chat/use-cases/workflows.md#data-insights) | 查詢對象、資料集和歷程的歷史時間序列資料，並識別導致變更的原因。<p>**範例提示：** 「顯示過去90天的對象人數趨勢」</p><p>如需詳細資訊，請參閱同事聊天使用案例中的[資料深入分析](/help/chat/use-cases/workflows.md#data-insights)。</p> |
-
-### 業務績效
-
-**最佳對象：**&#x200B;分析師、業務使用者
-
-| 使用案例 | 函數 |
-| --- | --- |
-| [探索趨勢和根本原因](/help/chat/use-cases/data-insights/root-cause-analysis.md)<p>![探索趨勢和根本原因](../../assets/data-validation-aa-cja/trend-line-card.png)</p> | 識別Customer Journey Analytics和Adobe Analytics資料中的趨勢，以及推動效能變更的因素，無需手動查詢。<p>**範例提示：** 「為什麼上週轉換率下降？」</p><p>如需詳細資訊，請參閱[Customer Journey Analytics與同事](/help/chat/use-cases/data-insights/root-cause-analysis.md)。</p> |
-| [預測量度](#skills-and-limitations) | 從歷史Customer Journey Analytics或Adobe Analytics資料中專案未來的量度值，例如您是否有望達到收入目標。<p>**範例提示：** 「未來30天的預測工作階段」</p><p>如需詳細資訊，請參閱[技能與限制](#skills-and-limitations)。</p> |
-| [建立執行摘要和KPI摘要](#skills-and-limitations) | 製作適合利害關係人的效能摘要、建議和投影片組大綱。<p>**範例提示：** 「給我上個月的執行摘要」</p><p>如需詳細資訊，請參閱[技能與限制](#skills-and-limitations)。</p> |
-| [建立自訂Customer Journey Analytics技能](#skills-and-limitations) | 將您重複的分析轉換為可重複使用的技能，並持續存在於各個工作階段。<p>**範例提示：** 「將此每週收入分析變成可重複使用的技能」</p><p>如需詳細資訊，請參閱[技能與限制](#skills-and-limitations)。</p> |
-
-### 行銷測量與歸因
-
-**最佳對象：**&#x200B;分析師、業務使用者
-
-| 使用案例 | 函數 |
-| --- | --- |
-| [測量行銷活動績效](/help/chat/use-cases/workflows.md#data-insights) | 瞭解特定期間內的行銷活動、管道和Web屬性的執行方式。<p>**範例提示：** 「上個月我們的Acrobat網路行銷活動的表現如何？」</p><p>如需詳細資訊，請參閱同事聊天使用案例中的[資料深入分析](/help/chat/use-cases/workflows.md#data-insights)。</p> |
-
-如需關於這些使用案例的詳細資訊，包括他們使用的技巧和更多範例提示，請參閱[資料深入分析使用案例](/help/chat/use-cases/workflows.md#data-insights)。
+| 網域 | 您可以做什麼 | 最適合 |
+| --- | --- | --- |
+| [資料控管和驗證](/help/chat/use-cases/data-insights/data-governance-and-validation.md) | 設定、移轉及管理您的實作，並確定您可以信任每個答案背後的資料。 | 管理 |
+| [歷程分析](/help/chat/use-cases/data-insights/journey-analysis.md) | 瞭解客戶從何處退出轉換歷程，以及為何跨管道、裝置和區段。 | 分析師、業務使用者 |
+| [對象和區段分析](/help/chat/use-cases/data-insights/audience-and-segment-analysis.md) | 瞭解哪些客戶群組有不同的行為方式，以便您可以聚焦於最重要的客戶群組。 | 分析師、業務使用者 |
+| [企業績效](/help/chat/use-cases/data-insights/business-performance.md) | 瞭解業務狀況、量度移動的原因、前往的位置，以及下一步該做什麼。 | 分析師、業務使用者 |
+| [內容效能](/help/chat/use-cases/data-insights/content-performance.md) | 瞭解哪些內容獲勝，以及原因（包括每個資產的屬性），讓您能夠投資於有效內容。 | 業務使用者 |
+| [行銷測量和歸因](/help/chat/use-cases/data-insights/marketing-measurement-and-attribution.md) | 瞭解每個行銷管道和行銷活動的累加影響，以便分配支出以最佳化ROI。 | 分析師、業務使用者 |
 
 ## 技能和限制
 
@@ -139,6 +95,7 @@ Co-worker Chat可以執行進階資料分析，而之前僅能在Analysis Worksp
 
 ## 後續步驟
 
-若要設定同事聊天並逐步瀏覽工作範例，請參閱[開始使用同事聊天分析資料](/help/chat/use-cases/data-insights/analytics-chat.md)。
+* 若要設定同事聊天並逐步瀏覽工作範例，請參閱[開始使用同事聊天分析資料](/help/chat/use-cases/data-insights/analytics-chat.md)。
+* 若要檢視每個同事聊天工作流程及其背後的技能，請參閱[同事聊天工作流程](/help/chat/use-cases/workflows.md)。
 
 
