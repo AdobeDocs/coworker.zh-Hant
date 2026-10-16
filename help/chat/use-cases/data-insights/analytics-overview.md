@@ -5,9 +5,9 @@ product_v2:
   internal-label: CX Enterprise Coworker
 feature_v2:
   internal-label: CX Enterprise Coworker
-source-git-commit: b6a05e2fdc16830fd69ac1b5ea68ed1d4c5d5c5f
+source-git-commit: 4d91397c769a76fba4f0ec1c3e86938a01fe2c6a
 workflow-type: tm+mt
-source-wordcount: '1915'
+source-wordcount: '1969'
 ht-degree: 1%
 ---
 
@@ -50,6 +50,7 @@ Co-worker Chat可以執行進階資料分析，而之前僅能在Analysis Worksp
 | [驗證您的串流媒體實作](/help/chat/use-cases/data-insights/streaming-media-validation.md)<p>![驗證您的串流媒體實作](../../assets/ui-guide-8.png)</p> <p>實驗性</p> | 檢查您的資料流、結構、資料集、資料檢視和工作階段資料，確認已正確設定串流媒體追蹤並收集資料。<p>**範例提示：** 「我的串流媒體實施整體狀況如何？」</p><p>如需詳細資訊，請參閱[與同事驗證您的串流媒體實作](/help/chat/use-cases/data-insights/streaming-media-validation.md)。</p> |
 | [驗證Customer Journey Analytics的資料集品質](/help/chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)<p>![驗證Customer Journey Analytics的資料集品質](../../assets/data-validation-aep/dataset-validation.png)</p> <p>實驗性（下週）</p> | 識別摘要提供Customer Journey Analytics報告的資料集，然後檢查結構描述、身分品質和欄位品質，以便在建立儀表板之前解決問題。<p>如需詳細資訊，請參閱[在同事中使用資料驗證技能驗證Customer Journey Analytics資料](/help/chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)。</p> |
 | [擷取到Experience Platform後驗證資料](/help/chat/use-cases/data-insights/data-validation-aep.md)<p>![擷取到Experience Platform後驗證資料](../../assets/data-validation-aep/null-values.png)</p> | 對Experience Platform資料集和欄位執行統計和語意檢查，以尋找資料品質問題，例如無效值或對應問題。<p>**範例提示：** 「驗證資料集Electronics Sample 1000」</p><p>如需詳細資訊，請參閱[與同事驗證您的Experience Platform資料](/help/chat/use-cases/data-insights/data-validation-aep.md)。</p> |
+| [加速資料深入分析](/help/chat/use-cases/data-insights/accelerate-data-insights.md) | 在影片中顯示Co-worker如何規劃您的實施、執行支援的動作，以及在Adobe Experience Manager、Experience Platform、Web SDK和Customer Journey Analytics中引導產品和開發步驟，直到您的網站參與資料準備好分析為止。<p>如需詳細資訊，請參閱[與同事、AEM和CJA加速資料深入分析](/help/chat/use-cases/data-insights/accelerate-data-insights.md)。</p> |
 
 ### 歷程分析
 

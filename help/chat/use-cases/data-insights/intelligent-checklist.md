@@ -1,8 +1,7 @@
 ---
 title: 在同事專案中產生實作檢查清單
 description: 瞭解Co-worker Projects如何從您的「實作指南」計畫產生預先填入的實作檢查清單，以及您可以指派和追蹤的步驟。
-hold: true
-source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
+source-git-commit: 4d91397c769a76fba4f0ec1c3e86938a01fe2c6a
 workflow-type: tm+mt
 source-wordcount: '703'
 ht-degree: 0%
