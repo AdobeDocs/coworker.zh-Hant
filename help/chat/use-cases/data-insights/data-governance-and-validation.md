@@ -1,5 +1,5 @@
 ---
-title: 透過同事聊天驗證並控管Analytics資料
+title: 透過同事聊天實作和管理Analytics
 description: 規劃實施、在檢查清單中追蹤，並與同事聊天一起驗證Adobe Analytics、Customer Journey Analytics和Experience Platform資料。
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
@@ -7,17 +7,17 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: f914f4a123216985ae9b562413f26e7b8c29eb0f
+source-git-commit: 4bbaf3021be6518ce3aa811efec7b4d0d2746199
 workflow-type: tm+mt
-source-wordcount: '1127'
+source-wordcount: '1126'
 ht-degree: 0%
 ---
 
-# 資料控管和驗證概觀
+# 智慧型實作與管理概觀
 
 使用Adobe CX Enterprise Coworker Chat設定、移轉及管理您的分析實作，並確定您可以信任每個答案背後的資料。 同事可以規劃您的實施、將計畫轉換為檢查清單，讓您的團隊可以追蹤，並在收集後驗證您的資料。
 
-資料治理和驗證是Co-worker Chat中的數個分析網域之一。 若要檢視所有網域，請參閱「使用同事聊天分析資料」中的[開始在同事聊天中分析](/help/chat/use-cases/data-insights/analytics-overview.md#start-analyzing-in-coworker-chat)。
+智慧型實施與管理是Co-worker Chat中的數個分析網域之一。 若要檢視所有網域，請參閱「使用同事聊天分析資料」中的[開始在同事聊天中分析](/help/chat/use-cases/data-insights/analytics-overview.md#start-analyzing-in-coworker-chat)。
 
 **最佳對象：**&#x200B;管理員
 

@@ -5,7 +5,7 @@ product_v2:
   internal-label: CX Enterprise Coworker
 feature_v2:
   internal-label: CX Enterprise Coworker
-source-git-commit: f914f4a123216985ae9b562413f26e7b8c29eb0f
+source-git-commit: 4bbaf3021be6518ce3aa811efec7b4d0d2746199
 workflow-type: tm+mt
 source-wordcount: '1281'
 ht-degree: 1%
@@ -40,7 +40,7 @@ Co-worker Chat可以執行進階資料分析，而之前僅能在Analysis Worksp
 
 | 網域 | 您可以做什麼 | 最適合 |
 | --- | --- | --- |
-| [資料控管和驗證](/help/chat/use-cases/data-insights/data-governance-and-validation.md) | 設定、移轉及管理您的實作，並確定您可以信任每個答案背後的資料。 | 管理 |
+| [智慧型實作與管理](/help/chat/use-cases/data-insights/data-governance-and-validation.md) | 設定、移轉及管理您的實作，並確定您可以信任每個答案背後的資料。 | 管理 |
 | [歷程分析](/help/chat/use-cases/data-insights/journey-analysis.md) | 瞭解客戶從何處退出轉換歷程，以及為何跨管道、裝置和區段。 | 分析師、業務使用者 |
 | [對象和區段分析](/help/chat/use-cases/data-insights/audience-and-segment-analysis.md) | 瞭解哪些客戶群組有不同的行為方式，以便您可以聚焦於最重要的客戶群組。 | 分析師、業務使用者 |
 | [企業績效](/help/chat/use-cases/data-insights/business-performance.md) | 瞭解業務狀況、量度移動的原因、前往的位置，以及下一步該做什麼。 | 分析師、業務使用者 |
