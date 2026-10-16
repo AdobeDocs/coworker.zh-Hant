@@ -7,9 +7,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
+source-git-commit: 53e769c5478f46ec9240c62534994d8c30ce8380
 workflow-type: tm+mt
-source-wordcount: '935'
+source-wordcount: '936'
 ht-degree: 18%
 ---
 # CX Enterprise Coworker指南 {#overview}
@@ -23,7 +23,7 @@ ht-degree: 18%
 [!DNL Coworker]透過三個體驗傳遞：
 
 * **[同事[!UICONTROL 聊天]](./chat/overview.md)：**&#x200B;以自然語言詢問所有Adobe應用程式的深入分析、內容和動作。
-* **[同事[!UICONTROL 行銷活動]](./coworker-for-teams/overview.md)：**&#x200B;協助敏捷行銷團隊從行銷活動目標轉為協調執行。
+* **[團隊的同事](./coworker-for-teams/overview.md)：**&#x200B;協助敏捷行銷團隊從行銷活動目標轉為協調執行。
 * **同事[!UICONTROL 專案] （即將推出）：**&#x200B;適用於長期執行的跨職能企業工作流程，其中團隊會設定程式、核准及同事的自主性等級。
 
 ## 如何啟用同事
