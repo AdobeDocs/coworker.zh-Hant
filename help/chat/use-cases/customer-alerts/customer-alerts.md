@@ -1,7 +1,27 @@
 ---
 title: 客戶警示技能
 description: 瞭解如何使用CX Coworker中的客戶警示技能，透過自然語言對話來檢閱、分析和排定警示活動的優先順序。
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+jira: KT-22913
+last-substantial-update: '2026-10-16T00:00:00.000Z'
+product_v2:
+  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
+    internal-label: CX Enterprise Coworker
+  - id: edbd1a0e-46c8-49da-8c10-dba9ec80bba9
+    internal-label: Experience Platform
+feature_v2:
+  - id: a7150a74-b8a9-4042-b066-147c5f0ca505
+    internal-label: Alerts
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: 0a9cfeaf54221e004e0422766f8bd1bb4d078dea
 workflow-type: tm+mt
 source-wordcount: '1014'
 ht-degree: 4%
@@ -18,6 +38,8 @@ ht-degree: 4%
 使用CX Coworker中的客戶警示技能，將警示活動轉換為個人化的營運簡報。 檢閱最近的警示、識別高優先順序的問題、瞭解哪些資源受到影響，並透過自然語言對話集中調查工作。
 
 「客戶警示技能」可協助您從警示訊號轉變為可操作的深入分析，無需手動檢閱警示檢視或在多個介面間建立資訊關聯。 從有關最近警示活動的廣泛問題開始，然後使用後續問題來識別週期性警示模式、分析受影響的物件，並專注於您擁有的警示。
+
+>[!VIDEO](https://video.tv.adobe.com/v/3504716?learn=on)
 
 如需客戶警示的相關資訊，請參閱[客戶警示概觀](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/observability/alerts/overview)。
 

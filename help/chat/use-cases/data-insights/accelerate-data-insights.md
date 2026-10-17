@@ -19,5 +19,5 @@ ht-degree: 0%
 瞭解Adobe CX Enterprise Coworker如何協助將資料深入分析目標轉換為Adobe Experience Manager (AEM)、Adobe Experience Platform (AEP)、Web SDK和Customer Journey Analytics (CJA)的連線實作工作流程。 瞭解同事如何協助規劃實作、執行支援的動作、指導產品和開發步驟，以及維護整個工作流程的內容，直到WKND網站參與資料可用於在CJA中分析為止。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3504567/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504576/?captions=chi_hant&learn=on&enablevpops)
 
