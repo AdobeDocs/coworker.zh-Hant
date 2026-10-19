@@ -5,24 +5,24 @@ user-guide-description: 瞭解Adobe CX Enterprise Coworker，這是AI支援的�
 description: 瞭解CX Enterprise中的AI工具。 在CX Enterprise中使用AI來改善您的產品知識並獲得操作見解。
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 4bbaf3021be6518ce3aa811efec7b4d0d2746199
+source-git-commit: be1be18a25c57eafa07b326b1bf5800527cb1c7d
 workflow-type: tm+mt
-source-wordcount: '275'
-ht-degree: 16%
+source-wordcount: '281'
+ht-degree: 14%
 ---
 
 # CX Enterprise Coworker {#content}
 
 - [同事概觀](home.md)
 - Chat {#chat}
-  - [概觀](./chat/overview.md)
-  - [開始聊天](./chat/ui-guide.md)
+  - [關於同事聊天](./chat/overview.md)
+  - [開始使用同事聊天](./chat/ui-guide.md)
   - {hide-from-toc}[在遊樂場的同事聊天](./playground-coworker-chat.md)
-  - 使用案例 {#use-cases}
+  - 工作流程 {#use-cases}
     - [同事聊天工作流程](./chat/use-cases/workflows.md)
     - 資料分析 {#data-insights}
-      - [概觀](./chat/use-cases/data-insights/analytics-overview.md)
-      - [開始使用](./chat/use-cases/data-insights/analytics-chat.md)
+      - [關於分析資料](./chat/use-cases/data-insights/analytics-overview.md)
+      - [開始分析資料](./chat/use-cases/data-insights/analytics-chat.md)
       - 智慧型實作與管理 {#intelligent-implementation-and-administration}
         - [概觀](./chat/use-cases/data-insights/data-governance-and-validation.md)
         - [規劃您的實作](./chat/use-cases/data-insights/implementation-guide.md)
@@ -40,7 +40,7 @@ ht-degree: 16%
         - [概觀](./chat/use-cases/data-insights/business-performance.md)
         - [探索趨勢和根本原因](./chat/use-cases/data-insights/root-cause-analysis.md)
       - 內容績效 {#content-performance}
-        - [概覽](./chat/use-cases/data-insights/content-performance.md)
+        - [概觀](./chat/use-cases/data-insights/content-performance.md)
       - 行銷測量與歸因 {#marketing-measurement-and-attribution}
         - [概觀](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
     - 資料上線 {#data-onboarding}
@@ -69,7 +69,7 @@ ht-degree: 16%
     - 工作流程與規劃 {#workflow-and-planning}
       - [規劃數位行銷活動啟動](./chat/use-cases/workflow-and-planning/plan-digital-campaign-launch.md)
 - 自訂 {#customizations}
-  - [概覽](./customizations/overview.md)
+  - [概觀](./customizations/overview.md)
   - 技能 {#skills}
     - [什麼是技能？](./customizations/skills/what-are-skills.md)
     - [建立您的第一項技能](./customizations/skills/create-your-first-skill.md)
