@@ -7,12 +7,12 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
+source-git-commit: 68132acaa3dfbefa1e9cda9fad724f17c7e5f065
 workflow-type: tm+mt
-source-wordcount: '986'
+source-wordcount: '983'
 ht-degree: 0%
 ---
-# 適用於團隊的Adobe CX Enterprise Coworker概觀 {#overview}
+# 團隊的同事概觀 {#overview}
 
 適用於團隊的同事是專為具有更敏捷行銷團隊的小型組織所設計，這些團隊需要在單一工具中產生內容、建立歷程及分析。
 
@@ -114,7 +114,7 @@ ht-degree: 0%
 
 ## 影片概觀
 
->[!VIDEO](https://video.tv.adobe.com/v/3492816?captions=chi_hant&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3492807?learn=on){transcript=true}
 
 
 新功能將在試用期間提供。 您的意見反應有助於規劃未來發展。 透過標題中的產品內意見回饋圖示提交意見回饋。
