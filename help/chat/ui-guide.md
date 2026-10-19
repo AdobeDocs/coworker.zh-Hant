@@ -8,9 +8,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 74f8413fcb9bb0ab6c257a56c38e5e374414e2d5
+source-git-commit: 80f7bf9003e360b9ca6d0e1868c056447d35b763
 workflow-type: tm+mt
-source-wordcount: '1802'
+source-wordcount: '1801'
 ht-degree: 2%
 ---
 # 開始使用同事聊天 {#ui-guide}
@@ -46,7 +46,7 @@ Co-worker Chat可讓您透過簡單語言詢問您所需的內容，以使用Ado
 
 ## 影片 — [!DNL Coworker]聊天介面的基本知識
 
->[!VIDEO](https://video.tv.adobe.com/v/3498576?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## 選擇您的組織
 
@@ -213,7 +213,7 @@ Home畫面會根據同事聊天可在您的沙箱中執行的操作，顯示問�
 
 ## 自訂同事聊天
 
-您可以透過設定來控制同事聊天功能。 按一下導覽邊欄中的&#x200B;**[!UICONTROL 組態]**，然後選擇標籤： **[!UICONTROL 技能]**、**[!UICONTROL MCP伺服器]**、**[!UICONTROL 市場]**、**[!UICONTROL 外掛程式]**&#x200B;或&#x200B;**[!UICONTROL 記憶體]**。
+[!UICONTROL 自訂]是您控制[!UICONTROL 同事聊天]能做的事情的地方。 按一下導覽邊欄中的&#x200B;**[!UICONTROL 自訂]**，然後選擇標籤： **[!UICONTROL 技能]**、**[!UICONTROL 整合]**、**[!UICONTROL 行銷場所]**、**[!UICONTROL 外掛程式]**&#x200B;或&#x200B;**[!UICONTROL 記憶體]**。
 
 ### 新增和檢視技能
 
@@ -221,8 +221,9 @@ Home畫面會根據同事聊天可在您的沙箱中執行的操作，顯示問�
 
 ![技能索引標籤](./assets/ui-guide-12.png)
 
-1. 在&#x200B;**[!UICONTROL 技能]**&#x200B;索引標籤上，按一下&#x200B;**[!UICONTROL 新增Source]**&#x200B;以從新來源安裝技能。
-1. 在&#x200B;**[!UICONTROL 搜尋]**&#x200B;中輸入名稱以尋找技能。 使用檢視切換可在格點和清單配置之間切換。
+1. 在&#x200B;**[!UICONTROL 技能]**&#x200B;索引標籤上，按一下&#x200B;**[!UICONTROL 新增技能]**&#x200B;以從新來源安裝技能。
+1. 在&#x200B;**[!UICONTROL 搜尋]**中輸入名稱以尋找技能。
+使用檢視切換可在格點和清單配置之間切換。
 1. 選取技能，以檢視「同事聊天」使用外掛程式時，該技能所屬的外掛程式及其包含的檔案。
 
    ![顯示支援檔案的技能詳細資料檢視](./assets/ui-guide-13.png)
@@ -235,7 +236,7 @@ Home畫面會根據同事聊天可在您的沙箱中執行的操作，顯示問�
 
 模型內容通訊協定(MCP)伺服器將「同事聊天」連線至外部工具和服務，例如Adobe Journey Optimizer、Real-Time CDP、Target和Workfront。 **[!UICONTROL MCP伺服器]**&#x200B;索引標籤會列出您連線的伺服器和使用中連線的數目。 每個卡片都會顯示伺服器名稱、其端點，以及描述其所提供內容的標籤。
 
-若要連線伺服器，請按一下[新增伺服器] **&#x200B;**，然後依照提示操作。
+若要連線伺服器，請按一下[新增伺服器] ****，然後依照提示操作。
 
 ![MCP伺服器索引標籤](./assets/ui-guide-15.png)
 
