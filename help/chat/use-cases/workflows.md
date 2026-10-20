@@ -7,14 +7,20 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 0ccc8faed069b726a28a39042047d1e66200181e
+source-git-commit: be1be18a25c57eafa07b326b1bf5800527cb1c7d
 workflow-type: tm+mt
-source-wordcount: '7618'
+source-wordcount: '7712'
 ht-degree: 6%
 ---
 # 同事聊天工作流程 {#use-cases}
 
 Co-worker Chat可讓您使用自然語言來查詢、分析和處理您的[!DNL Experience Platform]資料，而不需手動導覽多個UI或撰寫查詢。 此頁面將從業人員最仰賴的工作流程分類，依工作區域組織：資料深入分析、對象、歷程、忠誠度、基本元素和沙箱工具。 每個專案都包含它叫用的技能、它使用的應用程式，以及範例提示，您可以複製、調整您自己的資料，並透過對話調整內容。
+
+## 關於技能和工作流程
+
+**技能：** _技能_&#x200B;是同事可以執行的單一、特定功能或動作。 範例包括建立對象、傳送電子郵件、產生報表或分析行銷活動結果。 每項技能都專注於一項特定功能。
+
+**Worfkow：** _工作流程_&#x200B;是一系列步驟或動作（通常包含多項技能），旨在達成更廣泛的業務目標。 工作流程會以邏輯順序協調數種技能，以完成複雜的多步驟流程，例如啟動行銷活動、加入新的客戶區段，或診斷行銷活動績效的下降。
 
 ## 品牌體驗
 

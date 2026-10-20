@@ -7,10 +7,10 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 53e769c5478f46ec9240c62534994d8c30ce8380
+source-git-commit: ebe0bd0f8e420b007e1b99ec2e15fd3b249305e6
 workflow-type: tm+mt
-source-wordcount: '936'
-ht-degree: 18%
+source-wordcount: '979'
+ht-degree: 17%
 ---
 # CX Enterprise Coworker指南 {#overview}
 
@@ -22,13 +22,13 @@ ht-degree: 18%
 
 [!DNL Coworker]透過三個體驗傳遞：
 
-* **[同事[!UICONTROL 聊天]](./chat/overview.md)：**&#x200B;以自然語言詢問所有Adobe應用程式的深入分析、內容和動作。
-* **[團隊的同事](./coworker-for-teams/overview.md)：**&#x200B;協助敏捷行銷團隊從行銷活動目標轉為協調執行。
+* **[同事[!UICONTROL 聊天]](./chat/overview.md)：**&#x200B;以自然語言詢問所有Adobe應用程式的深入分析、內容和動作。 聊天已透過您的帳戶團隊授權並啟用。
+* **[團隊的同事](./coworker-for-teams/overview.md)：**&#x200B;協助敏捷行銷團隊從行銷活動目標轉為協調執行。 適用於團隊的同事可在其URL自助免費試用，有效期至2026年12月31日止，僅限北美地區。
 * **同事[!UICONTROL 專案] （即將推出）：**&#x200B;適用於長期執行的跨職能企業工作流程，其中團隊會設定程式、核准及同事的自主性等級。
 
-## 如何啟用同事
+## 如何啟用同事聊天
 
-若要啟用同事（包括同事聊天），您的組織需要存取Adobe CX Enterprise Coworker。 啟用通常涉及：
+若要啟用同事聊天，您的組織需要存取Adobe CX Enterprise Coworker。 啟用通常涉及：
 
 * **授權：**&#x200B;請聯絡您的Adobe客戶代表或銷售團隊，確認您擁有正確的授權和權益。
 
@@ -36,7 +36,9 @@ ht-degree: 18%
 
 * **存取：**&#x200B;在Adobe [Admin Console](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/administration/admin-console)中為您的團隊指派角色並存取同事功能。
 
-* **開始使用：**&#x200B;同事啟用後，請參閱[開始同事聊天](./chat/ui-guide.md)，瞭解您如何進行同事聊天介面，包括輸入方塊、回應、聊天記錄及技能、MCP伺服器和記憶體設定。
+* **開始使用：**&#x200B;同事啟用後，請參閱[開始同事聊天](./chat/ui-guide.md)，瞭解您如何瀏覽同事聊天介面，包括輸入方塊、回應和聊天記錄。
+
+若要量身打造同事與您團隊的聊天，請參閱[技能](./customizations/skills/what-are-skills.md)、[整合](./customizations/integrations/understanding-integrations-in-coworker.md)、[外掛程式](./customizations/plugins/what-are-plugins.md)及[記憶體](./customizations/memory/what-is-memory.md)，或從[自訂概述](./customizations/overview.md)開始。
 
 ## 使用同事聊天的相關影片
 
@@ -116,7 +118,7 @@ CARDS
 
 **受歡迎的文章**
 
-* [概覽](./coworker-for-teams/overview.md)
+* [概觀](./coworker-for-teams/overview.md)
 * [建立電子郵件行銷活動](./coworker-for-teams/create-an-email-campaign.md)
 * [使用案例](./coworker-for-teams/use-cases.md)
 * [提示最佳實務](./coworker-for-teams/prompting-best-practices.md)

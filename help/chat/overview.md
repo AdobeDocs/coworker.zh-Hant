@@ -7,12 +7,12 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
+source-git-commit: 5dcd4ea4f6fe540f6f48e9db73d8c2de8b43d90d
 workflow-type: tm+mt
-source-wordcount: '751'
-ht-degree: 3%
+source-wordcount: '719'
+ht-degree: 6%
 ---
-# Adobe CX Enterprise Coworker Chat概觀 {#overview}
+# 關於同事聊天 {#overview}
 
 同事聊天是讓客戶體驗工作完成的對話式介面。 您以簡單的語言描述目標（例如「建立春季瑜伽促銷活動的對象」或「告訴我為什麼這個對象上週會收縮」），Co-worker Chat會規劃工作、在Adobe和連線系統上執行、驗證結果，以及將完成的工作交還給您核准。
 
@@ -22,7 +22,7 @@ ht-degree: 3%
 
 >[!AVAILABILITY]
 >
->同事聊天功能現已正式推出。 功能與連線的應用程式持續擴展。 請檢視可用的技能和聯結器部分，以瞭解目前支援的內容。
+>同事聊天功能現已正式推出。 功能與連線的應用程式持續擴展。 檢查可用的[技能](./use-cases/workflows.md)和聯結器區段，以瞭解目前支援的內容。
 
 >[!NOTE]
 >
@@ -30,7 +30,7 @@ ht-degree: 3%
 
 ## AI助理的演變
 
-如果您已使用AI Assistant和Adobe Experience Platform Agent Orchestrator，同事聊天是下一個程式。 AI助理正逐漸變成同事聊天。 您現在可以在AI Assistant中叫用Adobe專門建置的代理程式執行的所有操作（產品知識、操作和資料見解、對話式體驗）都將隨時可用。 「同事聊天」由同事組成要素（企業工具、技能、治理和記憶體）作為後盾，因此相同的交談現在可以超越接聽，實際完成端對端的工作。
+同事聊天是[AI小幫手](https://experienceleague.adobe.com/zh-hant/docs/cx-enterprise-ai/experience-cloud-ai/ai-assistant/ai-assistant-ui)和Adobe Experience Platform Agent Orchestrator之後的下一個步驟。 您現在可以在AI Assistant中執行的所有操作，包括產品知識以及操作和資料分析，仍可使用。 同事聊天新增讓交談完成工作的[建置區塊](#building-blocks)，而不只是回答問題。
 
 ## 聊天體驗
 
@@ -40,10 +40,6 @@ ht-degree: 3%
 * **建議和後續提示：**&#x200B;同事聊天會建議後續步驟，因此您不必猜測要問什麼。
 * **交談記錄：**&#x200B;已儲存過去的交談，因此您可以返回先前的工作、從中斷的地方取回並重複使用同事交談產生的內容。
 * **內建的意見反應：**&#x200B;將任何回應評為豎起或豎下大拇指，告訴同事聊天什麼有效什麼無效；您的意見反應有助於隨著時間改善體驗。
-
->[!NOTE]
->
->體驗完成後，將會新增介面熒幕擷取畫面。
 
 ## 相容的CX Enterprise應用程式
 
