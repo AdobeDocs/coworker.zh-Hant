@@ -25,4 +25,4 @@ ht-degree: 0%
 
 在此影片中，瞭解如何模擬歷程的分支路徑和分析診斷以識別設定問題。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504706?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504715?captions=chi_hant&learn=on)
