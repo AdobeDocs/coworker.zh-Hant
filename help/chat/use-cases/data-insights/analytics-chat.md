@@ -4,10 +4,7 @@ description: 瞭解如何使用Adobe CX Enterprise Coworker Chat分析Customer J
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-feature_v2:
-  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 60669850e4005be01c31d9f7818d1c4ad3ed8f3a
+source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
 workflow-type: tm+mt
 source-wordcount: '2094'
 ht-degree: 4%
@@ -323,7 +320,7 @@ Co-worker建立視覺效果後，您可以在Analysis Workspace中開啟該視�
 
 若要在新的Analysis Workspace專案中開啟視覺效果：
 
-1. 選取「在CJA中分析&#x200B;**」（位於在Co-worker中建立的任何視覺效果旁）。**
+1. 選取「在CJA中分析&#x200B;**]」（位於在Co-worker中建立的任何視覺效果旁）。[!UICONTROL **
 
 1. 在Customer Journey Analytics中開啟視覺效果後，您可以使用Analysis Workspace拖放瀏覽器介面進行修改、進一步製作分析、建立對象等。 您甚至可以和您選擇的任何人共用您的Workspace專案。
 
