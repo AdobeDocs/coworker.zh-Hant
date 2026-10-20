@@ -43,7 +43,7 @@ Co-worker Chat可讓您透過簡單語言詢問您所需的內容，以使用Ado
 
 ## 影片 — [!DNL Coworker]聊天介面的基本知識
 
->[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498576?captions=chi_hant&learn=on)
 
 ## 選擇您的組織
 

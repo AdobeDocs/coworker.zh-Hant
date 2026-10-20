@@ -111,7 +111,7 @@ ht-degree: 0%
 
 ## 影片概觀
 
->[!VIDEO](https://video.tv.adobe.com/v/3492807?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3492816?captions=chi_hant&learn=on){transcript=true}
 
 
 新功能將在試用期間提供。 您的意見反應有助於規劃未來發展。 透過標題中的產品內意見回饋圖示提交意見回饋。
