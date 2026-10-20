@@ -7,9 +7,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: be1be18a25c57eafa07b326b1bf5800527cb1c7d
+source-git-commit: ee4016ae71de6eadc7b38d434a6aeefde74b124b
 workflow-type: tm+mt
-source-wordcount: '7712'
+source-wordcount: '7768'
 ht-degree: 6%
 ---
 # 同事聊天工作流程 {#use-cases}
@@ -188,6 +188,7 @@ Co-worker Chat可讓您使用自然語言來查詢、分析和處理您的[!DNL 
 | --- | --- | --- | --- | --- |
 | [建立、編輯和管理忠誠度挑戰](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-challenge-management){target="_blank"} | 簡化並加速熟客方案管理 | `loyalty` | Adobe Journey Optimizer (AJO) | 「建立挑戰，鼓勵會員嘗試新的季節性飲品」 <br> 「以最高的會員流失率向我展示忠誠度挑戰。」 |
 | [分析熟客方案績效](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-data-insight){target="_blank"} | 使用自然語言查詢和分析熟客點數、成員層級、贖回和收入量度 | `loyalty-insights` | Adobe Journey Optimizer (AJO) | 「2026年8月期間已授與多少忠誠點數？」 <br> 「顯示2026年8月期間依日劃分的熟客方案總收入。」 |
+| [尋找熟客機會](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-opportunities){target="_blank"} | 根據忠誠度計畫趨勢和績效資料，請求以基礎為基礎的特定挑戰機會，然後將其轉換為即時挑戰 | 未定 | Adobe Journey Optimizer (AJO) | 「哪些熟客機會可能會增加會員支出？」 <br> 「向我顯示贏回非作用中成員的機會。」 |
 
 **相關資訊**
 
