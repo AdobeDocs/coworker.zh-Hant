@@ -4,21 +4,14 @@ title: 建立電子郵件行銷活動
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-feature_v2:
-  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
+source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
 workflow-type: tm+mt
-source-wordcount: '983'
+source-wordcount: '964'
 ht-degree: 0%
 ---
 # 建立電子郵件行銷活動 {#create-an-email-campaign}
 
 瞭解如何在數分鐘內產生並檢閱完整的電子郵件行銷活動。
-
->[!IMPORTANT]
->
->目前您只能產生行銷活動，尚未傳送（啟動）行銷活動。 Launch功能即將推出。
 
 ## 開始之前
 

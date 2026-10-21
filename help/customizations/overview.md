@@ -4,13 +4,10 @@ description: 瞭解Adobe CX Enterprise Coworker中的自訂功能，包括技能
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-feature_v2:
-  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 2d4922c334bcc2ec93dec46098a9c021623034ad
+source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
 workflow-type: tm+mt
-source-wordcount: '563'
-ht-degree: 27%
+source-wordcount: '567'
+ht-degree: 28%
 ---
 # 同事自訂概觀 {#overview}
 
