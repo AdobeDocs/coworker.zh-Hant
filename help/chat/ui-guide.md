@@ -5,9 +5,9 @@ jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: b91e8dcdacf57bdbc4fb6cf7d6fe92920e7fbb6e
 workflow-type: tm+mt
-source-wordcount: '1801'
+source-wordcount: '1765'
 ht-degree: 2%
 ---
 # 開始使用同事聊天 {#ui-guide}
@@ -25,7 +25,7 @@ Co-worker Chat可讓您透過簡單語言詢問您所需的內容，以使用Ado
 | Real-Time CDP | 現在可用 | 即將推出 |
 | Adobe Journey Optimizer | 現在可用 | 即將推出 |
 | Customer Journey Analytics | 現在可用 | 即將推出 |
-| Workfront | 現在可用 | 即將推出：<br><br>* 2026年9月初在預覽執行個體中，針對選取的合格Workfront系統管理員<br><br>* 2026年9月中旬在生產執行個體中，針對合格的快速發行Workfront客戶<br><br>* 2026年10月中旬在生產執行個體中，針對合格的季度發行Workfront客戶 |
+| Workfront | 現在可用 | 現在可用 |
 | 目標 | 現在可用 | 現在可用 |
 | AEM | 現在可用 | 現在可用 |
 | Marketo Engage | 現在可用 | 即將推出 |
@@ -43,7 +43,7 @@ Co-worker Chat可讓您透過簡單語言詢問您所需的內容，以使用Ado
 
 ## 影片 — [!DNL Coworker]聊天介面的基本知識
 
->[!VIDEO](https://video.tv.adobe.com/v/3498576?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## 選擇您的組織
 
@@ -219,7 +219,7 @@ Home畫面會根據同事聊天可在您的沙箱中執行的操作，顯示問�
 ![技能索引標籤](./assets/ui-guide-12.png)
 
 1. 在&#x200B;**[!UICONTROL 技能]**&#x200B;索引標籤上，按一下&#x200B;**[!UICONTROL 新增技能]**&#x200B;以從新來源安裝技能。
-1. 在&#x200B;**[!UICONTROL 搜尋]**&#x200B;中輸入名稱以尋找技能。
+1. 在&#x200B;**[!UICONTROL 搜尋]**中輸入名稱以尋找技能。
 使用檢視切換可在格點和清單配置之間切換。
 1. 選取技能，以檢視「同事聊天」使用外掛程式時，該技能所屬的外掛程式及其包含的檔案。
 
@@ -233,7 +233,7 @@ Home畫面會根據同事聊天可在您的沙箱中執行的操作，顯示問�
 
 模型內容通訊協定(MCP)伺服器將「同事聊天」連線至外部工具和服務，例如Adobe Journey Optimizer、Real-Time CDP、Target和Workfront。 **[!UICONTROL MCP伺服器]**&#x200B;索引標籤會列出您連線的伺服器和使用中連線的數目。 每個卡片都會顯示伺服器名稱、其端點，以及描述其所提供內容的標籤。
 
-若要連線伺服器，請按一下[新增伺服器] **&#x200B;**，然後依照提示操作。
+若要連線伺服器，請按一下[新增伺服器] ****，然後依照提示操作。
 
 ![MCP伺服器索引標籤](./assets/ui-guide-15.png)
 
