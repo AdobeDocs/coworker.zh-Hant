@@ -1,17 +1,19 @@
 ---
-title: Adobe CX Enterprise Coworker指南
+title: Adobe CX Enterprise Coworker概觀
 description: 瞭解Adobe CX Enterprise Coworker，這是AI支援的團隊成員，可讓您組織中的客戶體驗和行銷工作流程自動化。
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: 577c1f8f9ea054eabfede407149139638311d5dc
 workflow-type: tm+mt
-source-wordcount: '1094'
-ht-degree: 17%
+source-wordcount: '1181'
+ht-degree: 16%
 ---
-# CX Enterprise Coworker指南 {#overview}
+# CX Enterprise Coworker概觀 {#overview}
 
-[!DNL Coworker]是Adobe的代理AI團隊成員，負責客戶體驗和行銷工作。 其功用不只在於回答問題或建議動作。 它可以跨Adobe和其他企業系統執行多步驟行銷工作流程，而核准和治理可讓您掌控局面。 深入瞭解[Adobe for Business](https://business.adobe.com/tw/products/cx-enterprise-coworker.html)。
+[!DNL Coworker]是AI支援的團隊成員，可重新構想組織、團隊和個人的工作性質。 它自動化了客戶體驗和行銷工作流程，讓組織可以聚焦於實現業務目標和改善成果，而非協調工作。 Co-worker作為代理引擎，採用創新的方式實現業務流程自動化。 它將企業內容、資料、情報、共同作業和執行代理技能結合在一起，並內建治理和人力監督，以改善AI模型效能和準確性。
+
+Co-worker是為執行複雜、跨職能客戶體驗工作流程的組織所建置。 它將「同事聊天」和「同事專案」整合在一起，讓從業人員能夠在同事體驗中，從單一任務移至完整的多團隊工作流程。 治理、核准和人力監督從一開始就進行整合。 深入瞭解[Adobe for Business](https://business.adobe.com/tw/products/cx-enterprise-coworker.html)。
 
 ## 選擇體驗
 
