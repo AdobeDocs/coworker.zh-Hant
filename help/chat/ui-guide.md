@@ -5,9 +5,9 @@ jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: b91e8dcdacf57bdbc4fb6cf7d6fe92920e7fbb6e
 workflow-type: tm+mt
-source-wordcount: '1801'
+source-wordcount: '1765'
 ht-degree: 2%
 ---
 # 開始使用同事聊天 {#ui-guide}
@@ -25,7 +25,7 @@ Co-worker Chat可讓您透過簡單語言詢問您所需的內容，以使用Ado
 | Real-Time CDP | 現在可用 | 即將推出 |
 | Adobe Journey Optimizer | 現在可用 | 即將推出 |
 | Customer Journey Analytics | 現在可用 | 即將推出 |
-| Workfront | 現在可用 | 即將推出：<br><br>* 2026年9月初在預覽執行個體中，針對選取的合格Workfront系統管理員<br><br>* 2026年9月中旬在生產執行個體中，針對合格的快速發行Workfront客戶<br><br>* 2026年10月中旬在生產執行個體中，針對合格的季度發行Workfront客戶 |
+| Workfront | 現在可用 | 現在可用 |
 | 目標 | 現在可用 | 現在可用 |
 | AEM | 現在可用 | 現在可用 |
 | Marketo Engage | 現在可用 | 即將推出 |
