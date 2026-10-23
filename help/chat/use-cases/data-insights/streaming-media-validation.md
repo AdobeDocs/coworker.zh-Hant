@@ -1,7 +1,7 @@
 ---
 title: 與同事驗證您的串流媒體實作
 description: 瞭解同事的串流媒體驗證技能如何檢查您的設定、工作階段和記錄，以確認您的實施是否正確追蹤。
-source-git-commit: 4d91397c769a76fba4f0ec1c3e86938a01fe2c6a
+source-git-commit: b54085a497ca4bbf0003d5837d816206a4d40396
 workflow-type: tm+mt
 source-wordcount: '1304'
 ht-degree: 0%
@@ -65,7 +65,7 @@ Adobe CX Enterprise Coworker包含串流媒體驗證技能，可檢查您在Edge
 
 1. 登入同事。
 
-1. 選取&#x200B;[!UICONTROL **新增聊天**]。
+1. 選取&#x200B;**[!UICONTROL 新增聊天]**。
 
 1. 在文字欄位中，說明您要驗證的內容。 例如：
 

@@ -1,7 +1,7 @@
 ---
 title: 與同事一同規劃您的Customer Journey Analytics或串流媒體實作
 description: 瞭解同事的實作指南技能如何透過可匯出的核對清單，將探索對話轉換為個人化、有序的實作計畫。
-source-git-commit: 4d91397c769a76fba4f0ec1c3e86938a01fe2c6a
+source-git-commit: b54085a497ca4bbf0003d5837d816206a4d40396
 workflow-type: tm+mt
 source-wordcount: '1239'
 ht-degree: 1%
@@ -56,7 +56,7 @@ Adobe CX Enterprise Coworker包含五個實作指南技能，每個產品介面�
 
 1. 登入同事。
 
-1. 選取&#x200B;[!UICONTROL **新增聊天**]。
+1. 選取&#x200B;**[!UICONTROL 新增聊天]**。
 
 1. 在文字欄位中，說明您要計畫的實施或移轉。 例如：
 

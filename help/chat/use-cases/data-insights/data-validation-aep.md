@@ -10,7 +10,7 @@ jira: PLAT-302857
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: b54085a497ca4bbf0003d5837d816206a4d40396
 workflow-type: tm+mt
 source-wordcount: '1058'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Adobe CX Enterprise Coworker包含資料驗證技能，可檢查Experience Platf
 
 1. 登入同事。
 
-1. 選取&#x200B;[!UICONTROL **新交談**]。
+1. 選取&#x200B;**[!UICONTROL 新增聊天]**。
 
 1. 在文字欄位中，提示代理程式驗證欄位或資料集。 例如：
 
@@ -156,5 +156,5 @@ Adobe CX Enterprise Coworker包含資料驗證技能，可檢查Experience Platf
 
 * [升級時驗證Adobe Analytics至Customer Journey Analytics的資料](./data-validation-aa-cja.md)
 * [使用Co-worker中的資料驗證技能驗證Customer Journey Analytics資料](./validate-dataset-quality-for-cja.md)
-* [驗證您的資料（AI助理）](https://experienceleague.adobe.com/zh-hant/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-validation)
+* [驗證您的資料（AI助理）](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-validation)
 * [信任您的Customer Journey Analytics報告： Adobe CX Enterprise Coworker中的資料驗證技能](https://www.youtube.com/watch?v=gCSm_QYSYhk) （影片）
