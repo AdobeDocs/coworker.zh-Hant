@@ -3,7 +3,7 @@
 hide: true
 
 # TITLE AND DESCRIPTION
-# Title: title case, 60 characters or fewer, no product name.
+# Title: title case, 60 characters or fewer.
 # Description: one or two sentences, about 150-160 characters. Start with "Learn about..." for concepts or "Learn how to..." for tasks.
 title: 標題大小寫中頁面的標題
 description: 瞭解如何使用Adobe CX Enterprise Coworker [執行工作]。 [要求採取行動的第二句話。]
@@ -13,9 +13,9 @@ level: Beginner
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 1c6c045a70d7b6d00a88a32c39216c05478d8029
+source-git-commit: 951c534c04e9d431b4db71e3d999685629821194
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '304'
 ht-degree: 1%
 ---
 <!--
@@ -58,7 +58,7 @@ WRITING RULES THAT MATTER MOST HERE
 
 ## 開始之前 {#before-you-begin}
 
-[在開始之前，先列出讀取器需要的內容：許可權、授權、應用程式或沙箱的存取權，或是先讀取的相關頁面。 刪除概念頁面的這個區段。]
+[在開始之前，先列出讀取器需要的內容：許可權、授權、應用程式或沙箱的存取權，或是先讀取的相關頁面。 如果沒有適用的先決條件，請刪除此區段。]
 
 * [先決條件一。]
 * [先決條件二。]

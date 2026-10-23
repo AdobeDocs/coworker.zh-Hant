@@ -4,9 +4,9 @@ description: 使用「同事聊天」建立漏斗、尋找客戶流失的位置�
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: b54085a497ca4bbf0003d5837d816206a4d40396
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '689'
 ht-degree: 2%
 ---
 
@@ -62,7 +62,7 @@ Co-worker會針對本文所述的使用案例使用下列技能。 如需所有�
 * 指定要包含、排除或比較的區段、頻道或裝置。
 * 提及您已擁有的任何假設（例如最近的網站變更），讓「同事聊天」可以驗證或排除該假設。
 * 如果您希望「同事聊天」提供後續問題的建議，請詢問建議的後續步驟。
-* 需要更多手動控制時，可在Analysis Workspace中開啟任何視覺效果。
+* 需要更多手動控制時，可在Analysis Workspace中開啟任何視覺效果。 請參閱[在Customer Journey Analytics中分析](/help/chat/use-cases/data-insights/analytics-chat.md#analyze-in-customer-journey-analytics)。
 
 ## 後續步驟
 
