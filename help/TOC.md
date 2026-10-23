@@ -5,9 +5,9 @@ user-guide-description: 瞭解Adobe CX Enterprise Coworker，這是AI支援的�
 description: 瞭解CX Enterprise中的AI工具。 在CX Enterprise中使用AI來改善您的產品知識並獲得操作見解。
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: b54085a497ca4bbf0003d5837d816206a4d40396
+source-git-commit: f4682967f0bed2f9a538c41903a32555fe2abbb1
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '298'
 ht-degree: 13%
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 13%
       - [關於分析資料](./chat/use-cases/data-insights/analytics-overview.md)
       - [開始分析資料](./chat/use-cases/data-insights/analytics-chat.md)
       - 智慧型實作與管理 {#intelligent-implementation-and-administration}
-        - [概觀](./chat/use-cases/data-insights/data-governance-and-validation.md)
+        - [概覽](./chat/use-cases/data-insights/data-governance-and-validation.md)
         - [規劃您的實作](./chat/use-cases/data-insights/implementation-guide.md)
         - [產生實施檢查清單](./chat/use-cases/data-insights/intelligent-checklist.md)
         - [升級時驗證AA至CJA資料](./chat/use-cases/data-insights/data-validation-aa-cja.md)
@@ -34,7 +34,7 @@ ht-degree: 13%
         - [偵測Experience Platform異常](./chat/use-cases/data-insights/anomaly-detection.md)
         - [加速資料深入分析](./chat/use-cases/data-insights/accelerate-data-insights.md)
       - 歷程分析 {#journey-analysis}
-        - [概觀](./chat/use-cases/data-insights/journey-analysis.md)
+        - [概覽](./chat/use-cases/data-insights/journey-analysis.md)
       - 對象和區段分析 {#audience-and-segment-analysis}
         - [概覽](./chat/use-cases/data-insights/audience-and-segment-analysis.md)
       - 業務績效 {#business-performance}
@@ -44,7 +44,7 @@ ht-degree: 13%
         - [概觀](./chat/use-cases/data-insights/content-performance.md)
         - [提出關於內容的問題](./chat/use-cases/data-insights/ask-content-questions.md)
       - 行銷測量與歸因 {#marketing-measurement-and-attribution}
-        - [概觀](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
+        - [概覽](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
     - 資料上線 {#data-onboarding}
       - {hide-from-toc}[與同事將資料上線](./agents/data-onboarding-skill.md)
     - 資料管理 {#data-management}
@@ -53,6 +53,7 @@ ht-degree: 13%
       - [評估平台運作狀況並建置對象](./chat/use-cases/audiences/create-audience-from-natural-language.md)
     - 歷程 {#journeys}
       - [使用自然語言建立歷程](./chat/use-cases/journeys/create-journey-from-natural-language.md)
+      - [從影像建立歷程](./chat/use-cases/journeys/create-journey-from-image.md)
       - [建立、模擬和分析跨頻道歷程](./chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker-feature-video.md)
     - 忠誠度 {#loyalty}
       - [建立忠誠度挑戰並顯示深入分析](./chat/use-cases/journeys/create-loyalty-challenge.md)
@@ -86,7 +87,7 @@ ht-degree: 13%
     - [什麼是記憶體？](./customizations/memory/what-is-memory.md)
 - 團隊同事 {#coworker-for-teams}
   - {hide-from-toc}[新團隊體驗](./coworker-for-teams/new-teams-experience.md)
-  - [概觀](./coworker-for-teams/overview.md)
+  - [概覽](./coworker-for-teams/overview.md)
   - [建立電子郵件行銷活動](./coworker-for-teams/create-an-email-campaign.md)
   - [啟動及管理行銷活動](./coworker-for-teams/launch-manage-campaign.md)
   - [使用案例](./coworker-for-teams/use-cases.md)
