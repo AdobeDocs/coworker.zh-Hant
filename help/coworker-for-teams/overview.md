@@ -4,9 +4,9 @@ title: Adobe CX Enterprise Coworker概觀
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: 2c08a164e3f127eb01271b31e1150f1d815e5b27
 workflow-type: tm+mt
-source-wordcount: '983'
+source-wordcount: '1030'
 ht-degree: 0%
 ---
 # 團隊的同事概觀 {#overview}
@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >適用於團隊的同事可在2026年12月31日之前透過免費試用取得。 在試用期間，所有資產和活動都是使用者專屬的。
 
-1. 請前往coworker-campaigns.experience.adobe.com。
+1. 請前往coworker-teams.adobe.com。
 
 1. 如果您有現有的Adobe帳戶，請按一下&#x200B;**登入**。 如果沒有的話，請按一下&#x200B;**加入免費試用版**，並使用您的商務電子郵件建立帳戶。
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 1. （選用）在&#x200B;**電子郵件範本**&#x200B;下上傳HTML電子郵件範本，以供團隊在產生內容時套用您的設計的同事。
 
-   ![團隊試用版同事的歡迎畫面](./assets/overview-1.png){width="800" zoomable="yes"}
+   ![團隊試用版同事的歡迎畫面](./assets/overview-1.gif)
 
 您已準備好產生您的第一個行銷活動。
 
@@ -45,14 +45,49 @@ ht-degree: 0%
 
 ![主畫面](./assets/overview-2.gif)
 
-| 左側導覽功能表 | 目的 |
-|---|---|
-| 新增聊天 | 開始新交談以產生行銷活動。 |
-| 首頁 | 您的起點：提示列、最近的行銷活動，以及現成的行銷活動範本。 |
-| 聊天 | 您已開始的每一個交談尚未產生至行銷活動討論區。 |
-| 行銷活動 | 您所有草稿和即時行銷活動的詳細目錄。 |
-| 您的內容 | 您的品牌套件和電子郵件範本（團隊合作者用來讓一切維持在品牌上的資產）。 |
-| 自訂 | 聯結器（啟動時的Marketo Engage）和技能（可套用至各行銷活動的自訂行為）。 |
+<table>
+  <thead>
+    <tr>
+      <th>左側導覽功能表</th>
+      <th>目的</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>新增聊天</td>
+      <td>開始新交談以產生行銷活動。</td>
+    </tr>
+    <tr>
+      <td>首頁</td>
+      <td>您的起點：提示列、最近的行銷活動，以及現成的行銷活動範本。</td>
+    </tr>
+    <tr>
+      <td>聊天</td>
+      <td>您已開始的每一個交談尚未產生至行銷活動討論區。</td>
+    </tr>
+    <tr>
+      <td>行銷活動</td>
+      <td>您所有草稿和即時行銷活動的詳細目錄。</td>
+    </tr>
+    <tr>
+      <td>連絡人清單</td>
+      <td>管理您的對象和隱藏清單。</td>
+    </tr>
+    <tr>
+      <td>洞察</td>
+      <td>檢視所有作用中行銷活動的量度（在選取的日期範圍內追蹤）。</td>
+    </tr>
+    <tr>
+      <td>內容</td>
+      <td>按一下<i>內容</i>以顯示其子功能表：<br><br>
+      <li><b>品牌</b> — 管理並新增品牌套件，並為您的工作區設定預設值。</li>
+      <li><b>電子郵件範本</b> — 管理和上傳自訂HTML範本，並告知同事何時使用這些範本。</li>
+      <li><b>聯結器</b> — 外部整合，例如Databricks和Salesforce，可將對象或內容帶入。</li>
+      <li><b>技能</b> — 可重複使用的指示，可塑造同事如何建立及個人化您的行銷活動。</li></td>
+    </tr>
+  </tbody>
+</table>
+
 
 >[!NOTE]
 >
@@ -111,7 +146,7 @@ ht-degree: 0%
 
 ## 影片概觀
 
->[!VIDEO](https://video.tv.adobe.com/v/3492816?captions=chi_hant&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3492807?learn=on){transcript=true}
 
 
 新功能將在試用期間提供。 您的意見反應有助於規劃未來發展。 透過標題中的產品內意見回饋圖示提交意見回饋。
