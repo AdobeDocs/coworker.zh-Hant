@@ -4,7 +4,7 @@ title: 啟動及管理行銷活動
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: f25492704c73fc42d54bf44aa8d59ab73f811f1b
 workflow-type: tm+mt
 source-wordcount: '610'
 ht-degree: 2%
@@ -92,14 +92,6 @@ ht-degree: 2%
 >[!CAUTION]
 >
 >停止行銷活動是永久性的。 收件者立即停止進行行銷活動，且行銷活動之後無法繼續或重新啟動。 若要再次傳送，您必須建立新的行銷活動並啟動該行銷活動。
-
-<!--
-
-### Prerequisites
-
-- [NEEDS INPUT - to confirm with engineer: does stopping a campaign require a specific role or permission, or can any user with campaign access do this?]
-
--->
 
 ### 如何停止行銷活動
 
