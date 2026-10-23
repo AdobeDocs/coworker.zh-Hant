@@ -8,7 +8,8 @@ doc-type: Tutorial
 duration: 360
 last-substantial-update: 2026-10-23
 jira: KT-22900
-source-git-commit: 4c91df09bbd5ccdf548cacbcfeaebd36c7dfd635
+nudge: true
+source-git-commit: 6022fafc0e0213cbc887f5b38267cb65fd8d4326
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
@@ -18,5 +19,5 @@ ht-degree: 0%
 
 瞭解如何使用Adobe CX Enterprise Coworker將行銷活動簡報轉換為草稿登陸頁面。 依照工作流程使用現有Adobe Experience Manager頁面作為範本、確認目的地、套用行銷活動內容和SEO中繼資料，以及在通用編輯器中調整影像和副本。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504691/?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504682/?learn=on)
 
