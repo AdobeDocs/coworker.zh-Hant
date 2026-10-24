@@ -4,9 +4,9 @@ description: 透過簡單的語言向同事詢問您的內容（從一般到具�
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: b54085a497ca4bbf0003d5837d816206a4d40396
+source-git-commit: f1ffc050071fc0ca48ae36c7aea8bc66eff2a147
 workflow-type: tm+mt
-source-wordcount: '1008'
+source-wordcount: '1009'
 ht-degree: 2%
 ---
 
@@ -52,7 +52,7 @@ ht-degree: 2%
 
 1. 檢閱結果。
 
-1. （可選）在同一次交談中詢問後續問題以更深入瞭解，或在Analysis Workspace中開啟視覺效果以取得更多手動控制。 請參閱[在Customer Journey Analytics中分析](/help/chat/use-cases/data-insights/analytics-chat.md#analyze-in-customer-journey-analytics)。
+1. （可選）在同一次交談中詢問後續問題以更深入瞭解，或在Analysis Workspace中開啟視覺效果以取得更多手動控制。 請參閱[在Analysis Workspace中開啟視覺效果](/help/chat/use-cases/data-insights/analytics-chat.md#open-a-visualization-in-analysis-workspace)。
 
 ## 提示範例
 

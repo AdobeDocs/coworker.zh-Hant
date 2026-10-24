@@ -1,12 +1,12 @@
 ---
 title: 開始使用同事聊天分析資料
-description: 瞭解如何使用Adobe CX Enterprise Coworker Chat分析Customer Journey Analytics資料、建立漏斗，並找出客戶在歷程中的流失位置。
+description: 設定Adobe CX Enterprise Coworker Chat以分析Customer Journey Analytics或Adobe Analytics資料，然後遵循尋找客戶流失的範例。
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: a9f620ee74eeec0f4a838b7bae7a6189226fecc3
 workflow-type: tm+mt
-source-wordcount: '2094'
+source-wordcount: '2184'
 ht-degree: 4%
 ---
 # 開始使用同事聊天分析資料
@@ -36,15 +36,17 @@ ht-degree: 4%
 
 如需詳細資訊，請參閱[同事聊天使用者介面指南](/help/chat/ui-guide.md)。
 
-## 確認同事聊天已連線至Customer Journey Analytics
+## 驗證您的Analytics整合
 
-在同事聊天中，確認同事已連線至Customer Journey Analytics：
+同事聊天透過整合連線至Customer Journey Analytics和Adobe Analytics。 開始之前，請確定產品的整合已連線。
 
-1. 在左側邊欄中選取MCP圖示，然後確定連線的MCP伺服器清單中有&#x200B;[!UICONTROL **cja-mcp**]。
+1. 在Co-worker中，選取左側邊欄中的&#x200B;[!UICONTROL **自訂**]。
 
-   ![Co-worker左側邊欄中反白的MCP圖示](../../assets/coworker-mcp-cja.png)
+1. 選取&#x200B;[!UICONTROL **整合**]&#x200B;索引標籤，然後確定您連線的MCP伺服器清單中有&#x200B;[!UICONTROL **cja-mcp**]&#x200B;和&#x200B;[!UICONTROL **aa-mcp**]。 使用搜尋欄位來快速篩選可用整合的清單。
 
-1. （條件式）如果尚未連線&#x200B;[!UICONTROL **cja-mcp**]，請選取&#x200B;[!UICONTROL **新增MCP伺服器**]，在&#x200B;[!UICONTROL **伺服器名稱**]&#x200B;欄位中指定cja，並在它出現時加以選取，然後選取&#x200B;[!UICONTROL **新增伺服器**]。
+   ![[自訂]頁面上的[整合]索引標籤，篩選後顯示aa-mcp](assets/coworker-mcp-aa.png)
+
+1. （條件式）如果未列出整合，請選取&#x200B;[!UICONTROL **新增伺服器**]&#x200B;以新增它。 如需詳細資訊，請參閱Co-worker Chat UI指南中的[連線MCP伺服器](/help/chat/ui-guide.md#connect-mcp-servers)。
 
 ## 連線至正確的資料檢視或報表套裝
 
@@ -305,7 +307,7 @@ Co-worker Chat包含記憶體功能，可讓您存取跨越所有聊天內容的
 
 >[!ENDSHADEBOX]
 
-### 發生什麼事
+### 發生的事
 
 在四個直白的問題中，同事幫助我們：
 
@@ -314,17 +316,22 @@ Co-worker Chat包含記憶體功能，可讓您存取跨越所有聊天內容的
 * 將真正的問題隔離到行動結帳中，並以35%的購買量來量化修正
 * 離開時可設定優先順序：行動支付與表單摩擦。 以桌上型電腦的23.2%轉換率為基準
 
-## 在Customer Journey Analytics中分析
+## 在Analysis Workspace中開啟視覺效果
 
-Co-worker建立視覺效果後，您可以在Analysis Workspace中開啟該視覺效果，以進行更深入的分析及精細控制。 視覺效果會在Customer Journey Analytics的新Analysis Workspace專案中開啟。
+Co-worker建立視覺效果後，您可以在Analysis Workspace中開啟該視覺效果，以進行更深入的分析及精細控制。 視覺效果會在Customer Journey Analytics或Adobe Analytics的新Analysis Workspace專案中開啟，視資料來源而定。
 
 若要在新的Analysis Workspace專案中開啟視覺效果：
 
-1. 選取「在CJA中分析&#x200B;**」（位於在Co-worker中建立的任何視覺效果旁）。**
+1. 在「同事」中建立的任何視覺效果旁，選取下列其中一項：
 
-1. 在Customer Journey Analytics中開啟視覺效果後，您可以使用Analysis Workspace拖放瀏覽器介面進行修改、進一步製作分析、建立對象等。 您甚至可以和您選擇的任何人共用您的Workspace專案。
+   * [!UICONTROL **在CJA中分析**]&#x200B;以根據Customer Journey Analytics資料檢視的視覺效果
+   * [!UICONTROL **在Analysis Workspace中分析**]，以根據Adobe Analytics報表套裝進行視覺化
 
-   如需Analysis Workspace的詳細資訊，請參閱[Analysis Workspace概觀](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-workspace/home)。
+1. 在Analysis Workspace中開啟視覺效果後，您可以使用拖放瀏覽器介面進行修改、進一步製作分析作業等等。 在Customer Journey Analytics中，您也可以建立受眾。
+
+1. （選用）與您選擇的任何人共用您的Workspace專案。
+
+   如需Analysis Workspace的詳細資訊，請參閱Customer Journey Analytics檔案中的[Analysis Workspace概觀](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-workspace/home)或Adobe Analytics檔案中的[Analysis Workspace概觀](https://experienceleague.adobe.com/zh-hant/docs/analytics/analyze/analysis-workspace/home)。
 
 ## 後續步驟
 
