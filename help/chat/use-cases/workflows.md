@@ -208,12 +208,12 @@ Co-worker Chat可讓您使用自然語言來查詢、分析和處理您的[!DNL 
 
 | 工作流程 | 說明 | 技能 | 應用程式 | 範例提示 |
 | --- | --- | --- | --- | --- |
-| [檢查通道設定](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/channels-coworker-skills#channel-operation){target="_blank"} | 檢視、清單、搜尋和檢查標準頻道的頻道設定（預設集）和認證，例如電子郵件、SMS、推播、直接郵件、應用程式內和Web，包括相關資源，例如推送認證、電子郵件子網域、SMS和WhatsApp認證、檔案路由、LINE頻道設定和Live Activity登入。 唯讀 | 頻道操作 | Adobe Journey Optimizer (AJO) | 「我的沙箱中有哪些管道預設集可用？」 <br> 「顯示我的所有電子郵件通道設定。」<br> 「我的行銷電子郵件組態設定了哪些寄件者地址和回覆者？」 |
-| [建立和管理自訂頻道](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/channels-coworker-skills#channel-builder){target="_blank"} | 從手動設定、curl命令或API檔案連結建立、測試、更新、清單、擷取和刪除自訂傳出頻道。 逐步引導您完成管道設定、驗證、節流和裝載定義 | 頻道產生器 | Adobe Journey Optimizer (AJO) | 「協助我為簡訊提供者建立新的自訂頻道。」<br> 「從此API參考建立自訂頻道： [連結]。」<br> 「列出我的自訂頻道。」 |
+| [檢查通道設定](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/channels/channels-coworker-skills#channel-operation){target="_blank"} | 檢視、清單、搜尋和檢查標準頻道的頻道設定（預設集）和認證，例如電子郵件、SMS、推播、直接郵件、應用程式內和Web，包括相關資源，例如推送認證、電子郵件子網域、SMS和WhatsApp認證、檔案路由、LINE頻道設定和Live Activity登入。 唯讀 | 頻道操作 | Adobe Journey Optimizer (AJO) | 「我的沙箱中有哪些管道預設集可用？」 <br> 「顯示我的所有電子郵件通道設定。」<br> 「我的行銷電子郵件組態設定了哪些寄件者地址和回覆者？」 |
+| [建立和管理自訂頻道](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/channels/channels-coworker-skills#channel-builder){target="_blank"} | 從手動設定、curl命令或API檔案連結建立、測試、更新、清單、擷取和刪除自訂傳出頻道。 逐步引導您完成管道設定、驗證、節流和裝載定義 | 頻道產生器 | Adobe Journey Optimizer (AJO) | 「協助我為簡訊提供者建立新的自訂頻道。」<br> 「從此API參考建立自訂頻道： [連結]。」<br> 「列出我的自訂頻道。」 |
 
 **相關資訊**
 
-* [管道](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/channels-coworker-skills){target="_blank"}的同事針對Adobe Journey Optimizer中的管道作業和管道建置器技能提供詳細的指引、使用案例和範例提示。
+* [管道](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/channels/channels-coworker-skills){target="_blank"}的同事針對Adobe Journey Optimizer中的管道作業和管道建置器技能提供詳細的指引、使用案例和範例提示。
 
 ## 在Journey Optimizer中建立內容
 
