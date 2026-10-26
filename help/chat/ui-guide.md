@@ -5,9 +5,9 @@ jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: fe2c27fd27bfebe17f31078cea769e6a1e4c71f1
+source-git-commit: d611ce2398cba72cf21c766f3b25225765c1675b
 workflow-type: tm+mt
-source-wordcount: '1903'
+source-wordcount: '1902'
 ht-degree: 2%
 ---
 # 開始使用同事聊天 {#ui-guide}
@@ -43,7 +43,7 @@ Co-worker Chat可讓您透過簡單語言詢問您所需的內容，以使用Ado
 
 ## 影片 — [!DNL Coworker]聊天介面的基本知識
 
->[!VIDEO](https://video.tv.adobe.com/v/3498576?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## 選擇您的組織
 
@@ -82,7 +82,7 @@ Co-worker Chat可讓您透過簡單語言詢問您所需的內容，以使用Ado
 | **[!UICONTROL 新聊天]** | 開始對話。 同事聊天會將您目前的聊天內容儲存到您的歷程記錄中。 |
 | **[!UICONTROL 首頁]** | 返回問候語、輸入方塊和建議的提示。 |
 | **[!UICONTROL 聊天]** | 搜尋、釘選、封存或刪除過去的交談。 |
-| **[!UICONTROL 組態]** | 管理技能、MCP伺服器、行銷場所、外掛程式和記憶體。 |
+| **[!UICONTROL 自訂]** | 管理技能、整合、行銷場所、外掛程式和記憶體。 |
 | **[!UICONTROL 已固定]** | 開啟您主持的交談。 按一下&#x200B;**[!UICONTROL 全部檢視]**，在[聊天]頁面上檢視它們。 |
 | **[!UICONTROL 最近]** | 開啟您最新的交談。 按一下&#x200B;**[!UICONTROL 全部檢視]**&#x200B;以開啟[聊天]頁面。 |
 
@@ -219,7 +219,7 @@ Home畫面會根據同事聊天可在您的沙箱中執行的操作，顯示問�
 ![技能索引標籤](./assets/ui-guide-12.png)
 
 1. 在&#x200B;**[!UICONTROL 技能]**&#x200B;索引標籤上，按一下&#x200B;**[!UICONTROL 新增技能]**&#x200B;以從新來源安裝技能。
-1. 在&#x200B;**[!UICONTROL 搜尋]**&#x200B;中輸入名稱以尋找技能。
+1. 在&#x200B;**[!UICONTROL 搜尋]**中輸入名稱以尋找技能。
 使用檢視切換可在格點和清單配置之間切換。
 1. 選取技能，以檢視「同事聊天」使用外掛程式時，該技能所屬的外掛程式及其包含的檔案。
 
@@ -229,7 +229,7 @@ Home畫面會根據同事聊天可在您的沙箱中執行的操作，顯示問�
 
    ![SKILL.md檢視器](./assets/ui-guide-14.png)
 
-### 連線伺服器
+### 連線伺服器 {#server}
 
 伺服器整合可將Co-worker Chat連線至外部工具和服務，例如Adobe Journey Optimizer、Real-Time CDP、Target和Workfront。 「**[!UICONTROL 自訂]**」>「**[!UICONTROL 使用者]**」>「**[!UICONTROL 整合]**」索引標籤會列出您連線的伺服器和使用中連線的數目。 每個卡片都會顯示伺服器名稱、其端點，以及描述其所提供內容的標籤。
 
@@ -272,7 +272,7 @@ Marketplace是外掛程式的登入，您可以從中瀏覽及安裝。 在&#x20
 
 記憶體可讓「同事聊天」記住您在不同交談中的偏好設定，因此回應會隨著時間而保持相關性。 使用&#x200B;**[!UICONTROL 記憶體]**&#x200B;索引標籤來控制它保留的內容。
 
-1. 按一下[組態]頁面上的&#x200B;**[!UICONTROL 記憶體]**。
+1. 按一下[自訂]頁面上的&#x200B;**[!UICONTROL 記憶體]**。
 1. 開啟&#x200B;**[!UICONTROL 啟用記憶體]**。 關閉此功能可停止跨工作階段記憶同事聊天。
 1. 在&#x200B;**[!UICONTROL 已儲存的偏好設定]**&#x200B;下，檢閱已儲存的同事聊天。 您可以編輯、刪除或檢查每個專案，並依類別篩選專案。
 1. 使用&#x200B;**[!UICONTROL 儲存的記憶記錄]**&#x200B;檢視記憶變更的時間表。
