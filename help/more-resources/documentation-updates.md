@@ -1,19 +1,23 @@
 ---
 title: CX Enterprise Coworker檔案更新
-description: 請參閱CX Enterprise Coworker檔案新增的文章和影片。 請回來檢視，以尋找最新的新增專案。
+description: 請參閱CX Enterprise Coworker檔案中的最新和更新文章及影片。 請回來檢視，以尋找最新的新增專案。
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 6ccaaf8cd5976c21119d800ada44101b11c65eb6
+source-git-commit: e4fbbf54c26a0443f0fab50d05428e793dbb5c88
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 1%
+source-wordcount: '229'
+ht-degree: 0%
 ---
 # 文件更新 {#documentation-updates}
 
-使用此頁面尋找CX Enterprise Coworker檔案中的新內容。 更新會依月份列出，最新的排在前。 如需團隊同事的產品變更，請參閱[團隊同事發行說明](../coworker-for-teams/release-notes.md)。
+使用此頁面尋找CX Enterprise Coworker檔案中的新內容及大幅更新內容。 更新會依月份列出，最新的排在前。 如需團隊同事的產品變更，請參閱[團隊同事發行說明](../coworker-for-teams/release-notes.md)。
 
 ## 2026年10 {#oct-2026}
+
+**2026年10月26日**
+
+* 已更新： [開始使用同事聊天](../chat/ui-guide.md)。 文章會重新整理並重新寫入，以符合目前的介面。 它現在說明帳戶功能表與導覽邊欄，包括&#x200B;**成品**&#x200B;與&#x200B;**體驗內容**。 本檔案也會說明如何選擇組織和沙箱，以及如何使用輸入工具列、成績單檢視和回應活動摘要。 過時的熒幕擷取畫面會遭移除。
 
 **2026年10月23日**
 
