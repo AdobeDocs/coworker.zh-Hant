@@ -4,7 +4,7 @@ title: 連線至Marketo Engage
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: 6d121c60fbf41dc2b27844854078f8f4f48d1944
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 0%
@@ -19,13 +19,13 @@ ht-degree: 0%
 >
 >* 有效的Marketo Engage帳戶
 >* 您的Marketo **執行個體URL**
->* 為Marketo團隊的同事建立的[自訂服務](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/custom-services#custom-services-1)，其有[使用者端ID和使用者端密碼](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token)
+>* 為Marketo團隊的同事建立的[自訂服務](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/custom-services#custom-services-1)，其有[使用者端ID和使用者端密碼](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token)
 
 ## 如何連線
 
-1. 在[團隊的同事首頁](https://coworker-campaigns.experience.adobe.com/)上，按一下&#x200B;**自訂**&#x200B;並選取&#x200B;**聯結器**。
+1. 在[Co-worker for teams首頁](https://coworker-campaigns.experience.adobe.com/)上，按一下&#x200B;**內容**&#x200B;並選取&#x200B;**聯結器**。
 
-   ![團隊的同事已離開導覽，並展開自訂並醒目提示聯結器](./assets/marketo-1.png)
+   ![團隊的同事已展開內容並醒目提示聯結器的左側導覽](./assets/marketo-1.png)
 
 1. 按一下&#x200B;**新增整合**。
 

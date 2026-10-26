@@ -4,7 +4,7 @@ title: 連線至Salesforce
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: a0a02aaf4048f13954a1018499204cab05c27023
+source-git-commit: 6d121c60fbf41dc2b27844854078f8f4f48d1944
 workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 0%
@@ -23,9 +23,9 @@ ht-degree: 0%
 
 ## 如何連線
 
-1. 在[團隊的同事首頁](https://coworker-campaigns.experience.adobe.com/)上，按一下&#x200B;**自訂**&#x200B;並選取&#x200B;**聯結器**。
+1. 在[Co-worker for teams首頁](https://coworker-campaigns.experience.adobe.com/)上，按一下&#x200B;**內容**&#x200B;並選取&#x200B;**聯結器**。
 
-   ![團隊的同事已離開導覽，並展開自訂並醒目提示聯結器](./assets/salesforce-1.png)
+   ![團隊的同事已展開內容並醒目提示聯結器的左側導覽](./assets/salesforce-1.png)
 
 1. 按一下&#x200B;**新增整合**。
 
