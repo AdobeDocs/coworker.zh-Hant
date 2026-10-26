@@ -15,7 +15,7 @@ ht-degree: 11%
 
 ## 同事發行說明 {#coworker-release-notes}
 
-* [CX Enterprise Coworker發行說明](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest#cx-enterprise-coworker)： Experience Platform發行說明中列出的Co-worker Chat功能增強和修正。
+* [CX Enterprise Coworker發行說明](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/release-notes/latest#cx-enterprise-coworker)： Experience Platform發行說明中列出的Co-worker Chat功能增強和修正。
 * [[!UICONTROL 團隊的同事]發行說明](../coworker-for-teams/release-notes.md)：團隊的同事的功能增強和修正。 發行版本會持續傳遞。
 
 ## CX Enterprise 中央發行說明 {#cx-enterprise-release-notes}
