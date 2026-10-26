@@ -6,10 +6,10 @@ description: 瞭解CX Enterprise中的AI工具。 在CX Enterprise中使用AI來
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: fd69d41fa38c993fce1f32815f5badfd4714a270
+source-git-commit: a0a02aaf4048f13954a1018499204cab05c27023
 workflow-type: tm+mt
-source-wordcount: '314'
-ht-degree: 14%
+source-wordcount: '312'
+ht-degree: 15%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -35,9 +35,9 @@ ht-degree: 14%
         - [偵測Experience Platform異常](./chat/use-cases/data-insights/anomaly-detection.md)
         - [加速資料深入分析](./chat/use-cases/data-insights/accelerate-data-insights.md)
       - 歷程分析 {#journey-analysis}
-        - [概觀](./chat/use-cases/data-insights/journey-analysis.md)
+        - [概覽](./chat/use-cases/data-insights/journey-analysis.md)
       - 對象和區段分析 {#audience-and-segment-analysis}
-        - [概觀](./chat/use-cases/data-insights/audience-and-segment-analysis.md)
+        - [概覽](./chat/use-cases/data-insights/audience-and-segment-analysis.md)
       - 業務績效 {#business-performance}
         - [概觀](./chat/use-cases/data-insights/business-performance.md)
         - [探索趨勢和根本原因](./chat/use-cases/data-insights/root-cause-analysis.md)
@@ -45,7 +45,7 @@ ht-degree: 14%
         - [概觀](./chat/use-cases/data-insights/content-performance.md)
         - [提出關於內容的問題](./chat/use-cases/data-insights/ask-content-questions.md)
       - 行銷測量與歸因 {#marketing-measurement-and-attribution}
-        - [概覽](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
+        - [概觀](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
     - 資料上線 {#data-onboarding}
       - {hide-from-toc}[與同事將資料上線](./agents/data-onboarding-skill.md)
     - 資料管理 {#data-management}
@@ -90,7 +90,6 @@ ht-degree: 14%
   - 記憶 {#memory}
     - [什麼是記憶體？](./customizations/memory/what-is-memory.md)
 - 團隊同事 {#coworker-for-teams}
-  - {hide-from-toc}[新團隊體驗](./coworker-for-teams/new-teams-experience.md)
   - [概覽](./coworker-for-teams/overview.md)
   - [建立電子郵件行銷活動](./coworker-for-teams/create-an-email-campaign.md)
   - [啟動及管理行銷活動](./coworker-for-teams/launch-manage-campaign.md)
@@ -100,6 +99,7 @@ ht-degree: 14%
   - 連接器 {#connectors}
     - [Marketo Engage](./coworker-for-teams/connectors/marketo.md)
     - [Hubspot](./coworker-for-teams/connectors/hubspot.md)
+    - [Salesforce](./coworker-for-teams/connectors/salesforce.md)
   - [發行說明](./coworker-for-teams/release-notes.md)
 - 更多資源 {#more-resources}
   - [文件更新](./more-resources/documentation-updates.md)

@@ -1,12 +1,12 @@
 ---
-description: 說明。
+description: 瞭解如何將團隊的同事連線到您的Salesforce帳戶以存取您的潛在客戶和聯絡人。
 title: 連線至Salesforce
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: a0a02aaf4048f13954a1018499204cab05c27023
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '240'
 ht-degree: 0%
 ---
 # 連線至Salesforce {#salesforce}
