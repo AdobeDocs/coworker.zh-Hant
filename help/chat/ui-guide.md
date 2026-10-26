@@ -1,13 +1,13 @@
 ---
-description: 瞭解如何開啟「同事聊天」、設定您的組織和沙箱、傳送您的第一條訊息，以及自訂技能、MCP伺服器和記憶體。 幾分鐘內開始交談。
+description: 瞭解如何開啟同事聊天、設定您的組織和沙箱、傳送您的第一則訊息，以及自訂技能、整合伺服器和記憶體。
 title: 開始使用同事聊天
 jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: b91e8dcdacf57bdbc4fb6cf7d6fe92920e7fbb6e
+source-git-commit: fe2c27fd27bfebe17f31078cea769e6a1e4c71f1
 workflow-type: tm+mt
-source-wordcount: '1765'
+source-wordcount: '1903'
 ht-degree: 2%
 ---
 # 開始使用同事聊天 {#ui-guide}
@@ -43,7 +43,7 @@ Co-worker Chat可讓您透過簡單語言詢問您所需的內容，以使用Ado
 
 ## 影片 — [!DNL Coworker]聊天介面的基本知識
 
->[!VIDEO](https://video.tv.adobe.com/v/3498576?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## 選擇您的組織
 
@@ -219,7 +219,7 @@ Home畫面會根據同事聊天可在您的沙箱中執行的操作，顯示問�
 ![技能索引標籤](./assets/ui-guide-12.png)
 
 1. 在&#x200B;**[!UICONTROL 技能]**&#x200B;索引標籤上，按一下&#x200B;**[!UICONTROL 新增技能]**&#x200B;以從新來源安裝技能。
-1. 在&#x200B;**[!UICONTROL 搜尋]**&#x200B;中輸入名稱以尋找技能。
+1. 在&#x200B;**[!UICONTROL 搜尋]**中輸入名稱以尋找技能。
 使用檢視切換可在格點和清單配置之間切換。
 1. 選取技能，以檢視「同事聊天」使用外掛程式時，該技能所屬的外掛程式及其包含的檔案。
 
@@ -229,13 +229,28 @@ Home畫面會根據同事聊天可在您的沙箱中執行的操作，顯示問�
 
    ![SKILL.md檢視器](./assets/ui-guide-14.png)
 
-### 連線MCP伺服器
+### 連線伺服器
 
-模型內容通訊協定(MCP)伺服器將「同事聊天」連線至外部工具和服務，例如Adobe Journey Optimizer、Real-Time CDP、Target和Workfront。 **[!UICONTROL MCP伺服器]**&#x200B;索引標籤會列出您連線的伺服器和使用中連線的數目。 每個卡片都會顯示伺服器名稱、其端點，以及描述其所提供內容的標籤。
+伺服器整合可將Co-worker Chat連線至外部工具和服務，例如Adobe Journey Optimizer、Real-Time CDP、Target和Workfront。 「**[!UICONTROL 自訂]**」>「**[!UICONTROL 使用者]**」>「**[!UICONTROL 整合]**」索引標籤會列出您連線的伺服器和使用中連線的數目。 每個卡片都會顯示伺服器名稱、其端點，以及描述其所提供內容的標籤。
 
-若要連線伺服器，請按一下[新增伺服器] **&#x200B;**，然後依照提示操作。
+1. 瀏覽至&#x200B;**[!UICONTROL 自訂]** > **[!UICONTROL 使用者]** > **[!UICONTROL 整合]**
 
-![MCP伺服器索引標籤](./assets/ui-guide-15.png)
+   ![伺服器索引標籤](./assets/get-started-customizations.png)
+
+1. 在自訂上，按一下&#x200B;**[!UICONTROL 新增伺服器]**。
+
+   ![新增整合](./assets/get-started-add-integrations.png)
+
+1. 填入下列欄位和選項：
+
+   * **[!UICONTROL 伺服器名稱]** （必要）：輸入可在整合清單中識別伺服器的名稱，例如`github`或`slack`。
+   * **[!UICONTROL Source URL或命令]** （必要）：輸入Co-worker Chat連線到的位址，例如`https://mcp.example.com/sse`。
+   * **[!UICONTROL 連線型別]**：選取伺服器用來與Co-worker Chat通訊的通訊協定： **[!UICONTROL SSE]** （伺服器傳送的事件）或&#x200B;**[!UICONTROL HTTP]**。 預設值為&#x200B;**[!UICONTROL SSE]**。
+   * **[!UICONTROL 工具逾時（秒）]**：設定Co-worker Chat在停止要求之前，等待此伺服器上的工具回應的時間。 預設值為60秒。
+   * **[!UICONTROL 驗證]**：選取Co-worker Chat向伺服器證明其身分的方式。 預設值為&#x200B;**[!UICONTROL 無]**，不會傳送任何認證。 如果伺服器需要認證，請選取其他方法。
+   * **[!UICONTROL 標頭]**：按一下&#x200B;**[!UICONTROL 新增標頭]**，將每個要求傳送至伺服器的額外HTTP標頭（例如API金鑰）。 此選項為選用。
+
+1. 按一下&#x200B;**[!UICONTROL 新增]**。
 
 ### 新增市集
 
@@ -245,7 +260,7 @@ Marketplace是外掛程式的登入，您可以從中瀏覽及安裝。 在&#x20
 
 ### 管理外掛程式
 
-外掛程式將技能和MCP伺服器整合在一起，讓您能夠一起安裝和管理它們。 **[!UICONTROL 外掛程式]**&#x200B;索引標籤會顯示您已安裝的外掛程式。
+外掛程式將技能和伺服器整合在一起，讓您能夠一起安裝和管理它們。 **[!UICONTROL 外掛程式]**&#x200B;索引標籤會顯示您已安裝的外掛程式。
 
 * 按一下&#x200B;**[!UICONTROL 瀏覽市集]**&#x200B;以尋找新的外掛程式。
 * 依Marketplace篩選，檢視每個外掛程式的來源。
