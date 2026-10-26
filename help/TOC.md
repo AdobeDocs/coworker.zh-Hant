@@ -6,10 +6,10 @@ description: 瞭解CX Enterprise中的AI工具。 在CX Enterprise中使用AI來
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 6ccaaf8cd5976c21119d800ada44101b11c65eb6
+source-git-commit: 43080128c8b3eeaa712334c3fff2fa89c157efea
 workflow-type: tm+mt
-source-wordcount: '309'
-ht-degree: 13%
+source-wordcount: '312'
+ht-degree: 14%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -25,7 +25,7 @@ ht-degree: 13%
       - [關於分析資料](./chat/use-cases/data-insights/analytics-overview.md)
       - [開始分析資料](./chat/use-cases/data-insights/analytics-chat.md)
       - 智慧型實作與管理 {#intelligent-implementation-and-administration}
-        - [概觀](./chat/use-cases/data-insights/data-governance-and-validation.md)
+        - [概覽](./chat/use-cases/data-insights/data-governance-and-validation.md)
         - [規劃您的實作](./chat/use-cases/data-insights/implementation-guide.md)
         - [產生實施檢查清單](./chat/use-cases/data-insights/intelligent-checklist.md)
         - [升級時驗證AA至CJA資料](./chat/use-cases/data-insights/data-validation-aa-cja.md)
@@ -35,17 +35,17 @@ ht-degree: 13%
         - [偵測Experience Platform異常](./chat/use-cases/data-insights/anomaly-detection.md)
         - [加速資料深入分析](./chat/use-cases/data-insights/accelerate-data-insights.md)
       - 歷程分析 {#journey-analysis}
-        - [概觀](./chat/use-cases/data-insights/journey-analysis.md)
+        - [概覽](./chat/use-cases/data-insights/journey-analysis.md)
       - 對象和區段分析 {#audience-and-segment-analysis}
-        - [概覽](./chat/use-cases/data-insights/audience-and-segment-analysis.md)
+        - [概觀](./chat/use-cases/data-insights/audience-and-segment-analysis.md)
       - 業務績效 {#business-performance}
-        - [概覽](./chat/use-cases/data-insights/business-performance.md)
+        - [概觀](./chat/use-cases/data-insights/business-performance.md)
         - [探索趨勢和根本原因](./chat/use-cases/data-insights/root-cause-analysis.md)
       - 內容績效 {#content-performance}
         - [概覽](./chat/use-cases/data-insights/content-performance.md)
         - [提出關於內容的問題](./chat/use-cases/data-insights/ask-content-questions.md)
       - 行銷測量與歸因 {#marketing-measurement-and-attribution}
-        - [概覽](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
+        - [概觀](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
     - 資料上線 {#data-onboarding}
       - {hide-from-toc}[與同事將資料上線](./agents/data-onboarding-skill.md)
     - 資料管理 {#data-management}
@@ -65,6 +65,8 @@ ht-degree: 13%
       - [沙箱工具代理程式技能](./chat/use-cases/sandbox-tooling/sandbox-tooling.md)
     - 警報 {#alerts}
       - [客戶警示技能](./chat/use-cases/customer-alerts/customer-alerts.md)
+    - 通知 {#notifications}
+      - [通知技能](./chat/use-cases/notifications/notification-skills.md)
     - Brand Visibility {#brand-visibility}
       - [建立和調整AEM登陸頁面](./chat/use-cases/brand-visibility/create-and-refine-aem-landing-page.md)
       - [品牌法規遵循檢查](./chat/use-cases/brand-visibility/brand-compliance.md)
