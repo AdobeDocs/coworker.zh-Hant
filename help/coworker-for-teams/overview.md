@@ -4,9 +4,9 @@ title: 適用於團隊的Adobe CX Enterprise Coworker概觀
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 6e7f80445232b5762eb93b82a604d8036c5a78e1
+source-git-commit: bf3751af83dd8d40021fb2459743aec66c53209c
 workflow-type: tm+mt
-source-wordcount: '1082'
+source-wordcount: '1100'
 ht-degree: 0%
 ---
 # 適用於團隊的Adobe CX Enterprise Coworker概觀 {#overview}
@@ -144,6 +144,7 @@ ht-degree: 0%
 - **資料指引**：請勿上傳敏感或規範的資料。 團隊合作目前不適用於HIPAA管制的產業。
 - **法規遵循**：您有責任遵循電子郵件規範（取消訂閱連結、隱私權政策等）。
 - **傳送限制**：您每月最多可傳送5,000封電子郵件。 如果您需要增加此限制，請透過畫面左下角的&#x200B;**說明和意見回饋**&#x200B;選單聯絡產品團隊。
+- **免費子網域**：此試用版包含您工作區的預設子網域，因此您可以更快啟動行銷活動。
 
 ![說明與意見回饋功能表](./assets/overview-3.png)
 
