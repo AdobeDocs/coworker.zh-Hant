@@ -5,9 +5,9 @@ jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: d2526c349e6015d754e3379d7208e0e24fa23dd1
+source-git-commit: 6f3146fafcfd39c349f43f961e065b86ed304421
 workflow-type: tm+mt
-source-wordcount: '2061'
+source-wordcount: '2088'
 ht-degree: 3%
 ---
 # 開始使用同事聊天 {#ui-guide}
@@ -34,7 +34,7 @@ Co-worker Chat可讓您透過簡單語言詢問您所需的內容，以使用Ado
 
 使用您的Adobe認證登入[!DNL Coworker]。
 
-1. [使用您的Adobe ID登入](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/experience-cloud#sign-in-to-cx-enterprise) CX Enterprise。
+1. [使用您的Adobe ID登入](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud#sign-in-to-cx-enterprise) CX Enterprise。
 
    登入後，您可以從[!DNL CX Enterprise]應用程式功能表或使用直接連結來開啟[!DNL Coworker]：
 
@@ -46,7 +46,7 @@ Co-worker Chat可讓您透過簡單語言詢問您所需的內容，以使用Ado
 
 ## 瞭解同事聊天的基本知識
 
->[!VIDEO](https://video.tv.adobe.com/v/3498576?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## 指定您的同事偏好設定 {#preferences}
 
@@ -57,7 +57,7 @@ Co-worker Chat可讓您透過簡單語言詢問您所需的內容，以使用Ado
 | 設定/選項 | 使用它可以 |
 | --- | --- |
 | 帳戶名稱和電子郵件 | 確認您用來登入的Adobe帳戶。 |
-| **[!UICONTROL 通知]** （鈴鐺圖示） | 檢視您的[通知](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/features/account-preferences#subscribe-to-notifications-in-experience-cloud)。 |
+| **[!UICONTROL 通知]** （鈴鐺圖示） | 檢視您的[通知](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences#subscribe-to-notifications-in-experience-cloud)。 |
 | **[!UICONTROL 佈景主題]** | 在淺色和深色主題之間切換。 |
 | **[!UICONTROL 應用程式設定]** | 檢視帳戶詳細資料和工作區設定。 |
 | **[!UICONTROL 喜好設定]** | 開啟您的帳戶[偏好設定](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/features/account-preferences)。 箭頭表示頁面會在Co-worker外部開啟。 |
@@ -86,7 +86,7 @@ Co-worker Chat可讓您透過簡單語言詢問您所需的內容，以使用Ado
 | **[!UICONTROL 首頁]** | 返回問候語、輸入方塊和建議的提示。 |
 | **[!UICONTROL 聊天]** | 搜尋、釘選、封存或刪除過去的交談。 |
 | **[!UICONTROL 成品]** | 開啟「同事聊天」在您對話中建立的成品。 |
-| **[!UICONTROL 體驗內容]** | <!-- TODO: describe Experience Context --> |
+| **[!UICONTROL 體驗內容]** | 將Co-worker連線至您現有的Adobe應用程式（例如Marketo Engage）和其他企業系統，以便其能夠存取及分析所有相關客戶和帳戶資料。 |
 | **[!UICONTROL 自訂]** | 管理技能、整合、行銷場所、外掛程式和記憶體。 |
 | **[!UICONTROL 最近]** | 開啟您最新的交談。 按一下&#x200B;**[!UICONTROL 全部檢視]**&#x200B;以開啟[聊天]頁面。 |
 | **[!UICONTROL 已固定]** | 開啟您主持的交談。 按一下&#x200B;**[!UICONTROL 全部檢視]**，在[聊天]頁面上檢視它們。 |
@@ -212,7 +212,7 @@ Co-worker Chat可讓您透過簡單語言詢問您所需的內容，以使用Ado
 技能是Co-worker Chat在應用時自動使用的專業功能。 您也可以在聊天中輸入&#x200B;**/**，自己開始一項技能。 「**[!UICONTROL 技能]**」索引標籤會列出所有已安裝的技能。
 
 1. 在&#x200B;**[!UICONTROL 技能]**&#x200B;索引標籤上，按一下&#x200B;**[!UICONTROL 新增技能]**&#x200B;以從新來源安裝技能。
-1. 在&#x200B;**[!UICONTROL 搜尋]**&#x200B;中輸入名稱以尋找技能。
+1. 在&#x200B;**[!UICONTROL 搜尋]**中輸入名稱以尋找技能。
 使用檢視切換可在格點和清單配置之間切換。
 1. 選取技能，以檢視「同事聊天」使用外掛程式時，該技能所屬的外掛程式及其包含的檔案。
 
