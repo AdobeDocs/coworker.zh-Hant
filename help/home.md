@@ -4,9 +4,9 @@ description: 瞭解Adobe CX Enterprise Coworker，這是AI支援的團隊成員�
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 577c1f8f9ea054eabfede407149139638311d5dc
+source-git-commit: d611ce2398cba72cf21c766f3b25225765c1675b
 workflow-type: tm+mt
-source-wordcount: '1181'
+source-wordcount: '1213'
 ht-degree: 16%
 ---
 # CX Enterprise Coworker概觀 {#overview}
@@ -63,6 +63,8 @@ Real-Time CDP、Adobe Journey Optimizer和Customer Journey Analytics的B2B版本
 * [整合](./customizations/integrations/understanding-integrations-in-coworker.md)
 * [外掛程式](./customizations/plugins/what-are-plugins.md)
 * [記憶](./customizations/memory/what-is-memory.md)
+
+若要將Co-worker Chat連線到外部工具或服務，請在&#x200B;**[!UICONTROL 自訂]** > **[!UICONTROL 使用者]** > **[!UICONTROL 整合]**&#x200B;下將其新增為伺服器。 如需每個欄位的步驟和說明，請參閱[連線伺服器](./chat/ui-guide.md#server)。
 
 ## 團隊同事
 

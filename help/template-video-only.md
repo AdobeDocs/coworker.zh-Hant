@@ -19,9 +19,9 @@ level: Beginner
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 7536fb875db4118f150cc1e83135c16ec4ac257c
+source-git-commit: a4755ee1df166cc6efd4ffddca90d395d9e8287c
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '117'
 ht-degree: 0%
 ---
 <!--
@@ -80,18 +80,3 @@ Add {transcript=true} after the closing parenthesis if a transcript is available
 
 [選擇性。 如果影片不需要設定，請刪除此區段。 提及顯示的介面版本、使用的應用程式或沙箱，或先觀看的舊影片。]
 
-## 章節 {#chapters}
-
-[選擇性。 刪除本區段以觀看短片。 具有時間戳記的清單主題變更。]
-
-* 0:00 [簡介]
-* 1:30 [主題一]
-* 3:00 [主題二]
-
-## 有關此主題的更多說明 {#more-help}
-
-[連結至具有書面步驟的檔案頁面。 此區段為必填。 使用描述性連結文字，並保持專案平行。]
-
-* [檔案頁面標題，適用於書面步驟]
-* [描述相關頁面的連結文字]
-* [描述相關影片的連結文字]

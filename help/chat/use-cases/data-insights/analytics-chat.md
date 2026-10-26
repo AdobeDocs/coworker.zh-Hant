@@ -4,16 +4,16 @@ description: 設定Adobe CX Enterprise Coworker Chat以分析Customer Journey An
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: a9f620ee74eeec0f4a838b7bae7a6189226fecc3
+source-git-commit: d611ce2398cba72cf21c766f3b25225765c1675b
 workflow-type: tm+mt
-source-wordcount: '2184'
+source-wordcount: '2182'
 ht-degree: 4%
 ---
 # 開始使用同事聊天分析資料
 
 設定Adobe CX Enterprise Coworker Chat以分析您的Customer Journey Analytics資料檢視或Adobe Analytics報表套裝，然後遵循運作範例。 如需使用同事聊天所能進行的概述，包括使用案例、技巧和最佳實務，請參閱[使用同事聊天分析資料](/help/chat/use-cases/data-insights/analytics-overview.md)。
 
-開始之前，請先瞭解同事聊天介面和設定選項，然後確定同事已連線至Customer Journey Analytics或Adobe Analytics以及相關資料檢視或報表套裝。
+開始之前，請先瞭解同事聊天介面和自訂選項，然後確定同事已連線至Customer Journey Analytics或Adobe Analytics以及相關資料檢視或報表套裝。
 
 ## 開始之前
 
@@ -28,7 +28,7 @@ ht-degree: 4%
 * 聊天輸入
 * 對話
 * 市集
-* MCP 伺服器
+* 整合伺服器
 * 記憶
 * 外掛程式
 * 技能
@@ -42,11 +42,15 @@ ht-degree: 4%
 
 1. 在Co-worker中，選取左側邊欄中的&#x200B;[!UICONTROL **自訂**]。
 
-1. 選取&#x200B;[!UICONTROL **整合**]&#x200B;索引標籤，然後確定您連線的MCP伺服器清單中有&#x200B;[!UICONTROL **cja-mcp**]&#x200B;和&#x200B;[!UICONTROL **aa-mcp**]。 使用搜尋欄位來快速篩選可用整合的清單。
+1. 選取&#x200B;[!UICONTROL **整合**]&#x200B;索引標籤，然後確定您的連線伺服器清單中有&#x200B;[!UICONTROL **cja-mcp**]&#x200B;和&#x200B;[!UICONTROL **aa-mcp**]。
+
+   使用搜尋欄位來快速篩選可用整合的清單。
 
    ![[自訂]頁面上的[整合]索引標籤，篩選後顯示aa-mcp](assets/coworker-mcp-aa.png)
 
-1. （條件式）如果未列出整合，請選取&#x200B;[!UICONTROL **新增伺服器**]&#x200B;以新增它。 如需詳細資訊，請參閱Co-worker Chat UI指南中的[連線MCP伺服器](/help/chat/ui-guide.md#connect-mcp-servers)。
+1. （條件式）如果未列出整合，請選取&#x200B;[!UICONTROL **新增伺服器**]&#x200B;以新增它。
+
+   如需詳細資訊，請參閱開始使用指南中的[連線伺服器](/help/chat/ui-guide.md#server)。
 
 ## 連線至正確的資料檢視或報表套裝
 
@@ -307,7 +311,7 @@ Co-worker Chat包含記憶體功能，可讓您存取跨越所有聊天內容的
 
 >[!ENDSHADEBOX]
 
-### 發生的事
+### 發生什麼事
 
 在四個直白的問題中，同事幫助我們：
 
