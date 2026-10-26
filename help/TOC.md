@@ -6,9 +6,9 @@ description: 瞭解CX Enterprise中的AI工具。 在CX Enterprise中使用AI來
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 43080128c8b3eeaa712334c3fff2fa89c157efea
+source-git-commit: fd69d41fa38c993fce1f32815f5badfd4714a270
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '314'
 ht-degree: 14%
 ---
 
@@ -35,17 +35,17 @@ ht-degree: 14%
         - [偵測Experience Platform異常](./chat/use-cases/data-insights/anomaly-detection.md)
         - [加速資料深入分析](./chat/use-cases/data-insights/accelerate-data-insights.md)
       - 歷程分析 {#journey-analysis}
-        - [概覽](./chat/use-cases/data-insights/journey-analysis.md)
+        - [概觀](./chat/use-cases/data-insights/journey-analysis.md)
       - 對象和區段分析 {#audience-and-segment-analysis}
         - [概觀](./chat/use-cases/data-insights/audience-and-segment-analysis.md)
       - 業務績效 {#business-performance}
         - [概觀](./chat/use-cases/data-insights/business-performance.md)
         - [探索趨勢和根本原因](./chat/use-cases/data-insights/root-cause-analysis.md)
       - 內容績效 {#content-performance}
-        - [概覽](./chat/use-cases/data-insights/content-performance.md)
+        - [概觀](./chat/use-cases/data-insights/content-performance.md)
         - [提出關於內容的問題](./chat/use-cases/data-insights/ask-content-questions.md)
       - 行銷測量與歸因 {#marketing-measurement-and-attribution}
-        - [概觀](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
+        - [概覽](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
     - 資料上線 {#data-onboarding}
       - {hide-from-toc}[與同事將資料上線](./agents/data-onboarding-skill.md)
     - 資料管理 {#data-management}
@@ -103,3 +103,4 @@ ht-degree: 14%
   - [發行說明](./coworker-for-teams/release-notes.md)
 - 更多資源 {#more-resources}
   - [文件更新](./more-resources/documentation-updates.md)
+  - [發行說明](./more-resources/release-notes.md)
