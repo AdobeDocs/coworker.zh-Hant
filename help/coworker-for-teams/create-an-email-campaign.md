@@ -4,9 +4,9 @@ title: 建立電子郵件行銷活動
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: bf3751af83dd8d40021fb2459743aec66c53209c
+source-git-commit: a456bf55f7004304df7ad9ea6d6bc3410faffaba
 workflow-type: tm+mt
-source-wordcount: '935'
+source-wordcount: '933'
 ht-degree: 0%
 ---
 # 建立電子郵件行銷活動 {#create-an-email-campaign}
@@ -68,7 +68,7 @@ _使用時機：您可能知道您想要什麼，但想要一點協助（或使�
 
 ![輸入您自己的提示](./assets/create-an-email-campaign-2.png)
 
-當您準備好提示時，請按一下[產生行銷活動]。**&#x200B;** 團隊的同事將會：
+當您準備好提示時，請按一下向上箭頭圖示。 團隊的同事將會：
 
 * 產生結構化的行銷活動策略。
 * 詢問您的目標對象，這些對象也會用於內容個人化。
@@ -88,8 +88,6 @@ _使用時機：您可能知道您想要什麼，但想要一點協助（或使�
    >
    >雖然適用於團隊的同事可讓您使用範例對象繼續建立行銷活動，但您必須新增真實對象才能啟動行銷活動。
 
-1. 匯入您的CSV檔案。
-
    >[!IMPORTANT]
    >
    >在上傳之前，排除您不想以電子郵件傳送的任何連絡人（取消訂閱的使用者、內部地址、測試帳戶）。 雖然我們將在試用期間逐步啟用排除特定使用者或新增屬性的功能，但自推出日期起將無法立即使用。
@@ -98,7 +96,7 @@ _使用時機：您可能知道您想要什麼，但想要一點協助（或使�
 
 若要變更電子郵件，請向右捲動。 在&#x200B;_促銷活動Assets_&#x200B;底下，按一下&#x200B;**開啟編輯器**。
 
-![](./assets/create-an-email-campaign-4.png)
+![](./assets/create-an-email-campaign-3.png)
 
 更新您的內容有兩種方式。
 
@@ -114,7 +112,7 @@ _使用時機：您可能知道您想要什麼，但想要一點協助（或使�
 
 您也可以使用AI按鈕來協助調整您的「主旨」或「預覽文字」。
 
-![](./assets/create-an-email-campaign-5.png)
+![](./assets/create-an-email-campaign-4.png)
 
 >[!TIP]
 >
@@ -128,7 +126,7 @@ _使用時機：您可能知道您想要什麼，但想要一點協助（或使�
 >
 >目前，您只能傳送測試電子郵件給自己，一次只能傳送一封電子郵件。
 
-![](./assets/create-an-email-campaign-6.png)
+![](./assets/create-an-email-campaign-5.png)
 
 ## 步驟6：啟動您的行銷活動
 
