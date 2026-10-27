@@ -4,22 +4,26 @@ title: 連線到Shopify
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 6d121c60fbf41dc2b27844854078f8f4f48d1944
+source-git-commit: 395e6f64210aedd90fa4f6655860cf4c9bf19f7b
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '160'
 ht-degree: 0%
 ---
 # 連線到Shopify {#shopify}
 
-適用於團隊的Adobe Co-worker可讓您將您的Shopify連結至...........
+適用於團隊的Adobe Co-worker可讓您連結Shopify帳戶，以拉入客戶和區段。
 
 >[!PREREQUISITES]
 >
 >若要使用此聯結器，您必須先擁有：
+>
+>* 有效的Shopify帳戶
+>* Shopify中的下列許可權： `read_customers`
+>* 您的Shopify商店URL和[管理API存取Token](https://shopify.dev/docs/apps/build/authentication-authorization)已可使用
 
 ## 如何連線
 
-1. 在[團隊的同事首頁](https://coworker-campaigns.experience.adobe.com/)上，按一下&#x200B;**自訂**&#x200B;並選取&#x200B;**聯結器**。
+1. 在[Co-worker for teams首頁](https://coworker-campaigns.experience.adobe.com/)上，按一下&#x200B;**內容**&#x200B;並選取&#x200B;**聯結器**。
 
    熒幕擷圖
 
@@ -39,7 +43,7 @@ ht-degree: 0%
 
    熒幕擷圖
 
-連線之後，Shopify會出現在「聯結器」清單中...................
+連線之後，Shopify會出現在「聯結器」清單中。
 
 **中斷連線：**
 
