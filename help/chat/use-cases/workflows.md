@@ -4,9 +4,9 @@ title: 同事聊天工作流程
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: b85f470f860795f9a3960f5a4e36d0584e2b6a81
+source-git-commit: 5acb9a62c94486e0487cc7805ebc9ef6e25e2079
 workflow-type: tm+mt
-source-wordcount: '8358'
+source-wordcount: '8465'
 ht-degree: 6%
 ---
 # 同事聊天工作流程 {#use-cases}
@@ -147,6 +147,7 @@ Co-worker Chat可讓您使用自然語言來查詢、分析和處理您的[!DNL 
 | [分析歷程衛生](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | 稽核您的歷程詳細目錄，以尋找具有遺失或一般名稱、過時草稿或即時歷程、超大歷程、長期存在的已關閉歷程以及類似動作和事件名稱的歷程，並提供清理和穩定設定的建議 | 歷程分析 | Adobe Journey Optimizer (AJO) | 「稽核我的歷程設定。」<br> 「我的哪些歷程已過時或需要清理？」 |
 | [比較歷程版本](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | 比較兩個歷程版本，並檢閱節點、連線和歷程層級屬性變更的結構化差異 | `journey-analyze-version-comparison` | Adobe Journey Optimizer (AJO) | 「比較我的歡迎歷程的版本2和3」<br>「這兩個歷程版本之間有何變更？」 |
 | [透過歷程追蹤設定檔](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#trace-journey-profile){target="_blank"} | 取得已發佈歷程的唯讀、設定檔層級執行資料：檢視進入每個節點的設定檔數，以及這些設定檔在分支之間的分割方式、找出哪些設定檔發生錯誤及原因，或在整個歷程中遵循單一設定檔的逐節點路徑 | 追蹤歷程設定檔 | Adobe Journey Optimizer (AJO) | 「透過[歷程名稱]追蹤設定檔。」<br> 「過去7天裡[歷程名稱]中的哪些設定檔發生錯誤、在哪個節點，以及為什麼？」 <br> 「透過[歷程名稱]顯示設定檔[ID或電子郵件]的路徑。」 |
+| [分析歷程執行時間表](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-execution-timeline){target="_blank"} | 取得讀取對象歷程批次的端對端時間軸：瞭解所需時間、對象匯出、歷程執行和傳送開始和結束的時間，以及入口、出口或執行時間的設定檔層級P95和P99 | 歷程執行時間表 | Adobe Journey Optimizer (AJO) | 「讀取對象歷程[歷程名稱]執行了多久？」 <br> 「依批次顯示對象匯出、歷程執行和傳遞[歷程名稱]的時間表。」<br> 「哪一批[歷程名稱]耗時最久，哪個階段造成延遲？」 |
 
 **相關資訊**
 

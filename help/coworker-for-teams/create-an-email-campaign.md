@@ -4,9 +4,9 @@ title: 建立電子郵件行銷活動
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: f25492704c73fc42d54bf44aa8d59ab73f811f1b
+source-git-commit: bf3751af83dd8d40021fb2459743aec66c53209c
 workflow-type: tm+mt
-source-wordcount: '933'
+source-wordcount: '935'
 ht-degree: 0%
 ---
 # 建立電子郵件行銷活動 {#create-an-email-campaign}
@@ -80,15 +80,13 @@ _使用時機：您可能知道您想要什麼，但想要一點協助（或使�
 
 對象是透過CSV上傳。 所有受眾都特定於其各自的促銷活動（目前未儲存在您環境的其他任何位置）。
 
-1. 送出提示後，請檢閱Co-worker將執行的工作，然後按一下&#x200B;**建置**。
+1. 提交您的提示後， Co-worker for teams （通常）會產生範例受眾。 如果不適用，系統會提示您匯入對象。
 
-1. 在左側的&#x200B;_促銷活動轉換_&#x200B;窗格中，按一下&#x200B;**上傳CSV**。
-
-   ![](./assets/create-an-email-campaign-3.png)
+1. 透過上傳CSV檔案或從可用的聯結器匯入資料來匯入您自己的對象。
 
    >[!NOTE]
    >
-   >* 電子郵件地址是必填欄位、名字、上次購買日期，以及任何其他可用於個人化的欄位，建議使用。
+   >雖然適用於團隊的同事可讓您使用範例對象繼續建立行銷活動，但您必須新增真實對象才能啟動行銷活動。
 
 1. 匯入您的CSV檔案。
 
@@ -132,9 +130,9 @@ _使用時機：您可能知道您想要什麼，但想要一點協助（或使�
 
 ![](./assets/create-an-email-campaign-6.png)
 
-## 步驟6：下一步
+## 步驟6：啟動您的行銷活動
 
-Launch功能（傳送您的電子郵件行銷活動）即將推出。 在此之前，您可以與團隊檢閱內容，並開始您的下一個行銷活動。
+您現在已準備好[啟動您的行銷活動](/help/coworker-for-teams/launch-manage-campaign.md#launch-a-campaign)。
 
 ## 常見問題集
 
