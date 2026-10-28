@@ -6,15 +6,16 @@ description: 瞭解CX Enterprise中的AI工具。 在CX Enterprise中使用AI來
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: a0a02aaf4048f13954a1018499204cab05c27023
+source-git-commit: 67936a948c0e985619e3ae72dffa443a016611bb
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 15%
+source-wordcount: '319'
+ht-degree: 14%
 ---
 
 # CX Enterprise Coworker {#content}
 
 - [同事指南](home.md)
+- [適用於AI平台的Adobe CX Enterprise Coworker](/help/ai-platforms.md)
 - 同事聊天 {#chat}
   - [關於同事聊天](./chat/overview.md)
   - [開始使用同事聊天](./chat/ui-guide.md)
@@ -25,7 +26,7 @@ ht-degree: 15%
       - [關於分析資料](./chat/use-cases/data-insights/analytics-overview.md)
       - [開始分析資料](./chat/use-cases/data-insights/analytics-chat.md)
       - 智慧型實作與管理 {#intelligent-implementation-and-administration}
-        - [概覽](./chat/use-cases/data-insights/data-governance-and-validation.md)
+        - [概觀](./chat/use-cases/data-insights/data-governance-and-validation.md)
         - [規劃您的實作](./chat/use-cases/data-insights/implementation-guide.md)
         - [產生實施檢查清單](./chat/use-cases/data-insights/intelligent-checklist.md)
         - [升級時驗證AA至CJA資料](./chat/use-cases/data-insights/data-validation-aa-cja.md)
@@ -35,14 +36,14 @@ ht-degree: 15%
         - [偵測Experience Platform異常](./chat/use-cases/data-insights/anomaly-detection.md)
         - [加速資料深入分析](./chat/use-cases/data-insights/accelerate-data-insights.md)
       - 歷程分析 {#journey-analysis}
-        - [概覽](./chat/use-cases/data-insights/journey-analysis.md)
+        - [概觀](./chat/use-cases/data-insights/journey-analysis.md)
       - 對象和區段分析 {#audience-and-segment-analysis}
-        - [概覽](./chat/use-cases/data-insights/audience-and-segment-analysis.md)
+        - [概觀](./chat/use-cases/data-insights/audience-and-segment-analysis.md)
       - 業務績效 {#business-performance}
         - [概觀](./chat/use-cases/data-insights/business-performance.md)
         - [探索趨勢和根本原因](./chat/use-cases/data-insights/root-cause-analysis.md)
       - 內容績效 {#content-performance}
-        - [概觀](./chat/use-cases/data-insights/content-performance.md)
+        - [概覽](./chat/use-cases/data-insights/content-performance.md)
         - [提出關於內容的問題](./chat/use-cases/data-insights/ask-content-questions.md)
       - 行銷測量與歸因 {#marketing-measurement-and-attribution}
         - [概觀](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)

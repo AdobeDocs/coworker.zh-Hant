@@ -4,10 +4,10 @@ description: 瞭解Adobe CX Enterprise Coworker，這是AI支援的團隊成員�
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: d611ce2398cba72cf21c766f3b25225765c1675b
+source-git-commit: 67936a948c0e985619e3ae72dffa443a016611bb
 workflow-type: tm+mt
-source-wordcount: '1213'
-ht-degree: 16%
+source-wordcount: '1231'
+ht-degree: 15%
 ---
 # CX Enterprise Coworker概觀 {#overview}
 
@@ -216,3 +216,9 @@ CARDS
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+## AI平台
+
+使用[!DNL Adobe CX Enterprise Coworker for AI Platforms]在您的AI工具中取得行銷見解。
+
+* [適用於AI平台的Adobe CX Enterprise Coworker](/help/ai-platforms.md)
