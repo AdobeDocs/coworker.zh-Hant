@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >* 有效的Marketo Engage帳戶
 >* 您的Marketo **執行個體URL**
->* 為Marketo團隊的同事建立的[自訂服務](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/custom-services#custom-services-1){target="_blank"}，其有[使用者端ID和使用者端密碼](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token){target="_blank"}
+>* 為Marketo團隊的同事建立的[自訂服務](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/custom-services#custom-services-1){target="_blank"}，其有[使用者端ID和使用者端密碼](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token){target="_blank"}
 
 ## 如何連線
 
