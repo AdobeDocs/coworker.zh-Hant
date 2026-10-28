@@ -4,9 +4,9 @@ description: 請參閱CX Enterprise Coworker檔案中的最新和更新文章及
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: e4fbbf54c26a0443f0fab50d05428e793dbb5c88
+source-git-commit: decc8d209d4c9c177c6329a30668f0bbb8bd2c00
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '241'
 ht-degree: 0%
 ---
 # 文件更新 {#documentation-updates}
@@ -14,6 +14,12 @@ ht-degree: 0%
 使用此頁面尋找CX Enterprise Coworker檔案中的新內容及大幅更新內容。 更新會依月份列出，最新的排在前。 如需團隊同事的產品變更，請參閱[團隊同事發行說明](../coworker-for-teams/release-notes.md)。
 
 ## 2026年10 {#oct-2026}
+
+<!-- FLAG: Update the date to the publish date of the migration article. Rollout and GA dates are TBD. -->
+
+**2026年10月28日**
+
+* 新增： [將Adobe Analytics專案移轉至Customer Journey Analytics](../chat/use-cases/data-insights/migrate-projects-aa-cja.md)
 
 **2026年10月26日**
 
