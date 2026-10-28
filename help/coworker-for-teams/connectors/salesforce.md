@@ -4,9 +4,9 @@ title: 連線至Salesforce
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 6d121c60fbf41dc2b27844854078f8f4f48d1944
+source-git-commit: 55ee8ef8f43e03720e75c9e68fccf12da8595f9c
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '287'
 ht-degree: 0%
 ---
 # 連線至Salesforce {#salesforce}
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >* 有效的Salesforce帳戶
 >* Salesforce中的下列許可權： `api`、`sobjects.Contact.read`、`sobjects.Campaign.read`、`sobjects.CampaignMember.read`
->* 您的Salesforce執行個體URL、[使用者端ID和使用者端密碼](https://help.salesforce.com/s/articleView?id=xcloud.remoteaccess_oauth_client_credentials_flow.htm&type=5#:~:text=DESCRIPTION-,client_id,-The%20consumer%20key)已可使用
+>* 您的Salesforce執行個體URL、[使用者端ID和使用者端密碼](https://help.salesforce.com/s/articleView?id=xcloud.remoteaccess_oauth_client_credentials_flow.htm&type=5#:~:text=DESCRIPTION-,client_id,-The%20consumer%20key){target="_blank"}已可使用
 
 ## 如何連線
 
-1. 在[Co-worker for teams首頁](https://coworker-campaigns.experience.adobe.com/)上，按一下&#x200B;**內容**&#x200B;並選取&#x200B;**聯結器**。
+1. 在[Co-worker for teams首頁](https://coworker-campaigns.experience.adobe.com/){target="_blank"}上，按一下&#x200B;**內容**&#x200B;並選取&#x200B;**聯結器**。
 
    ![團隊的同事已展開內容並醒目提示聯結器的左側導覽](./assets/salesforce-1.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 1. 在Salesforce列中，按一下&#x200B;**連線**。
 
-   ![](./assets/salesforce-3.png)
+   ![Salesforce聯結器圖磚，帶有連線按鈕](./assets/salesforce-3.png)
 
 1. 輸入您的Salesforce **執行個體URL**、**使用者端識別碼**&#x200B;和&#x200B;**使用者端密碼**。 按一下&#x200B;**連線**。
 
@@ -47,7 +47,7 @@ ht-degree: 0%
    >
    >* 在您的Salesforce帳戶中，您可以在瀏覽器的位址列中找到執行個體URL，或瀏覽至&#x200B;**設定** > **公司設定** > **我的網域**。
 
-   ![](./assets/salesforce-4.png)
+   ![使用執行個體URL、使用者端ID和使用者端密碼的欄位連線Salesforce對話方塊](./assets/salesforce-4.png)
 
 連線後，Salesforce會出現在聯結器清單中，並可在連結潛在客戶或連絡人清單以從Salesforce同步時選取。
 
@@ -55,12 +55,12 @@ ht-degree: 0%
 
 1. 在Connectors畫面中，找到Salesforce圖磚，然後按一下&#x200B;**管理**。
 
-   ![](./assets/salesforce-5.png)
+   ![聯結器畫面顯示Salesforce已連線並反白顯示「管理」按鈕](./assets/salesforce-5.png)
 
 1. 按一下&#x200B;**中斷連線** （目前不需要重新輸入您的使用者端密碼）。
 
-   ![](./assets/salesforce-6.png)
+   ![管理Salesforce對話方塊，並反白顯示[中斷連線]按鈕](./assets/salesforce-6.png)
 
 1. 再按一下&#x200B;**中斷連線**&#x200B;以確認。
 
-   ![](./assets/salesforce-7.png)
+   ![中斷連線確認對話方塊，反白顯示[中斷連線]按鈕](./assets/salesforce-7.png)

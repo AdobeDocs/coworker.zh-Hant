@@ -6,9 +6,9 @@ description: 瞭解CX Enterprise中的AI工具。 在CX Enterprise中使用AI來
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 67936a948c0e985619e3ae72dffa443a016611bb
+source-git-commit: 5394a34858c6480dec74f4fdf8b9a26e28bcac68
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '321'
 ht-degree: 14%
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 14%
       - [關於分析資料](./chat/use-cases/data-insights/analytics-overview.md)
       - [開始分析資料](./chat/use-cases/data-insights/analytics-chat.md)
       - 智慧型實作與管理 {#intelligent-implementation-and-administration}
-        - [概觀](./chat/use-cases/data-insights/data-governance-and-validation.md)
+        - [概覽](./chat/use-cases/data-insights/data-governance-and-validation.md)
         - [規劃您的實作](./chat/use-cases/data-insights/implementation-guide.md)
         - [產生實施檢查清單](./chat/use-cases/data-insights/intelligent-checklist.md)
         - [升級時驗證AA至CJA資料](./chat/use-cases/data-insights/data-validation-aa-cja.md)
@@ -91,16 +91,18 @@ ht-degree: 14%
   - 記憶 {#memory}
     - [什麼是記憶體？](./customizations/memory/what-is-memory.md)
 - 團隊同事 {#coworker-for-teams}
-  - [概覽](./coworker-for-teams/overview.md)
+  - [概觀](./coworker-for-teams/overview.md)
   - [建立電子郵件行銷活動](./coworker-for-teams/create-an-email-campaign.md)
   - [啟動及管理行銷活動](./coworker-for-teams/launch-manage-campaign.md)
   - [使用案例](./coworker-for-teams/use-cases.md)
   - [提示最佳實務](./coworker-for-teams/prompting-best-practices.md)
   - [C2PA 中繼資料](./coworker-for-teams/c2pa-metadata.md)
   - 連接器 {#connectors}
-    - [Marketo Engage](./coworker-for-teams/connectors/marketo.md)
+    - {hide-from-toc}[資料庫](./coworker-for-teams/connectors/databricks.md)
     - [Hubspot](./coworker-for-teams/connectors/hubspot.md)
+    - [Marketo Engage](./coworker-for-teams/connectors/marketo.md)
     - [Salesforce](./coworker-for-teams/connectors/salesforce.md)
+    - {hide-from-toc}[Shopify](./coworker-for-teams/connectors/shopify.md)
   - [發行說明](./coworker-for-teams/release-notes.md)
 - 更多資源 {#more-resources}
   - [文件更新](./more-resources/documentation-updates.md)
