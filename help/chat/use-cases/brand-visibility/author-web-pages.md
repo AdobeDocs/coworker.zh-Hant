@@ -22,7 +22,7 @@ ht-degree: 0%
 
 使用Adobe CX Enterprise Coworker以簡單的語言描述您想要的內容，進而撰寫AEM Sites頁面。 在此影片中，Co-worker使用聊天提示將新促銷活動新增到WKND首頁（從視覺內容片段建置）。
 
->[!VIDEO](https://video.tv.adobe.com/v/3503863/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503872/?captions=chi_hant&learn=on)
 
 >[!NOTE]
 >
