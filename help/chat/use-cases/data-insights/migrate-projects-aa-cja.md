@@ -109,7 +109,7 @@ Customer Journey Analytics中已存在的元件不會重新建立，因此您可
    | 選項 | 說明 |
    | --- | --- |
    | [!UICONTROL **特定AA專案**] | 移轉您命名的專案。 請依照本節中的其餘步驟操作。 |
-   | [!UICONTROL **僅檢閱對應**] | 檢查報表套裝的量度和維度如何對應至資料檢視，而不移轉任何專案。 在移轉](#review-report-suite-mappings-before-you-migrate)之前，請參閱[檢閱報表套裝對應。 |
+   | [!UICONTROL **僅檢閱對應**] | 檢查報表套裝的量度和維度如何對應至資料檢視，而不移轉任何專案。 在移轉[&#128279;](#review-report-suite-mappings-before-you-migrate)之前，請參閱檢閱報表套裝對應。 |
    | [!UICONTROL **計畫完整升級**] | 取得從Adobe Analytics移轉至Customer Journey Analytics的端對端計畫。 請參閱[與同事一起規劃您的實作](/help/chat/use-cases/data-insights/implementation-guide.md)。 |
 
 1. （選擇性）回答&#x200B;[!UICONTROL **Source &amp; target**]&#x200B;標籤上的問題，然後選取&#x200B;[!UICONTROL **下一步**]。
