@@ -39,7 +39,7 @@ ht-degree: 4%
 
 「客戶警示技能」可協助您從警示訊號轉變為可操作的深入分析，無需手動檢閱警示檢視或在多個介面間建立資訊關聯。 從有關最近警示活動的廣泛問題開始，然後使用後續問題來識別週期性警示模式、分析受影響的物件，並專注於您擁有的警示。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504716?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504725?captions=chi_hant&learn=on)
 
 如需客戶警示的相關資訊，請參閱[客戶警示概觀](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/observability/alerts/overview)。
 
