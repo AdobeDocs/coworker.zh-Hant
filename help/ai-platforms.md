@@ -3,11 +3,8 @@ title: 適用於AI平台的Adobe CX Enterprise Coworker
 description: 瞭解適用於AI平台的Adobe CX Enterprise Coworker。 探索支援的平台、設定指示和範例提示，以取得行銷見解。
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-feature_v2:
-  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: cc2d5256952ce20cda57f7274a5dc1d879d4a6a0
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '1011'
 ht-degree: 1%

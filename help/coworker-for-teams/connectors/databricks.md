@@ -3,8 +3,8 @@ description: 適用於團隊的同事可讓您連線並查詢Databricks工作區
 title: 連線到Databricks
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: bd7454ee46cb1ee4ca8b7ae6ab07348a23854979
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
@@ -34,7 +34,7 @@ ht-degree: 0%
    >
    >如果這不是您的第一次整合，按鈕會顯示「新增聯結器」。
 
-1. 在[資料庫]列中，按一下[連線]。**&#x200B;**
+1. 在[資料庫]列中，按一下[連線]。****
 
    ![具有[連線]按鈕的Databricks聯結器拼貼](./assets/databricks-3.png)
 

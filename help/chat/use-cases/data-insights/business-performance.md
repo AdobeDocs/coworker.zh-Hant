@@ -3,8 +3,8 @@ title: 透過同事聊天分析業務績效和KPI
 description: 使用「同事聊天」來說明量度移動的原因、預測其前往何處、準備績效審查，以及將重複分析轉換為可重複使用的技能。
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '683'
 ht-degree: 2%

@@ -9,8 +9,8 @@ last-substantial-update: 2026-08-12T00:00:00.000Z
 jira: KT-22312
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 645cb0c837d9320c3a908b580b10397532900070
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 1%
@@ -26,10 +26,10 @@ ht-degree: 1%
  
 影片展示「忠誠度外掛程式」及其「挑戰管理」技能，這項AI支援的功能可協助行銷人員使用自然語言來建立、編輯及管理忠誠度挑戰，而非手動設定使用者介面中的每個設定。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496547/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496528/?learn=on&enablevpops)
 
 ## 另請參閱
 
-- [Journey Agent](https://experienceleague.adobe.com/zh-hant/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent)，用於同事聊天所提供的其他AJO AI功能，例如歷程建立、分析和模擬。
+- [Journey Agent](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent)，用於同事聊天所提供的其他AJO AI功能，例如歷程建立、分析和模擬。
 - Adobe Journey Optimizer檔案中的[忠誠度挑戰管理](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/essentials/ajo-coworker-skills#loyalty-challenge-management){target="_blank"}。
 - [更多同事聊天工作流程](../workflows.md#journeys)

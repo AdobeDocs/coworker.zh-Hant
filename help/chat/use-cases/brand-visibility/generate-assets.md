@@ -9,8 +9,8 @@ last-substantial-update: 2026-09-01T00:00:00.000Z
 jira: KT-22502
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -24,4 +24,4 @@ Co-worker可簡化為社群媒體和其他頻道建立品牌資產的程式。 �
 
 Co-worker還提供進一步自訂的彈性。 您可以修改資產、建立變數或調整內容以符合不同的格式，例如Instagram內文。 此方法可讓您專注於目標，而由同事管理技術細節。
 
->[!VIDEO](https://video.tv.adobe.com/v/3502720/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502692/?learn=on&enablevpops)

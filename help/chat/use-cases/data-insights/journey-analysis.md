@@ -3,8 +3,8 @@ title: 透過同事聊天分析客戶歷程和還車
 description: 使用「同事聊天」建立漏斗、尋找客戶流失的位置、診斷轉換下降，以及在分析資料中比較不同期間的歷程。
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: f1ffc050071fc0ca48ae36c7aea8bc66eff2a147
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '690'
 ht-degree: 2%

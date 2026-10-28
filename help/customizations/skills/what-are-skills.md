@@ -9,8 +9,8 @@ last-substantial-update: 2026-08-26T00:00:00.000Z
 jira: KT-22377
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
  
 在本影片中，您將會瞭解技能如何運作、何時使用，以及它們如何協助團隊擴展可重複的客戶體驗實務。
 
->[!VIDEO](https://video.tv.adobe.com/v/3502332/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502322/?learn=on&enablevpops)
 
 技能提供：
 
@@ -45,7 +45,6 @@ ht-degree: 0%
 
 技能可協助團隊擷取並重複使用這些最佳實務，而不需每次手動重新說明此流程。
  
-
 ## 技能與資料控管
 
 技能不會儲存客戶資料。
