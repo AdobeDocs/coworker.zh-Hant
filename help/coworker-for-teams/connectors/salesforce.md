@@ -4,14 +4,14 @@ title: 連線至Salesforce
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 55ee8ef8f43e03720e75c9e68fccf12da8595f9c
+source-git-commit: bd7454ee46cb1ee4ca8b7ae6ab07348a23854979
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '286'
 ht-degree: 0%
 ---
 # 連線至Salesforce {#salesforce}
 
-適用於團隊的Adobe同事可讓您連線您的Salesforce帳戶，以存取您的銷售機會和聯絡人。
+團隊同事可讓您連線您的Salesforce帳戶，以存取您的銷售機會和聯絡人。
 
 >[!PREREQUISITES]
 >
