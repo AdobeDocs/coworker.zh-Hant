@@ -20,7 +20,7 @@ ht-degree: 1%
 
 ## 開始之前 {#before-you-begin}
 
-確保您使用的沙箱包含您要檢閱的資料集。 您也需要存取資料管理代理程式和所需的Adobe Experience Platform許可權。 請參閱[資料管理代理程式先決條件](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-management#prerequisites)。
+確保您使用的沙箱包含您要檢閱的資料集。 您也需要存取資料管理代理程式和所需的Adobe Experience Platform許可權。 請參閱[資料管理代理程式先決條件](https://experienceleague.adobe.com/zh-hant/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-management#prerequisites)。
 
 ## 將沙箱中的資料最佳化 {#optimize-data-in-your-sandbox}
 
@@ -34,7 +34,7 @@ ht-degree: 1%
 
 縮小清單範圍後，請使用「分析資料集使用情形」技能，瞭解特定資料集的使用情形。
 
-並非所有以此技能顯示且未使用或放棄的資料集都是資料湖保留原則的理想適用對象。 如果您需要移除整個資料集或管理其他Experience Platform存放區的資料，請參閱[選擇正確的資料生命週期管理功能](https://experienceleague.adobe.com/en/docs/experience-platform/data-lifecycle/choose-a-capability)。 在設定資料湖保留原則之前，請確認資料集是體驗事件資料集。
+並非所有以此技能顯示且未使用或放棄的資料集都是資料湖保留原則的理想適用對象。 如果您需要移除整個資料集或管理其他Experience Platform存放區的資料，請參閱[選擇正確的資料生命週期管理功能](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/data-lifecycle/choose-a-capability)。 在設定資料湖保留原則之前，請確認資料集是體驗事件資料集。
 
 提示範例：
 
@@ -86,7 +86,7 @@ ht-degree: 1%
 
 ![在套用變更前，顯示所建議Data Lake保留原則、其影響及所需確認的共同工作者。](../../assets/data-management/retention-impact-preview.png)
 
-在您確認保留原則後，可能需要一段時間才會將變更顯示在Adobe Experience Platform UI中。 保留原則不會立即刪除過期的資料。 初始保留工作會在套用原則後24小時內開始。 初次執行後，排程的工作會每隔30天評估及刪除過期的記錄。 請參閱[Experience Event資料集保留(TTL)指南](https://experienceleague.adobe.com/en/docs/experience-platform/catalog/datasets/experience-event-dataset-retention-ttl-guide)，以取得有關保留和清除的詳細資訊。
+在您確認保留原則後，可能需要一段時間才會將變更顯示在Adobe Experience Platform UI中。 保留原則不會立即刪除過期的資料。 初始保留工作會在套用原則後24小時內開始。 初次執行後，排程的工作會每隔30天評估及刪除過期的記錄。 請參閱[Experience Event資料集保留(TTL)指南](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/catalog/datasets/experience-event-dataset-retention-ttl-guide)，以取得有關保留和清除的詳細資訊。
 
 每次保留原則變更都會記錄在稽核軌跡中，包括原則設定、變更或移除的時間。 稽核軌跡會記錄每次變更的人員、變更發生的時間以及變更內容。 您可以依照同事提供的連結，在Adobe Experience Platform的資料集「稽核記錄」標籤中檢閱這些事件。 如需詳細資訊，請參閱[稽核記錄總覽](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/landing/governance-privacy-security/audit-logs/overview)。
 
@@ -107,4 +107,4 @@ ht-degree: 1%
 
 ## 後續步驟 {#next-steps}
 
-若要進一步瞭解資料管理代理程式的技能、範圍、行為和限制，請參閱[資料管理代理程式概述](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-management)。 如需Adobe Experience Platform中資料湖保留原則如何運作的詳細資訊，請參閱[Experience Event資料集保留(TTL)指南](https://experienceleague.adobe.com/en/docs/experience-platform/catalog/datasets/experience-event-dataset-retention-ttl-guide)。
+若要進一步瞭解資料管理代理程式的技能、範圍、行為和限制，請參閱[資料管理代理程式概述](https://experienceleague.adobe.com/zh-hant/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-management)。 如需Adobe Experience Platform中資料湖保留原則如何運作的詳細資訊，請參閱[Experience Event資料集保留(TTL)指南](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/catalog/datasets/experience-event-dataset-retention-ttl-guide)。
