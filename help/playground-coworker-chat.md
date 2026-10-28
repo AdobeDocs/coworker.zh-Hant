@@ -53,7 +53,7 @@ topic_v2:
     internal-label: Behavioral data
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
     internal-label: Governance
-source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '1671'
 ht-degree: 4%
@@ -107,7 +107,7 @@ ht-degree: 4%
 
 Co-worker依大小列出21個對象，從8,012個設定檔到0個：
 
-| 類別 | 客群 | 輪廓 |
+| 類別 | 客群 | 設定檔 |
 | --- | --- | --- |
 | 傾向分數 | 信用卡升級高 | 1,195 |
 | 傾向分數 | 媒體 | 4,113 |
@@ -214,7 +214,7 @@ Co-worker會識別兩個關鍵業務資料集和相關系統資料集：
 
 同事找到歷程或目的地中從未鎖定目標的兩個候選對象：
 
-| 客群 | 輪廓 |
+| 客群 | 設定檔 |
 | --- | --- |
 | 信用卡升級高 | 1,195 |
 | 信用卡升級Medium | 4,113 |

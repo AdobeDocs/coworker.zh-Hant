@@ -4,7 +4,7 @@ title: 連線至Marketo Engage
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '315'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >* 有效的Marketo Engage帳戶
 >* 您的Marketo **執行個體URL**
->* 為Marketo團隊的同事建立的[自訂服務](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/custom-services#custom-services-1){target="_blank"}，其有[使用者端ID和使用者端密碼](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token){target="_blank"}
+>* 為Marketo團隊的同事建立的[自訂服務](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/custom-services#custom-services-1){target="_blank"}，其有[使用者端ID和使用者端密碼](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token){target="_blank"}
 
 ## 如何連線
 

@@ -21,7 +21,7 @@ level_v2:
     internal-label: Experienced
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '1014'
 ht-degree: 4%
@@ -39,7 +39,7 @@ ht-degree: 4%
 
 「客戶警示技能」可協助您從警示訊號轉變為可操作的深入分析，無需手動檢閱警示檢視或在多個介面間建立資訊關聯。 從有關最近警示活動的廣泛問題開始，然後使用後續問題來識別週期性警示模式、分析受影響的物件，並專注於您擁有的警示。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504725?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504716?learn=on)
 
 如需客戶警示的相關資訊，請參閱[客戶警示概觀](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/observability/alerts/overview)。
 

@@ -7,7 +7,7 @@ level: Intermediate
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '1785'
 ht-degree: 1%
@@ -29,7 +29,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->在移轉任何專案之前，請閱讀Adobe Analytics檔案中的[準備將元件和專案從Adobe Analytics移轉到Customer Journey Analytics](https://experienceleague.adobe.com/zh-hant/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration)。 它說明如何準備移轉、包含的內容、哪些元素會導致錯誤，以及對應如何影響整個組織。 此資訊適用於Co-worker中的移轉。
+>在移轉任何專案之前，請閱讀Adobe Analytics檔案中的[準備將元件和專案從Adobe Analytics移轉到Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration)。 它說明如何準備移轉、包含的內容、哪些元素會導致錯誤，以及對應如何影響整個組織。 此資訊適用於Co-worker中的移轉。
 
 ## 與Adobe Analytics使用者介面中移轉的差異
 
@@ -54,7 +54,7 @@ ht-degree: 1%
 
 * Adobe Analytics管理員許可權，或Admin Console中的&#x200B;[!UICONTROL **元件移轉**]&#x200B;許可權。 您不需要成為管理員。
 
-* Adobe Analytics檔案中元件移轉的[必要條件](https://experienceleague.adobe.com/zh-hant/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration#prerequisites)。
+* Adobe Analytics檔案中元件移轉的[必要條件](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration#prerequisites)。
 
 * 使用基本報表套裝的專案。 無法移轉虛擬報表套裝。<!-- FLAG: Sourced from Coworker's response in the UI. The Adobe Analytics component migration docs don't mention virtual report suites. Confirm, and consider adding it to those docs. -->
 
@@ -62,7 +62,7 @@ ht-degree: 1%
 
 <!-- FLAG: Confidence: Medium. The recommendation to review mappings before the first migration from a report suite is inferred from the Adobe Analytics guidance to decide mappings as an organization; Coworker also validates mappings during each migration. Confirm with Scott. -->
 
-在您首次從該報表套裝移轉之前，請考慮檢閱報表套裝的維度和量度如何對應。 對應會套用至您的組織移轉的每個專案，因此先處理這些對應有助於後續的專案通過驗證。 如需選擇對應的指引，請參閱Adobe Analytics檔案中的[決定作為組織如何對應元件](https://experienceleague.adobe.com/zh-hant/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration#decide-as-an-organization-how-you-will-map-components)。
+在您首次從該報表套裝移轉之前，請考慮檢閱報表套裝的維度和量度如何對應。 對應會套用至您的組織移轉的每個專案，因此先處理這些對應有助於後續的專案通過驗證。 如需選擇對應的指引，請參閱Adobe Analytics檔案中的[決定作為組織如何對應元件](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration#decide-as-an-organization-how-you-will-map-components)。
 
 若要檢閱對應，請在&#x200B;[!UICONTROL **範圍**]&#x200B;索引標籤上選取&#x200B;[!UICONTROL **僅檢閱對應**]，或直接詢問同事：
 
@@ -109,7 +109,7 @@ Customer Journey Analytics中已存在的元件不會重新建立，因此您可
    | 選項 | 說明 |
    | --- | --- |
    | [!UICONTROL **特定AA專案**] | 移轉您命名的專案。 請依照本節中的其餘步驟操作。 |
-   | [!UICONTROL **僅檢閱對應**] | 檢查報表套裝的量度和維度如何對應至資料檢視，而不移轉任何專案。 在移轉[&#128279;](#review-report-suite-mappings-before-you-migrate)之前，請參閱檢閱報表套裝對應。 |
+   | [!UICONTROL **僅檢閱對應**] | 檢查報表套裝的量度和維度如何對應至資料檢視，而不移轉任何專案。 在移轉](#review-report-suite-mappings-before-you-migrate)之前，請參閱[檢閱報表套裝對應。 |
    | [!UICONTROL **計畫完整升級**] | 取得從Adobe Analytics移轉至Customer Journey Analytics的端對端計畫。 請參閱[與同事一起規劃您的實作](/help/chat/use-cases/data-insights/implementation-guide.md)。 |
 
 1. （選擇性）回答&#x200B;[!UICONTROL **Source &amp; target**]&#x200B;標籤上的問題，然後選取&#x200B;[!UICONTROL **下一步**]。
@@ -157,13 +157,13 @@ Customer Journey Analytics中已存在的元件不會重新建立，因此您可
 * **量度：**&#x200B;發生次數變成事件
 * **Dimension：**&#x200B;小時會維持一小時
 
-有關移轉的元件和專案元素，請參閱[瞭解Adobe Analytics檔案中移轉所包含的內容](https://experienceleague.adobe.com/zh-hant/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration#understand-what-is-included-in-a-migration)。
+有關移轉的元件和專案元素，請參閱[瞭解Adobe Analytics檔案中移轉所包含的內容](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration#understand-what-is-included-in-a-migration)。
 
 如果驗證未通過：
 
 * **無法自動對應的維度或量度：**&#x200B;同事建議您在資料檢視中對應每個維度或量度，更新對應，然後再次驗證專案。 您也可以告訴同事要將它與哪個維度或量度對應，例如「將頁面檢視對應至web.webPageDetails.pageViews.value」。
 
-* **不支援的元素：**&#x200B;從Adobe Analytics的專案移除任何不支援的元素。 例如，請確定每個面板都使用基本報表套裝，而非虛擬報表套裝。 然後要求同事再次檢查專案。 如需不支援的元素清單，請參閱Adobe Analytics檔案中的[瞭解造成錯誤的不支援的元素](https://experienceleague.adobe.com/zh-hant/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration#understand-unsupported-elements-that-cause-errors)。
+* **不支援的元素：**&#x200B;從Adobe Analytics的專案移除任何不支援的元素。 例如，請確定每個面板都使用基本報表套裝，而非虛擬報表套裝。 然後要求同事再次檢查專案。 如需不支援的元素清單，請參閱Adobe Analytics檔案中的[瞭解造成錯誤的不支援的元素](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration#understand-unsupported-elements-that-cause-errors)。
 
 若要在移轉前檢查整個報表套裝的對應，請參閱[在移轉前先檢閱報表套裝的對應](#review-report-suite-mappings-before-you-migrate)。
 
@@ -196,11 +196,11 @@ Customer Journey Analytics中已存在的元件不會重新建立，因此您可
    | 已排入佇列 | 移轉正在等待開始。 |
    | 已開始 | 移轉進行中。 |
    | 已完成 | 移轉已完成。 Co-worker提供已移轉專案的摘要，包括專案名稱和資料檢視。 |
-   | 失敗 | 移轉失敗。 您可以重試移轉。 請參閱Adobe Analytics檔案中的[重試失敗的移轉](https://experienceleague.adobe.com/zh-hant/docs/analytics/admin/admin-tools/component-migration/component-migration#retry-a-failed-migration)。 |
+   | 失敗 | 移轉失敗。 您可以重試移轉。 請參閱Adobe Analytics檔案中的[重試失敗的移轉](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/component-migration/component-migration#retry-a-failed-migration)。 |
 
 1. 移轉完成後，請在Customer Journey Analytics Workspace中從您的專案清單開啟新專案。
 
-1. （選用）將專案的所有權轉移給Customer Journey Analytics中的任何使用者。 如需詳細資訊，請參閱[轉移資產](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/tools/asset-transfer/transfer-assets)。
+1. （選用）將專案的所有權轉移給Customer Journey Analytics中的任何使用者。 如需詳細資訊，請參閱[轉移資產](https://experienceleague.adobe.com/en/docs/analytics-platform/using/tools/asset-transfer/transfer-assets)。
 
 移轉完成後，同事可建議另一個專案進行下一次移轉。
 
@@ -211,5 +211,5 @@ Customer Journey Analytics中已存在的元件不會重新建立，因此您可
 
 ## 後續步驟
 
-* 若要改在Adobe Analytics使用者介面中移轉專案，請參閱Adobe Analytics檔案中的[將元件和專案從Adobe Analytics移轉至Customer Journey Analytics](https://experienceleague.adobe.com/zh-hant/docs/analytics/admin/admin-tools/component-migration/component-migration)。
+* 若要改在Adobe Analytics使用者介面中移轉專案，請參閱Adobe Analytics檔案中的[將元件和專案從Adobe Analytics移轉至Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/component-migration/component-migration)。
 * 如需其他實作與管理使用案例，請參閱[智慧型實作與管理概觀](/help/chat/use-cases/data-insights/data-governance-and-validation.md)。

@@ -4,7 +4,7 @@ title: 適用於團隊的使用案例的同事
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '512'
 ht-degree: 0%
@@ -159,4 +159,4 @@ ht-degree: 0%
 
 ## 準備好建置了嗎？
 
-請挑選上述使用案例，造訪[建立電子郵件行銷活動] (./)以進行完整逐步說明，然後再試一次。
+請挑選上述使用案例，造訪[建立電子郵件行銷活動](./)以進行完整逐步說明，然後再試一次。

@@ -42,7 +42,7 @@ topic_v2:
     internal-label: Customer experience
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 0%
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 瞭解管理員如何使用核准的外掛程式來擴充Adobe同事聊天、管理市場以及控管對技能和連結工具的存取，同時保持與現有Adobe許可權的一致性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504191/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504182/?learn=on&enablevpops)
 
 ## 您將瞭解的內容
  

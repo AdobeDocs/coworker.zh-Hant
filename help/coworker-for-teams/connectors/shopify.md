@@ -4,7 +4,7 @@ title: 連線到Shopify
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 0%
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    使用[連線]按鈕的![Shopify聯結器圖磚](./assets/shopify-3.png)
 
-1. 檢閱必要的許可權，然後按一下[繼續]。**&#x200B;**
+1. 檢閱必要的許可權，然後按一下[繼續]。****
 
    ![使用[繼續]按鈕的[購物]必要許可權檢閱畫面](./assets/shopify-4.png)
 
