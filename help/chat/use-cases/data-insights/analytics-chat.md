@@ -335,7 +335,7 @@ Co-worker建立視覺效果後，您可以在Analysis Workspace中開啟該視�
 
 1. （選用）與您選擇的任何人共用您的Workspace專案。
 
-   如需Analysis Workspace的詳細資訊，請參閱Customer Journey Analytics檔案中的[Analysis Workspace概觀](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-workspace/home)或Adobe Analytics檔案中的[Analysis Workspace概觀](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/home)。
+   如需Analysis Workspace的詳細資訊，請參閱Customer Journey Analytics檔案中的[Analysis Workspace概觀](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-workspace/home)或Adobe Analytics檔案中的[Analysis Workspace概觀](https://experienceleague.adobe.com/zh-hant/docs/analytics/analyze/analysis-workspace/home)。
 
 ## 後續步驟
 
