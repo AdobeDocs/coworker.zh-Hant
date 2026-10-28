@@ -8,7 +8,7 @@ doc-type: Feature Video
 duration: 340
 last-substantial-update: 2026-10-14
 jira: KT-22878
-source-git-commit: 8ccd9aec018923f7198c027773a3dabb6ee37b1f
+source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -19,5 +19,5 @@ ht-degree: 0%
 瞭解Adobe CX Enterprise Coworker如何協助將資料深入分析目標轉換為Adobe Experience Manager (AEM)、Adobe Experience Platform (AEP)、Web SDK和Customer Journey Analytics (CJA)的連線實作工作流程。 瞭解同事如何協助規劃實作、執行支援的動作、指導產品和開發步驟，以及維護整個工作流程的內容，直到WKND網站參與資料可用於在CJA中分析為止。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3504576/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504567/?learn=on&enablevpops)
 

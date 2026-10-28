@@ -1,5 +1,5 @@
 ---
-title: Target與同事 — 分析、診斷及啟動Adobe Target活動
+title: Target與同事 — 分析、診斷並啟動Adobe Target活動
 description: 瞭解同事如何將代理式人工智慧帶入Adobe Target，幫助您分析效能、診斷問題以及啟動最佳化計畫的活動。
 feature: AI Tools
 role: User
@@ -12,7 +12,7 @@ nudge: true
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
