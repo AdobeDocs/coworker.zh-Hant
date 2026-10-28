@@ -46,7 +46,7 @@ Co-worker Chat可讓您透過簡單語言詢問您所需的內容，以使用Ado
 
 ## 瞭解同事聊天的基本知識
 
->[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498576?captions=chi_hant&learn=on)
 
 ## 指定您的同事偏好設定 {#preferences}
 

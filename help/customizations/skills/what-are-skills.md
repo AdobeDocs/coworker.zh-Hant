@@ -22,7 +22,7 @@ ht-degree: 0%
  
 在本影片中，您將會瞭解技能如何運作、何時使用，以及它們如何協助團隊擴展可重複的客戶體驗實務。
 
->[!VIDEO](https://video.tv.adobe.com/v/3502322/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502332/?captions=chi_hant&learn=on&enablevpops)
 
 技能提供：
 
