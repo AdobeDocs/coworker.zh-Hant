@@ -4,7 +4,7 @@ title: 連線到HubSpot
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 6d121c60fbf41dc2b27844854078f8f4f48d1944
+source-git-commit: 5394a34858c6480dec74f4fdf8b9a26e28bcac68
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -18,11 +18,11 @@ ht-degree: 0%
 >若要使用此聯結器，您必須先擁有：
 >
 >* 有效的HubSpot帳戶
->* 已新增包含下列範圍的[服務金鑰](https://developers.hubspot.com/docs/apps/developer-platform/build-apps/authentication/account-service-keys#create-a-service-key)： `crm.objects.contacts.read`、`crm.objects.leads.read`、`crm.schemas.contacts.read`、`crm.lists.read`、`crm.export`
+>* 已新增包含下列範圍的[服務金鑰](https://developers.hubspot.com/docs/apps/developer-platform/build-apps/authentication/account-service-keys#create-a-service-key){target="_blank"}： `crm.objects.contacts.read`、`crm.objects.leads.read`、`crm.schemas.contacts.read`、`crm.lists.read`、`crm.export`
 
 ## 如何連線
 
-1. 在[Co-worker for teams首頁](https://coworker-campaigns.experience.adobe.com/)上，按一下&#x200B;**內容**&#x200B;並選取&#x200B;**聯結器**。
+1. 在[Co-worker for teams首頁](https://coworker-campaigns.experience.adobe.com/){target="_blank"}上，按一下&#x200B;**內容**&#x200B;並選取&#x200B;**聯結器**。
 
    ![在側邊欄中展開的自訂功能表並選取聯結器](./assets/hubspot-1.png)
 

@@ -10,13 +10,17 @@ jira: KT-22312
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: 645cb0c837d9320c3a908b580b10397532900070
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '187'
 ht-degree: 1%
 ---
 
 # Adobe Journey Optimizer與同事 — 提出忠誠度挑戰並顯示深入見解
+
+>[!AVAILABILITY]
+>
+>您的組織必須具備Adobe Journey Optimizer Loyalty權益，才能使用「忠誠度」外掛程式及其挑戰管理技能。 如果您需要存取權，請聯絡您的Adobe客戶團隊以要求必要的權益。
 
 在此示範中，您將瞭解Adobe Journey Optimizer (AJO)忠誠度如何在同事中使用，以簡化和加速忠誠度計畫管理。
  

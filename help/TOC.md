@@ -6,9 +6,9 @@ description: 瞭解CX Enterprise中的AI工具。 在CX Enterprise中使用AI來
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 67936a948c0e985619e3ae72dffa443a016611bb
+source-git-commit: 3c7f31930e1c742d81ca0c9fee731f6edd6b6952
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '326'
 ht-degree: 14%
 ---
 
@@ -26,10 +26,11 @@ ht-degree: 14%
       - [關於分析資料](./chat/use-cases/data-insights/analytics-overview.md)
       - [開始分析資料](./chat/use-cases/data-insights/analytics-chat.md)
       - 智慧型實作與管理 {#intelligent-implementation-and-administration}
-        - [概觀](./chat/use-cases/data-insights/data-governance-and-validation.md)
+        - [概覽](./chat/use-cases/data-insights/data-governance-and-validation.md)
         - [規劃您的實作](./chat/use-cases/data-insights/implementation-guide.md)
         - [產生實施檢查清單](./chat/use-cases/data-insights/intelligent-checklist.md)
         - [升級時驗證AA至CJA資料](./chat/use-cases/data-insights/data-validation-aa-cja.md)
+        - [將AA專案移轉至CJA](./chat/use-cases/data-insights/migrate-projects-aa-cja.md)
         - [驗證串流媒體實施](./chat/use-cases/data-insights/streaming-media-validation.md)
         - [驗證CJA報表的資料集品質](./chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)
         - [驗證Experience Platform資料](./chat/use-cases/data-insights/data-validation-aep.md)
@@ -38,7 +39,7 @@ ht-degree: 14%
       - 歷程分析 {#journey-analysis}
         - [概觀](./chat/use-cases/data-insights/journey-analysis.md)
       - 對象和區段分析 {#audience-and-segment-analysis}
-        - [概觀](./chat/use-cases/data-insights/audience-and-segment-analysis.md)
+        - [概覽](./chat/use-cases/data-insights/audience-and-segment-analysis.md)
       - 業務績效 {#business-performance}
         - [概觀](./chat/use-cases/data-insights/business-performance.md)
         - [探索趨勢和根本原因](./chat/use-cases/data-insights/root-cause-analysis.md)
@@ -98,9 +99,11 @@ ht-degree: 14%
   - [提示最佳實務](./coworker-for-teams/prompting-best-practices.md)
   - [C2PA 中繼資料](./coworker-for-teams/c2pa-metadata.md)
   - 連接器 {#connectors}
-    - [Marketo Engage](./coworker-for-teams/connectors/marketo.md)
+    - {hide-from-toc}[資料庫](./coworker-for-teams/connectors/databricks.md)
     - [Hubspot](./coworker-for-teams/connectors/hubspot.md)
+    - [Marketo Engage](./coworker-for-teams/connectors/marketo.md)
     - [Salesforce](./coworker-for-teams/connectors/salesforce.md)
+    - {hide-from-toc}[Shopify](./coworker-for-teams/connectors/shopify.md)
   - [發行說明](./coworker-for-teams/release-notes.md)
 - 更多資源 {#more-resources}
   - [文件更新](./more-resources/documentation-updates.md)
