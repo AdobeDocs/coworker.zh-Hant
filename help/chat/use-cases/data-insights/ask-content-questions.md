@@ -34,7 +34,7 @@ ht-degree: 2%
 
 * 同事聊天已連線至您的Customer Journey Analytics資料檢視。 請參閱[開始使用同事聊天](/help/chat/use-cases/data-insights/analytics-chat.md)分析資料。
 * 檢視對您要分析之資料檢視的存取權。 同事聊天會從Customer Journey Analytics繼承您的許可權。
-* 為Content Analytics設定的資料檢視。 請參閱Customer Journey Analytics指南中的[設定Content Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/configuration/configuration)。
+* 為Content Analytics設定的資料檢視。 請參閱Customer Journey Analytics指南中的[設定Content Analytics](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/content-analytics/configuration/configuration)。
 
 ## 提出內容問題
 
@@ -97,11 +97,11 @@ Content Analytics追蹤兩種內容：資產和體驗。 每個報表都有各�
 * **體驗ID：**&#x200B;當您詢問特定頁面時，會依識別該頁面的內容體驗ID來篩選技能。
 * **AI產生的屬性：**&#x200B;每個資產和體驗都由屬性描述，例如攝影風格、色彩、色調和說服策略。 此技能會使用這些屬性來解釋內容表現良好的原因，而不只是哪些內容表現良好。
 
-如需完整的元件清單，請參閱Customer Journey Analytics指南中的[Content Analytics元件](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/report/components)。
+如需完整的元件清單，請參閱Customer Journey Analytics指南中的[Content Analytics元件](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/content-analytics/report/components)。
 
 ### 歸因
 
-此技能會選擇適合您問題的歸因模型。 例如，有關影像點選的問題與有關該影像貢獻了多少收入的問題有不同的回答。 如需詳細資訊，請參閱Customer Journey Analytics指南中的[歸因模型](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/attribution/models#attribution-models)。
+此技能會選擇適合您問題的歸因模型。 例如，有關影像點選的問題與有關該影像貢獻了多少收入的問題有不同的回答。 如需詳細資訊，請參閱Customer Journey Analytics指南中的[歸因模型](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-workspace/attribution/models#attribution-models)。
 
 ### 常見分析和工作流程
 

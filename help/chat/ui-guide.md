@@ -34,7 +34,7 @@ Co-worker Chat可讓您透過簡單語言詢問您所需的內容，以使用Ado
 
 使用您的Adobe認證登入[!DNL Coworker]。
 
-1. [使用您的Adobe ID登入](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud#sign-in-to-cx-enterprise) CX Enterprise。
+1. [使用您的Adobe ID登入](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/experience-cloud#sign-in-to-cx-enterprise) CX Enterprise。
 
    登入後，您可以從[!DNL CX Enterprise]應用程式功能表或使用直接連結來開啟[!DNL Coworker]：
 
@@ -57,7 +57,7 @@ Co-worker Chat可讓您透過簡單語言詢問您所需的內容，以使用Ado
 | 設定/選項 | 使用它可以 |
 | --- | --- |
 | 帳戶名稱和電子郵件 | 確認您用來登入的Adobe帳戶。 |
-| **[!UICONTROL 通知]** （鈴鐺圖示） | 檢視您的[通知](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences#subscribe-to-notifications-in-experience-cloud)。 |
+| **[!UICONTROL 通知]** （鈴鐺圖示） | 檢視您的[通知](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/features/account-preferences#subscribe-to-notifications-in-experience-cloud)。 |
 | **[!UICONTROL 佈景主題]** | 在淺色和深色主題之間切換。 |
 | **[!UICONTROL 應用程式設定]** | 檢視帳戶詳細資料和工作區設定。 |
 | **[!UICONTROL 喜好設定]** | 開啟您的帳戶[偏好設定](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/features/account-preferences)。 箭頭表示頁面會在Co-worker外部開啟。 |
