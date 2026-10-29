@@ -1,9 +1,9 @@
 ---
 title: 沙箱工具代理程式技能
 description: 瞭解如何使用沙箱工具代理技能，跨沙箱環境複製物件中繼資料。
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 8e60434a3ede23f916aa57667d1cec9186386e61
 workflow-type: tm+mt
-source-wordcount: '719'
+source-wordcount: '776'
 ht-degree: 1%
 ---
 
@@ -17,13 +17,9 @@ ht-degree: 1%
 >
 >**Manage-package**：此許可權可讓您使用沙箱工具代理程式技能，直接在同事中建立套件。
 
->[!NOTE]
->
->您目前可以使用沙箱工具代理程式技能來探索、封裝和移轉結構描述和受眾物件。 未來發行版本將新增對其他物件型別的支援。
+使用沙箱工具代理技巧，以自然語言描述您要完成的動作，在Adobe Experience Platform環境中移動支援的物件型別。 使用Co-worker，您可以透過對話式體驗來探索所需的中繼資料、自動識別相依性、建立移轉套件及移轉物件。
 
-使用沙箱工具代理技巧，以自然語言描述您要完成的動作，在Adobe Experience Platform環境中移動物件中繼資料（包括結構描述和對象）。 使用CX Coworker，您可以透過對話式體驗探索所需的中繼資料、自動識別相依性、建立移轉套件並移轉物件。
-
->[!VIDEO](https://video.tv.adobe.com/v/3496717?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496706?learn=on)
 
 ## 先決條件 {#prerequisites}
 
@@ -31,13 +27,13 @@ ht-degree: 1%
 
 - 存取Adobe Experience Platform以及適當的組織和沙箱。
 - 存取您要探索或移轉的物件。
-- CX Coworker中安裝的Adobe CXO外掛程式。
+- 安裝在同事中的Adobe CXO外掛程式。
 
-如需有關安裝外掛程式的說明，請參閱[Co-worker UI指南](https://experienceleague.adobe.com/zh-hant/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide)。
+如需有關安裝外掛程式的說明，請參閱[Co-worker UI指南](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide)。
 
 ## 使用沙箱工具代理技能 {#use-sandbox-tooling-agentic-skills}
 
-使用自然語言透過CX Coworker與沙箱工具代理技能互動。 儘可能清楚描述您的目標。 特定請求會產生最佳結果，而模糊或過於簡短的提示可能會傳回品質較低的結果，或無法叫用代理程式。
+透過同事使用自然語言與沙箱工具代理技能互動。 儘可能清楚描述您的目標。 特定請求會產生最佳結果，而模糊或過於簡短的提示可能會傳回品質較低的結果，或無法叫用代理程式。
 
 若要使用沙箱工具代理程式技能：
 
@@ -62,7 +58,7 @@ ht-degree: 1%
 
    ![顯示要求狀態的傳輸完成頁面。](./assets/sandbox-tooling/transfer-complete.png)
 
-如需使用CX Coworker的詳細資訊，請參閱[同事UI指南](https://experienceleague.adobe.com/zh-hant/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide)。
+如需有關使用同事的詳細資訊，請參閱[同事使用者介面指南](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide)。
 
 ## 支援的使用案例 {#supported-use-cases}
 
@@ -72,11 +68,23 @@ ht-degree: 1%
 
 作為管理多個Adobe Experience Platform沙箱的沙箱管理員，您可以使用自然語言請求移轉物件中繼資料，而不是手動導覽使用者介面。
 
-您可以使用CX Coworker以自然語言描述移轉，將物件中繼資料（包括結構描述、對象和相關設定資產）從某個沙箱移轉至另一個沙箱。 沙箱工具代理技能會自動識別並封裝所需的相依性，幫助確保可靠的移轉。
+您可以使用Co-worker，透過以自然語言描述移轉，將受支援的Adobe Experience Platform物件及其關聯的中繼資料從一個沙箱移轉至另一個沙箱。 沙箱工具代理技能會自動識別相依性、封裝所需物件，並幫助確保跨環境的可靠移轉。
 
 例如：
 
 - 「將方案Luma忠誠度會員白金從目前沙箱移至生產沙箱。」
+
+### 將物件升級為多個沙箱(Beta)
+
+>[!NOTE]
+>
+>多沙箱管理目前在Beta中，僅支援結構描述和資料集。
+
+作為沙箱管理員，您可以在單一工作流程中將受支援的物件從來源沙箱提升至多個目標沙箱。 使用Co-worker來選取目標沙箱、檢閱建議的變更，以及在各個環境中以一致的方式部署設定，而不是將套件個別匯入每個沙箱。 多沙箱管理會自動解析相依性，並在升級開始之前提供變更的預覽。
+
+例如：
+
+- 「將忠誠度成員結構描述促銷至所有區域沙箱。」
 
 ### 在沙箱之間提升對象
 
@@ -108,5 +116,5 @@ ht-degree: 1%
 
 閱讀本指南後，您應該瞭解如何使用沙箱工具代理技巧，在沙箱之間探索、封裝和移轉支援的物件。
 
-如需沙箱工具的詳細資訊，請參閱[沙箱工具指南](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/sandbox/ui/sandbox-tooling)。
+如需沙箱工具的詳細資訊，請參閱[沙箱工具指南](https://experienceleague.adobe.com/en/docs/experience-platform/sandbox/ui/sandbox-tooling)。
 
