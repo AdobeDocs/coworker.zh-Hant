@@ -5,10 +5,10 @@ jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: 1ab2ef6014d3e64e264b46e5a0c43653fe36bbea
 workflow-type: tm+mt
 source-wordcount: '2088'
-ht-degree: 3%
+ht-degree: 2%
 ---
 # 開始使用同事聊天 {#ui-guide}
 
@@ -24,7 +24,7 @@ Co-worker Chat可讓您透過簡單語言詢問您所需的內容，以使用Ado
 |---|---|---|
 | Real-Time CDP | 現在可用 | 即將推出 |
 | Adobe Journey Optimizer | 現在可用 | 即將推出 |
-| Customer Journey Analytics | 現在可用 | 即將推出 |
+| Customer Journey Analytics | 現在可用 | 現在可用 |
 | Workfront | 現在可用 | 現在可用 |
 | 目標 | 現在可用 | 現在可用 |
 | AEM | 現在可用 | 現在可用 |

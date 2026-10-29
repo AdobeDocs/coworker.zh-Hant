@@ -4,9 +4,9 @@ title: 同事聊天工作流程
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
+source-git-commit: 98b1c76104cb131ed6c82e4147758921ef66ab40
 workflow-type: tm+mt
-source-wordcount: '8566'
+source-wordcount: '8673'
 ht-degree: 6%
 ---
 # 同事聊天工作流程 {#use-cases}
@@ -48,6 +48,8 @@ Co-worker Chat可讓您使用自然語言來查詢、分析和處理您的[!DNL 
 | 管理Cloud Manager環境 | 建立、設定和維護AEM Cloud Manager環境，包括RDE、環境變數、記錄檔和備份 | `cloud-manager-environment-management` | Adobe Experience Manager (AEM) | 列出我的計畫12345環境&quot;<br><br>&quot;重設我的RDE&quot; |
 | 管理Cloud Manager計畫 | 列出、檢查和刪除AEM Cloud Manager程式，包括其管道和環境 | `cloud-manager-program-management` | Adobe Experience Manager (AEM) | 「列出我的Cloud Manager程式」<br><br>「取得程式12345的詳細資料」 |
 | 管理AEM版本更新排程 | 設定每日無訊息時間和無更新期間以進行自動維護，並檢視Adobe的全域程式碼凍結視窗 | `cloud-manager-release-management` | Adobe Experience Manager (AEM) | 「我目前的無訊息時間視窗是多少？」<br><br>「排程從12月20日至1月2日的無更新期間」 |
+| 檢查AEM工作流程 | 檢查工作流程活動，瞭解執行、暫停或失敗的專案。 檢閱您的工作流程收件匣，並瀏覽可用的工作流程模型。 | `cloud-manager-release-management` | Adobe Experience Manager (AEM) | 「哪些工作流程目前執行中？」<br><br>「任何執行中或暫停的工作流程顯示錯誤嗎？」<br><br>「我的工作流程收件匣中有什麼？」 |
+| 探索Dispatcher深入分析 | 分析快取效能、調查流量和傳送問題，以及檢閱Dispatcher安全性設定，而不需手動搜尋記錄檔。 | `aem-edge-dispatcher-operations` | Adobe Experience Manager (AEM) | 「概述目前生產環境的Dispatcher快取效能，並將其與昨天進行比較」<br><br>「調查今日10:00到11:00 UTC之間生產環境中間歇性的502和503回應」<br><br>「檢閱我共用的Dispatcher設定是否有安全性弱點」 |
 
 **相關資訊**
 
