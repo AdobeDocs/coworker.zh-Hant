@@ -3,8 +3,8 @@ title: 透過同事聊天分析內容和Creative效能
 description: 使用「同事聊天」來尋找共同的成功內容、將收入歸因於客戶看到的影像，以及比較不同管道和受眾的創意。
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 8e88ec793bd4ae6fe4692c1d5107fe01fe14bf7f
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '609'
 ht-degree: 1%

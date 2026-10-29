@@ -3,8 +3,8 @@ description: 瞭解 Coworker 聊天如何使用對話介面，在幾分鐘內規
 title: Adobe CX Enterprise Coworker Chat概觀
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: d92dcaa94d6fe5577c11db62928f5c4c5e124ed5
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '721'
 ht-degree: 6%

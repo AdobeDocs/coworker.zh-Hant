@@ -3,8 +3,8 @@ title: CX Enterprise Coworker檔案更新
 description: 請參閱CX Enterprise Coworker檔案中的最新和更新文章及影片。 請回來檢視，以尋找最新的新增專案。
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: decc8d209d4c9c177c6329a30668f0bbb8bd2c00
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 0%

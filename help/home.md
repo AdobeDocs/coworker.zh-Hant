@@ -3,8 +3,8 @@ title: Adobe CX Enterprise Coworker概觀
 description: 瞭解Adobe CX Enterprise Coworker，這是AI支援的團隊成員，可讓您組織中的客戶體驗和行銷工作流程自動化。
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 67936a948c0e985619e3ae72dffa443a016611bb
+    internal-label: Coworker
+source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
 workflow-type: tm+mt
 source-wordcount: '1231'
 ht-degree: 15%

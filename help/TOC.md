@@ -6,10 +6,10 @@ description: 瞭解CX Enterprise中的AI工具。 在CX Enterprise中使用AI來
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 3c7f31930e1c742d81ca0c9fee731f6edd6b6952
+source-git-commit: bd7454ee46cb1ee4ca8b7ae6ab07348a23854979
 workflow-type: tm+mt
 source-wordcount: '326'
-ht-degree: 14%
+ht-degree: 15%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -26,7 +26,7 @@ ht-degree: 14%
       - [關於分析資料](./chat/use-cases/data-insights/analytics-overview.md)
       - [開始分析資料](./chat/use-cases/data-insights/analytics-chat.md)
       - 智慧型實作與管理 {#intelligent-implementation-and-administration}
-        - [概覽](./chat/use-cases/data-insights/data-governance-and-validation.md)
+        - [概觀](./chat/use-cases/data-insights/data-governance-and-validation.md)
         - [規劃您的實作](./chat/use-cases/data-insights/implementation-guide.md)
         - [產生實施檢查清單](./chat/use-cases/data-insights/intelligent-checklist.md)
         - [升級時驗證AA至CJA資料](./chat/use-cases/data-insights/data-validation-aa-cja.md)
@@ -39,15 +39,15 @@ ht-degree: 14%
       - 歷程分析 {#journey-analysis}
         - [概觀](./chat/use-cases/data-insights/journey-analysis.md)
       - 對象和區段分析 {#audience-and-segment-analysis}
-        - [概覽](./chat/use-cases/data-insights/audience-and-segment-analysis.md)
+        - [概觀](./chat/use-cases/data-insights/audience-and-segment-analysis.md)
       - 業務績效 {#business-performance}
-        - [概觀](./chat/use-cases/data-insights/business-performance.md)
+        - [概覽](./chat/use-cases/data-insights/business-performance.md)
         - [探索趨勢和根本原因](./chat/use-cases/data-insights/root-cause-analysis.md)
       - 內容績效 {#content-performance}
-        - [概覽](./chat/use-cases/data-insights/content-performance.md)
+        - [概觀](./chat/use-cases/data-insights/content-performance.md)
         - [提出關於內容的問題](./chat/use-cases/data-insights/ask-content-questions.md)
       - 行銷測量與歸因 {#marketing-measurement-and-attribution}
-        - [概觀](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
+        - [概覽](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
     - 資料上線 {#data-onboarding}
       - {hide-from-toc}[與同事將資料上線](./agents/data-onboarding-skill.md)
     - 資料管理 {#data-management}
@@ -92,18 +92,18 @@ ht-degree: 14%
   - 記憶 {#memory}
     - [什麼是記憶體？](./customizations/memory/what-is-memory.md)
 - 團隊同事 {#coworker-for-teams}
-  - [概覽](./coworker-for-teams/overview.md)
+  - [概觀](./coworker-for-teams/overview.md)
   - [建立電子郵件行銷活動](./coworker-for-teams/create-an-email-campaign.md)
   - [啟動及管理行銷活動](./coworker-for-teams/launch-manage-campaign.md)
   - [使用案例](./coworker-for-teams/use-cases.md)
   - [提示最佳實務](./coworker-for-teams/prompting-best-practices.md)
   - [C2PA 中繼資料](./coworker-for-teams/c2pa-metadata.md)
   - 連接器 {#connectors}
-    - {hide-from-toc}[資料庫](./coworker-for-teams/connectors/databricks.md)
+    - [Databricks](./coworker-for-teams/connectors/databricks.md)
     - [Hubspot](./coworker-for-teams/connectors/hubspot.md)
     - [Marketo Engage](./coworker-for-teams/connectors/marketo.md)
     - [Salesforce](./coworker-for-teams/connectors/salesforce.md)
-    - {hide-from-toc}[Shopify](./coworker-for-teams/connectors/shopify.md)
+    - [Shopify](./coworker-for-teams/connectors/shopify.md)
   - [發行說明](./coworker-for-teams/release-notes.md)
 - 更多資源 {#more-resources}
   - [文件更新](./more-resources/documentation-updates.md)

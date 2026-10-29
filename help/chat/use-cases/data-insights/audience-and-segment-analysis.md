@@ -3,8 +3,8 @@ title: 透過同事聊天比較受眾和客戶區段
 description: 使用同事聊天來比較客戶群組、尋找被忽略的成長機會、追蹤對象趨勢，以及將深入分析轉換為您可建立的對象。
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '662'
 ht-degree: 2%

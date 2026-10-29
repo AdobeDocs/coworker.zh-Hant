@@ -16,7 +16,7 @@ product_v2:
   - id: fdddec33-c9cb-4459-b8b6-2664395a6f10
     internal-label: Real-Time Customer Data Platform
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
+    internal-label: Coworker
 feature_v2:
   - id: 9c3a4e5f-6d7b-4c8a-8e9f-1b2c3d4e5f6a
     internal-label: Datasets
@@ -53,7 +53,7 @@ topic_v2:
     internal-label: Behavioral data
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
     internal-label: Governance
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
 workflow-type: tm+mt
 source-wordcount: '1671'
 ht-degree: 4%
@@ -94,7 +94,7 @@ ht-degree: 4%
 | 資料集 | 30 |
 | 結構描述 | 28 |
 | 來源 | 3 |
-| 目的地 | 1 (Amazon S3) |
+| 目標 | 1 (Amazon S3) |
 | 歷程 | 0 |
 
 ### 1.2 — 已有哪些對象？
@@ -107,7 +107,7 @@ ht-degree: 4%
 
 Co-worker依大小列出21個對象，從8,012個設定檔到0個：
 
-| 類別 | 客群 | 輪廓 |
+| 類別 | 客群 | 設定檔 |
 | --- | --- | --- |
 | 傾向分數 | 信用卡升級高 | 1,195 |
 | 傾向分數 | 媒體 | 4,113 |
@@ -214,7 +214,7 @@ Co-worker會識別兩個關鍵業務資料集和相關系統資料集：
 
 同事找到歷程或目的地中從未鎖定目標的兩個候選對象：
 
-| 客群 | 輪廓 |
+| 客群 | 設定檔 |
 | --- | --- |
 | 信用卡升級高 | 1,195 |
 | 信用卡升級Medium | 4,113 |

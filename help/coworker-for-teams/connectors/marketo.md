@@ -3,15 +3,15 @@ description: 瞭解如何將您的Marketo Engage帳戶連線到團隊的同事�
 title: 連線至Marketo Engage
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 5394a34858c6480dec74f4fdf8b9a26e28bcac68
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '315'
 ht-degree: 0%
 ---
 # 連線至Marketo Engage {#marketo}
 
-適用於團隊的Adobe Co-worker可讓您連線Marketo Engage帳戶，以提取智慧和靜態清單。
+適用於團隊的同事可讓您連線您的Marketo Engage帳戶，以提取智慧和靜態清單。
 
 >[!PREREQUISITES]
 >

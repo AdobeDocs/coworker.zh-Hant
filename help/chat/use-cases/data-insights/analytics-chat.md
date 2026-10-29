@@ -3,8 +3,8 @@ title: 開始使用同事聊天分析資料
 description: 設定Adobe CX Enterprise Coworker Chat以分析Customer Journey Analytics或Adobe Analytics資料，然後遵循尋找客戶流失的範例。
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: d92dcaa94d6fe5577c11db62928f5c4c5e124ed5
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '2182'
 ht-degree: 4%

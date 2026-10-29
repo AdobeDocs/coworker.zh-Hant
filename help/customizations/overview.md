@@ -3,8 +3,8 @@ title: Adobe CX Enterprise Coworker自訂概觀
 description: 瞭解Adobe CX Enterprise Coworker中的自訂功能，包括技能、整合、外掛程式和記憶體，以及這些功能如何延伸並個人化您的體驗。
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '567'
 ht-degree: 28%

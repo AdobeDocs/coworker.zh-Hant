@@ -1,17 +1,17 @@
 ---
-description: 適用於團隊的Adobe Co-worker可讓您連線並查詢Databricks工作區中的Unity目錄表格，以建立並啟用行銷活動對象。
+description: 適用於團隊的同事可讓您連線並查詢Databricks工作區中的Unity目錄表格，以建立並啟用行銷活動對象。
 title: 連線到Databricks
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 55ee8ef8f43e03720e75c9e68fccf12da8595f9c
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '273'
 ht-degree: 0%
 ---
 # 連線到Databricks {#databricks}
 
-適用於團隊的Adobe Co-worker可讓您連線並查詢Databricks工作區中的Unity目錄表格，以建立並啟用行銷活動對象。
+適用於團隊的同事可讓您連線並查詢Databricks工作區中的Unity目錄表格，以建立並啟用行銷活動對象。
 
 >[!PREREQUISITES]
 >

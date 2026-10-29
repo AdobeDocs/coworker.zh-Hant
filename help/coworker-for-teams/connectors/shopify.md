@@ -1,17 +1,17 @@
 ---
-description: 適用於團隊的Adobe Co-worker可讓您連結Shopify帳戶，以拉入客戶和區段。
+description: 適用於團隊的同事可讓您連線您的Shopify帳戶，以拉入客戶和區段。
 title: 連線到Shopify
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 55ee8ef8f43e03720e75c9e68fccf12da8595f9c
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '241'
 ht-degree: 0%
 ---
 # 連線到Shopify {#shopify}
 
-適用於團隊的Adobe Co-worker可讓您連結Shopify帳戶，以拉入客戶和區段。
+適用於團隊的同事可讓您連線您的Shopify帳戶，以拉入客戶和區段。
 
 >[!PREREQUISITES]
 >

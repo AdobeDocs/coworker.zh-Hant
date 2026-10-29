@@ -3,8 +3,8 @@ description: 瞭解適用於團隊的Co-worker如何自動附加並保留影像�
 title: Co-worker for Teams中的C2PA中繼資料
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
+    internal-label: Coworker
+source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
 workflow-type: tm+mt
 source-wordcount: '396'
 ht-degree: 4%
