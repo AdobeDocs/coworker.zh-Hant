@@ -19,7 +19,7 @@ ht-degree: 1%
 
 使用沙箱工具代理技巧，以自然語言描述您要完成的動作，在Adobe Experience Platform環境中移動支援的物件型別。 使用Co-worker，您可以透過對話式體驗來探索所需的中繼資料、自動識別相依性、建立移轉套件及移轉物件。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496706?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496717?captions=chi_hant&learn=on)
 
 ## 先決條件 {#prerequisites}
 
