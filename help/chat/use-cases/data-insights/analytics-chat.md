@@ -4,14 +4,14 @@ description: 設定Adobe CX Enterprise Coworker Chat以分析Customer Journey An
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: 1ab2ef6014d3e64e264b46e5a0c43653fe36bbea
 workflow-type: tm+mt
-source-wordcount: '2182'
+source-wordcount: '2220'
 ht-degree: 4%
 ---
 # 開始使用同事聊天分析資料
 
-設定Adobe CX Enterprise Coworker Chat以分析您的Customer Journey Analytics資料檢視或Adobe Analytics報表套裝，然後遵循運作範例。 如需使用同事聊天所能進行的概述，包括使用案例、技巧和最佳實務，請參閱[使用同事聊天分析資料](/help/chat/use-cases/data-insights/analytics-overview.md)。
+設定Adobe CX Enterprise Coworker Chat以分析您的Customer Journey Analytics資料檢視或Adobe Analytics報表套裝，然後遵循運作範例。 如需使用同事聊天所能進行的概述，包括使用案例、技巧和最佳實務，請參閱[使用同事聊天分析資料](/help/chat/use-cases/data-insights/analytics-overview.md)。 若要改用Customer Journey Analytics Analysis Workspace中聊天面板中的同事，請參閱Customer Journey Analytics指南中的[使用同事的產品內體驗](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/coworker)。
 
 開始之前，請先瞭解同事聊天介面和自訂選項，然後確定同事已連線至Customer Journey Analytics或Adobe Analytics以及相關資料檢視或報表套裝。
 
@@ -335,7 +335,7 @@ Co-worker建立視覺效果後，您可以在Analysis Workspace中開啟該視�
 
 1. （選用）與您選擇的任何人共用您的Workspace專案。
 
-   如需Analysis Workspace的詳細資訊，請參閱Customer Journey Analytics檔案中的[Analysis Workspace概觀](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-workspace/home)或Adobe Analytics檔案中的[Analysis Workspace概觀](https://experienceleague.adobe.com/zh-hant/docs/analytics/analyze/analysis-workspace/home)。
+   如需Analysis Workspace的詳細資訊，請參閱Customer Journey Analytics檔案中的[Analysis Workspace概觀](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-workspace/home)或Adobe Analytics檔案中的[Analysis Workspace概觀](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/home)。
 
 ## 後續步驟
 
