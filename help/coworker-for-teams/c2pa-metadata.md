@@ -4,7 +4,9 @@ title: Co-worker for Teams中的C2PA中繼資料
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
+  - id: a17f56ef-32e3-5ef7-b044-4479a09ffbc1
+    internal-label: Coworker for teams
+source-git-commit: d786b58a4a88126d0875c504e1a8e5d6b39150e6
 workflow-type: tm+mt
 source-wordcount: '396'
 ht-degree: 4%
@@ -38,6 +40,6 @@ C2PA中繼資料是持久且隱藏的中繼資料，會記錄內容的建立或�
 
 ## 其他資源 {#resources}
 
-* [Generative AI內容透明度](https://experienceleague.adobe.com/zh-hant/docs/cx-enterprise-ai/experience-cloud-ai/overview/content-transparency){target="_blank"}
+* [Generative AI內容透明度](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/overview/content-transparency){target="_blank"}
 * [Adobe Experience Cloud Generative AI使用者指南](https://www.adobe.com/tw/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"}
-* [護欄與限制](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails){target="_blank"}
+* [護欄與限制](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails){target="_blank"}
