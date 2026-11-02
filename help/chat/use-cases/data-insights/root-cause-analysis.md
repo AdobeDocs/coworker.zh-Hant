@@ -25,4 +25,4 @@ ht-degree: 0%
 
 此影片使用Customer Journey Analytics資料，但您可以相同方式探索Adobe Analytics報表套裝中的趨勢和根本原因。 同事使用`cja-root-cause-analysis`技能處理資料檢視，並使用`aa-root-cause-analysis`技能處理報表套裝。 如需詳細資訊，請參閱[使用同事聊天分析資料](/help/chat/use-cases/data-insights/analytics-overview.md)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496847/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496861/?captions=chi_hant&learn=on&enablevpops)
