@@ -4,9 +4,9 @@ description: 瞭解Adobe CX Enterprise Coworker，這是AI支援的團隊成員�
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
+source-git-commit: 81e7de5e1b3b322fc74fa7bab8cb16841d627349
 workflow-type: tm+mt
-source-wordcount: '1231'
+source-wordcount: '1233'
 ht-degree: 15%
 ---
 # CX Enterprise Coworker概觀 {#overview}
@@ -36,6 +36,7 @@ Co-worker是為執行複雜、跨職能客戶體驗工作流程的組織所建�
 * Real-Time CDP
 * Adobe Journey Optimizer
 * Customer Journey Analytics
+* Adobe Analytics
 * Adobe Target
 * AEM
 * Workfront
