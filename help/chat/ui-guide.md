@@ -5,10 +5,10 @@ jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ab2ef6014d3e64e264b46e5a0c43653fe36bbea
+source-git-commit: 81e7de5e1b3b322fc74fa7bab8cb16841d627349
 workflow-type: tm+mt
-source-wordcount: '2088'
-ht-degree: 2%
+source-wordcount: '2094'
+ht-degree: 3%
 ---
 # 開始使用同事聊天 {#ui-guide}
 
@@ -25,6 +25,7 @@ Co-worker Chat可讓您透過簡單語言詢問您所需的內容，以使用Ado
 | Real-Time CDP | 現在可用 | 即將推出 |
 | Adobe Journey Optimizer | 現在可用 | 即將推出 |
 | Customer Journey Analytics | 現在可用 | 現在可用 |
+| Adobe Analytics | 現在可用 | 即將推出 |
 | Workfront | 現在可用 | 現在可用 |
 | 目標 | 現在可用 | 現在可用 |
 | AEM | 現在可用 | 現在可用 |
@@ -34,7 +35,7 @@ Co-worker Chat可讓您透過簡單語言詢問您所需的內容，以使用Ado
 
 使用您的Adobe認證登入[!DNL Coworker]。
 
-1. [使用您的Adobe ID登入](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/experience-cloud#sign-in-to-cx-enterprise) CX Enterprise。
+1. [使用您的Adobe ID登入](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud#sign-in-to-cx-enterprise) CX Enterprise。
 
    登入後，您可以從[!DNL CX Enterprise]應用程式功能表或使用直接連結來開啟[!DNL Coworker]：
 
@@ -46,7 +47,7 @@ Co-worker Chat可讓您透過簡單語言詢問您所需的內容，以使用Ado
 
 ## 瞭解同事聊天的基本知識
 
->[!VIDEO](https://video.tv.adobe.com/v/3498576?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## 指定您的同事偏好設定 {#preferences}
 
@@ -57,7 +58,7 @@ Co-worker Chat可讓您透過簡單語言詢問您所需的內容，以使用Ado
 | 設定/選項 | 使用它可以 |
 | --- | --- |
 | 帳戶名稱和電子郵件 | 確認您用來登入的Adobe帳戶。 |
-| **[!UICONTROL 通知]** （鈴鐺圖示） | 檢視您的[通知](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/features/account-preferences#subscribe-to-notifications-in-experience-cloud)。 |
+| **[!UICONTROL 通知]** （鈴鐺圖示） | 檢視您的[通知](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences#subscribe-to-notifications-in-experience-cloud)。 |
 | **[!UICONTROL 佈景主題]** | 在淺色和深色主題之間切換。 |
 | **[!UICONTROL 應用程式設定]** | 檢視帳戶詳細資料和工作區設定。 |
 | **[!UICONTROL 喜好設定]** | 開啟您的帳戶[偏好設定](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/features/account-preferences)。 箭頭表示頁面會在Co-worker外部開啟。 |
@@ -212,7 +213,7 @@ Co-worker Chat可讓您透過簡單語言詢問您所需的內容，以使用Ado
 技能是Co-worker Chat在應用時自動使用的專業功能。 您也可以在聊天中輸入&#x200B;**/**，自己開始一項技能。 「**[!UICONTROL 技能]**」索引標籤會列出所有已安裝的技能。
 
 1. 在&#x200B;**[!UICONTROL 技能]**&#x200B;索引標籤上，按一下&#x200B;**[!UICONTROL 新增技能]**&#x200B;以從新來源安裝技能。
-1. 在&#x200B;**[!UICONTROL 搜尋]**&#x200B;中輸入名稱以尋找技能。
+1. 在&#x200B;**[!UICONTROL 搜尋]**中輸入名稱以尋找技能。
 使用檢視切換可在格點和清單配置之間切換。
 1. 選取技能，以檢視「同事聊天」使用外掛程式時，該技能所屬的外掛程式及其包含的檔案。
 
