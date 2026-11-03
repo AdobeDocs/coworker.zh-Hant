@@ -4,9 +4,9 @@ description: 請參閱CX Enterprise Coworker檔案中的最新和更新文章及
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 81e7de5e1b3b322fc74fa7bab8cb16841d627349
+source-git-commit: df0cae9a0151501dad78527ba15fb06c57a9f9f4
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '345'
 ht-degree: 1%
 ---
 # 文件更新 {#documentation-updates}
@@ -15,9 +15,14 @@ ht-degree: 1%
 
 ## 2026年11月 {#nov-2026}
 
+**2026年11月3日**
+
+* 新增： [使用同事](../chat/use-cases/journeys/simulate-journey-using-coworker.md)模擬歷程
+
 **2026年11月2日**
 
 * 更新日期： [CX Enterprise Coworker概觀](../home.md)和[開始使用同事聊天](../chat/ui-guide.md)。 Adobe Analytics現在列為提供同事聊天的應用程式。
+* 已更新： [同事聊天工作流程](../chat/use-cases/workflows.md)。 本文現在列出檢查AEM工作流程和探索Dispatcher深入分析的技能。 此外也新增庫存分佈、庫存健康情況、歷程和重複偵測的對象技能，並注意對象建立可支援B2C和B2B對象。
 
 ## 2026 年 10 月 {#oct-2026}
 
