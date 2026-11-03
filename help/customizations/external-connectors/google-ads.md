@@ -87,13 +87,13 @@ ht-degree: 1%
 
    ![Google為Adobe Experience Platform選擇一個帳戶畫面，其中列出兩個已編輯的帳戶以及「使用其他帳戶」選項。](./assets/google-ads/member-choose-account.png){width="500" zoomable="yes"}
 
-1. 檢閱選取的帳戶和您授權的應用程式，然後選取[繼續]。****
+1. 檢閱選取的帳戶和您授權的應用程式，然後選取[繼續]。**&#x200B;**
 
    [!DNL Google]將應用程式名稱顯示為[!DNL Adobe Experience Platform]。 如果您之前使用過應用程式，[!DNL Google]會顯示您正在重新登入。 初次使用的使用者可能會看到不同的提示。
 
    ![Google畫面顯示您正使用密文帳戶及[取消]和[繼續]按鈕重新登入Adobe Experience Platform。](./assets/google-ads/member-continue.png){width="500" zoomable="yes"}
 
-1. 檢閱存取要求，然後選取[繼續]。****
+1. 檢閱存取要求，然後選取[繼續]。**&#x200B;**
 
    ![Google熒幕顯示Adobe Experience Platform想要存取您的Google帳戶，該帳戶含有密文的帳戶、應用程式已擁有部分存取權的通知，以及「取消」和「繼續」按鈕。](./assets/google-ads/member-consent.png){width="500" zoomable="yes"}
 
