@@ -20,4 +20,4 @@ ht-degree: 0%
 
 使用CX Enterprise Coworker從簡單語言提示建立跨管道歷程，並產生電子郵件和簡訊內容。 在本影片中，瞭解如何模擬分支路徑並檢閱診斷以識別設定問題。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504706?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504715?captions=chi_hant&learn=on)
