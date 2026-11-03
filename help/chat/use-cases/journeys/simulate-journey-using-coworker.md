@@ -1,6 +1,6 @@
 ---
 title: 使用同事模擬Adobe Journey Optimizer歷程
-description: 瞭解如何使用同事來模擬Adobe Journey Optimizer歷程，以在發佈前測試路徑、接收校樣訊息和檢閱路徑涵蓋範圍。
+description: 瞭解如何使用同事來模擬Adobe Journey Optimizer歷程，並在發佈前檢閱結果。
 role: User
 level: Beginner, Intermediate
 doc-type: Feature Video
@@ -20,16 +20,14 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: f3401377d82e09d194d5130458c7b86866899c11
+source-git-commit: d7f1f470a99880d46f518b42f4e766066c6fa52e
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '70'
 ht-degree: 0%
 ---
 
 # 使用同事模擬Adobe Journey Optimizer歷程
 
-瞭解如何使用同事透過自動產生的測試設定檔和事件來模擬Adobe Journey Optimizer歷程。
-
-在此影片中，瞭解如何在發佈前測試歷程路徑、接收校樣訊息，以及檢視路徑涵蓋範圍和模擬結果。
+使用同事以自動產生的測試設定檔和事件來模擬Adobe Journey Optimizer歷程。 在此影片中，瞭解如何在發佈前測試歷程路徑、接收校樣訊息，以及檢視路徑涵蓋範圍和模擬結果。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3507004?learn=on)
