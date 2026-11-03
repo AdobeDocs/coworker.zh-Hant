@@ -4,9 +4,9 @@ title: 同事聊天工作流程
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 98b1c76104cb131ed6c82e4147758921ef66ab40
+source-git-commit: 4d788223a7746bda4bb2913f19712c6fc6ab6be7
 workflow-type: tm+mt
-source-wordcount: '8673'
+source-wordcount: '8822'
 ht-degree: 6%
 ---
 # 同事聊天工作流程 {#use-cases}
@@ -130,13 +130,17 @@ Co-worker Chat可讓您使用自然語言來查詢、分析和處理您的[!DNL 
 
 | 工作流程 | 說明 | 技能 | 應用程式 | 範例提示 |
 | --- | --- | --- | --- | --- |
-| [從自然語言建立對象](audiences/create-audience-from-natural-language.md) | 透過每個階段的使用者核准，策劃逐步的受眾建立 | `audience-creation-flow` | Real-Time CDP (RTCDP) | 「建立過去30天內購買的使用者受眾」<br>「為加州的高價值忠誠會員建立區段」 |
-| 建置PQL定義 | 從XDM屬性、行為事件或現有對象中組合對象定義；支援彙總和時間範圍 | `segment-definition-assembly` | Real-Time CDP (RTCDP) | 「為檢視3個以上產品但未購買的使用者建立PQL」 <br>「為我的事件條件新增7天時段」 |
-| 搜尋和尋找對象 | 依ID、名稱、語意搜尋尋找對象；偵測重複專案並分析重疊 | `audience-search` | Real-Time CDP (RTCDP) | 「尋找所有忠誠受眾」<br>「我的『節日購物者』區段是否有重複專案？」 |
-| 預估對象規模 | 使用Adobe Experience Platform預覽API搭配輪詢來預估PQL運算式的設定檔觸及率 | `audience-size-estimate` | Real-Time CDP (RTCDP) | 「此對象有多大？」 <br> 「此PQL運算式的預估觸及率」 |
-| 對象人數瀑布 | 將PQL分解為子述詞，並顯示每個條件對最終對象規模的貢獻 | `audience-size-waterfall` | Real-Time CDP (RTCDP) | 「顯示此PQL的瀑布圖」 <br> 「劃分每個條件如何減少閱聽眾」 |
-| 探索用於定位的XDM欄位 | 依名稱、說明或資料值搜尋欄位；檢視欄位的使用位置和使用位置 | `field-discovery` | Real-Time CDP (RTCDP) | 「我可以使用哪些欄位來鎖定忠誠度客戶？」 <br> 「尋找與購買歷史記錄相關的欄位」 |
-| 發佈/儲存對象 | 透過命名慣例和合規性檢查將受眾定義儲存至Experience Platform細分服務 | `audience-publish` | Real-Time CDP (RTCDP) | 「將此專案儲存為草稿」<br>「以『春季促銷買家』名稱發佈對象」 |
+| [從自然語言建立對象](audiences/create-audience-from-natural-language.md) | 透過每個階段的使用者核准，策劃逐步的受眾建立。 這包括B2C和B2B對象。 | `audience-creation-flow` | Real-Time CDP | 「建立過去30天內購買的使用者受眾」<br>「為加州的高價值忠誠會員建立區段」 |
+| 建置PQL定義 | 從XDM屬性、行為事件或現有對象中組合對象定義；支援彙總和時間範圍 | `segment-definition-assembly` | Real-Time CDP | 「為檢視3個以上產品但未購買的使用者建立PQL」 <br>「為我的事件條件新增7天時段」 |
+| 搜尋和尋找對象 | 依ID、名稱、語意搜尋尋找對象；偵測重複專案並分析重疊；根據區段定義尋找對象 | `audience-search` | Real-Time CDP | 「尋找所有忠誠受眾」<br>「我的『節日購物者』受眾是否有重複專案？」 |
+| 預估對象規模 | 使用Adobe Experience Platform預覽API搭配輪詢來預估PQL運算式的設定檔觸及率 | `audience-size-estimate` | Real-Time CDP | 「此對象有多大？」 <br> 「此PQL運算式的預估觸及率」 |
+| 對象人數瀑布 | 將PQL分解為子述詞，並顯示每個條件對最終對象規模的貢獻 | `audience-size-waterfall` | Real-Time CDP | 「顯示此PQL的瀑布圖」 <br> 「劃分每個條件如何減少閱聽眾」 |
+| 探索用於定位的XDM欄位 | 依名稱、說明或資料值搜尋欄位；檢視欄位的使用位置和使用位置 | `field-discovery` | Real-Time CDP | 「我可以使用哪些欄位來鎖定忠誠度客戶？」 <br> 「尋找與購買歷史記錄相關的欄位」 |
+| 發佈/儲存對象 | 透過命名慣例和合規性檢查將受眾定義儲存至Experience Platform細分服務 | `audience-publish` | Real-Time CDP | 「將此專案儲存為草稿」<br>「以『春季促銷買家』名稱發佈對象」 |
+| 對象詳細目錄分佈 | 以儀表板形式擷取有關目前沙箱的對象詳細目錄資訊，包括對象總數、對象的生命週期、對象的評估方法和建立趨勢等詳細資訊。 | `audience-inventory-distribution` | Real-Time CDP | 「提供我們受眾的概觀」 <br>「誰建立的受眾最多？」 |
+| 對象詳細目錄健康情況 | 檢查目前沙箱的對象詳細目錄健康狀況，包括啟用率、過時對象、重複對象和清理候選對象。 | `audience-inventory-health` | Real-Time CDP | 「我們的受眾詳細目錄狀況如何？」 <br> 「哪些對象已過時？」 |
+| 對象譜系 | 顯示對象的歷程，顯示對象的上游和下游使用。 | `audience-lineage` | Real-Time CDP | 「尋找用於下游對象的對象，並向我顯示該對象的完整譜系。」 |
+| 偵測重複的對象 | 尋找組織內重複的對象。 | `detect-duplicate-audience` | Real-Time CDP | 「尋找我組織中重複的對象。」 |
 
 ## 歷程
 
@@ -193,7 +197,7 @@ Co-worker Chat可讓您使用自然語言來查詢、分析和處理您的[!DNL 
 | --- | --- | --- | --- | --- |
 | [建立、編輯和管理忠誠度挑戰](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-challenge-management){target="_blank"} | 簡化並加速熟客方案管理 | `loyalty` | Adobe Journey Optimizer (AJO) | 「建立挑戰，鼓勵會員嘗試新的季節性飲品」 <br> 「以最高的會員流失率向我展示忠誠度挑戰。」 |
 | [分析熟客方案績效](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-data-insight){target="_blank"} | 使用自然語言查詢和分析熟客點數、成員層級、贖回和收入量度 | `loyalty-insights` | Adobe Journey Optimizer (AJO) | 「2026年8月期間已授與多少忠誠點數？」 <br> 「顯示2026年8月期間依日劃分的熟客方案總收入。」 |
-| [尋找熟客機會](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-opportunities){target="_blank"} | 根據忠誠度計畫趨勢和績效資料，請求以基礎為基礎的特定挑戰機會，然後將其轉換為即時挑戰 | 熟客機會 | Adobe Journey Optimizer (AJO) | 「哪些熟客機會可能會增加會員支出？」 <br> 「向我顯示贏回非作用中成員的機會。」 |
+| [尋找熟客機會](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-opportunities){target="_blank"} | 根據忠誠度計畫趨勢和績效資料，請求以基礎為基礎的特定挑戰機會，然後將其轉換為即時挑戰 | 忠誠度機會 | Adobe Journey Optimizer (AJO) | 「哪些熟客機會可能會增加會員支出？」 <br> 「向我顯示贏回非作用中成員的機會。」 |
 
 **相關資訊**
 

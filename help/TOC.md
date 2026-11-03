@@ -3,10 +3,10 @@ audience: user
 user-guide-title: CX Enterprise Coworker
 user-guide-description: 瞭解Adobe CX Enterprise Coworker，這是AI支援的團隊成員，可讓您組織中的客戶體驗和行銷工作流程自動化。
 description: 瞭解CX Enterprise中的AI工具。 在CX Enterprise中使用AI來改善您的產品知識並獲得操作見解。
-solution: Experience Cloud
+solution: Coworker
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: bd7454ee46cb1ee4ca8b7ae6ab07348a23854979
+source-git-commit: 34422092afceef569f2797f6f54d7fe133734e97
 workflow-type: tm+mt
 source-wordcount: '326'
 ht-degree: 15%
@@ -41,13 +41,13 @@ ht-degree: 15%
       - 對象和區段分析 {#audience-and-segment-analysis}
         - [概觀](./chat/use-cases/data-insights/audience-and-segment-analysis.md)
       - 業務績效 {#business-performance}
-        - [概覽](./chat/use-cases/data-insights/business-performance.md)
+        - [概觀](./chat/use-cases/data-insights/business-performance.md)
         - [探索趨勢和根本原因](./chat/use-cases/data-insights/root-cause-analysis.md)
       - 內容績效 {#content-performance}
         - [概觀](./chat/use-cases/data-insights/content-performance.md)
         - [提出關於內容的問題](./chat/use-cases/data-insights/ask-content-questions.md)
       - 行銷測量與歸因 {#marketing-measurement-and-attribution}
-        - [概覽](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
+        - [概觀](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
     - 資料上線 {#data-onboarding}
       - {hide-from-toc}[與同事將資料上線](./agents/data-onboarding-skill.md)
     - 資料管理 {#data-management}

@@ -5,8 +5,6 @@ hide: true
 autotag-review: '2026-09-02T16:21:52.199Z'
 TQID: 'https://experienceleague.adobe.com/a-9nJwwe4TFdi0ljwyyHfVfz-VqHL5lQbtmkU5P1Axw'
 product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-    internal-label: CX Enterprise
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
     internal-label: Analytics
   - id: edbd1a0e-46c8-49da-8c10-dba9ec80bba9
@@ -53,7 +51,7 @@ topic_v2:
     internal-label: Behavioral data
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
     internal-label: Governance
-source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
+source-git-commit: 024fb1cc0e4d5e5b2627f8b11d533046be8341a0
 workflow-type: tm+mt
 source-wordcount: '1671'
 ht-degree: 4%
@@ -268,7 +266,7 @@ Co-worker會識別兩個關鍵業務資料集和相關系統資料集：
 
 同事確認沒有單一合併對象存在，但所有建置區塊皆已存在：
 
-| 建置區塊 | 詳細資料 |
+| 建置區塊 | 詳細資訊 |
 | --- | --- |
 | 傾向：信用卡升級高 | 分數≥ 90 |
 | 帳戶值：250-500K | 現有對象 |
