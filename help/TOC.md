@@ -6,10 +6,10 @@ description: 瞭解CX Enterprise中的AI工具。 在CX Enterprise中使用AI來
 solution: Coworker
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 34422092afceef569f2797f6f54d7fe133734e97
+source-git-commit: 98a80334614960b3d700db7d85313c593c603e23
 workflow-type: tm+mt
-source-wordcount: '326'
-ht-degree: 15%
+source-wordcount: '333'
+ht-degree: 14%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -89,6 +89,9 @@ ht-degree: 15%
   - 外掛程式 {#plugins}
     - [什麼是外掛程式？](./customizations/plugins/what-are-plugins.md)
     - [管理組織的外掛程式](./customizations/plugins/manage-plugins-for-your-org.md)
+  - 外部聯結器 {#external-connectors}
+    - {hide-from-toc}[資料庫精靈](./customizations/external-connectors/databricks-genie.md)
+    - {hide-from-toc}[Snowflake Cortex AI](./customizations/external-connectors/snowflake.md)
   - 記憶 {#memory}
     - [什麼是記憶體？](./customizations/memory/what-is-memory.md)
 - 團隊同事 {#coworker-for-teams}
