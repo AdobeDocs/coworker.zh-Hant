@@ -4,9 +4,9 @@ description: 使用Adobe CX Enterprise Coworker Chat分析Customer Journey Analy
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ab2ef6014d3e64e264b46e5a0c43653fe36bbea
+source-git-commit: 3cfee4503efc246c105156e3b99260912eb74d49
 workflow-type: tm+mt
-source-wordcount: '1438'
+source-wordcount: '1436'
 ht-degree: 1%
 ---
 
@@ -24,7 +24,7 @@ Co-worker Chat可以執行進階資料分析，而之前僅能在Analysis Worksp
 
 當您在同事聊天中建立視覺效果時，您可以隨時在Analysis Workspace中開啟視覺效果，以取得更多手動控制。 請參閱[在Analysis Workspace中開啟視覺效果](/help/chat/use-cases/data-insights/analytics-chat.md#open-a-visualization-in-analysis-workspace)。
 
-在Customer Journey Analytics中，您也可以在Analysis Workspace的聊天面板中使用同事。 在那裡，Co-worker使用開啟的專案作為前後關聯，並可直接將面板、表格和元件新增到專案。 若要決定使用哪一個，請參閱Customer Journey Analytics指南中的[在Workspace中的同事與同事應用程式之間選擇](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-workspace/coworker#choose-between-coworker-in-workspace-and-the-coworker-application)。
+在Customer Journey Analytics中，您也可以在Analysis Workspace的聊天面板中使用同事。 在那裡，Co-worker使用開啟的專案作為前後關聯，並可直接將面板、表格和元件新增到專案。 若要決定使用哪一個，請參閱Customer Journey Analytics指南中的[在Workspace中的同事與同事應用程式之間選擇](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/coworker#choose-between-coworker-in-workspace-and-the-coworker-application)。
 
 ## 快速解答與深思熟慮的工作
 
@@ -57,7 +57,7 @@ Co-worker Chat可以執行進階資料分析，而之前僅能在Analysis Worksp
 | `cja`, `aa` | 即時查詢Customer Journey Analytics資料檢視(`cja`)或Adobe Analytics報表套裝(`aa`)：<ul><li>提取量度、維度、區段、資料檢視和報告套裝</li><li>並排比較頻道、時段或區段</li><li>執行多步驟funnel和流失分析</li><li>根據歷史趨勢的預測量度</li></ul> | 檢視對您要查詢之資料檢視或報表套裝的存取權 | <ul><li>建立或編輯資料檢視或報表套裝元件</li><li>資料檢視或您有權存取的報告套裝之外的資料</li><li>超越量度預測的預測性模型</li></ul> |
 | `cja-root-cause-analysis`, `aa-root-cause-analysis` | 調查量度變更的原因，而不僅僅是報告其已變更：<ul><li>調查已知時段內已知量度的變更</li><li>對造成變更的尺寸與區段進行曲面處理</li></ul> | 檢視對所分析資料檢視或報表套裝的存取權 | <ul><li>偵測您未詢問的異常（無自動或即時警報）</li><li>針對您有權存取的資料檢視或報表套裝外部量度的根本原因分析</li></ul> |
 | `cja-executive-summary` | 製作利害關係人就緒的資料摘要：<ul><li>摘要指定期間的效能</li><li>根據資料產生規範性建議</li><li>投影片投影片或利害關係人閱讀的概要內容</li></ul> | 檢視摘要中涵蓋的資料檢視或報表套裝存取權 | <ul><li>建立最後的投影片單元或簡報檔案</li><li>跨越您無權存取的資料檢視或報表套裝的摘要</li></ul> |
-| `analyze-content`<br/>（可用性限制）<!-- FLAG: Confirm the Out of scope items with the PM. --> | 在Customer Journey Analytics中使用Content Analytics資料來回答有關您內容的一般或特定問題：<ul><li>找出哪些表現最佳的資產和體驗的共同點</li><li>將內容曝光與轉換和收入聯絡起來</li><li>比較不同管道和受眾的內容</li></ul>如需詳細資訊，請參閱[提出有關您內容的問題](/help/chat/use-cases/data-insights/ask-content-questions.md)。 | 檢視對針對Content Analytics設定的資料檢視的存取權 | <ul><li>設定或設定Content Analytics</li><li>Content Analytics未收集的內容</li><li>付費媒體內容</li></ul> |
+| `analyze-content`<!-- FLAG: Confirm the Out of scope items with the PM. --> | 在Customer Journey Analytics中使用Content Analytics資料來回答有關您內容的一般或特定問題：<ul><li>找出哪些表現最佳的資產和體驗的共同點</li><li>將內容曝光與轉換和收入聯絡起來</li><li>比較不同管道和受眾的內容</li></ul>如需詳細資訊，請參閱[提出有關您內容的問題](/help/chat/use-cases/data-insights/ask-content-questions.md)。 | 檢視對針對Content Analytics設定的資料檢視的存取權 | <ul><li>設定或設定Content Analytics</li><li>Content Analytics未收集的內容</li><li>付費媒體內容</li></ul> |
 | `aa-cja-validation` | 比較、稽核及調解[!DNL Adobe Analytics]與Customer Journey Analytics之間的資料：<ul><li>比較報表套裝和資料檢視之間的量度值</li><li>標示兩個資料來源之間的差異</li></ul> | 檢視對正在比較的[!DNL Adobe Analytics]報表套裝和Customer Journey Analytics資料檢視的存取權 | <ul><li>解決資料差異的根本原因</li><li>驗證[!DNL Adobe Analytics]和Customer Journey Analytics以外的資料來源</li></ul> |
 | `cja-skill-creator` | 將您已掌握的分析變成可重複使用的技能：<ul><li>將完成的分析轉換為已命名且可重複使用的技能</li><li>讓儲存的技能可用於未來的聊天工作階段</li></ul> | 管理技能 | <ul><li>自動與其他使用者共用已儲存的技能（組織層級技能庫需要管理員設定）</li><li>編輯技能參照的資料檢視或報告套裝元件</li></ul> |
 

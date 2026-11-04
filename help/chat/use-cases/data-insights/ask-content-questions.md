@@ -4,19 +4,15 @@ description: 透過簡單的語言向同事詢問您的內容（從一般到具�
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: 3cfee4503efc246c105156e3b99260912eb74d49
 workflow-type: tm+mt
-source-wordcount: '1076'
+source-wordcount: '1042'
 ht-degree: 2%
 ---
 
 # 提出有關您內容的問題
 
-<!-- FLAG: Confirm with the PM: (1) availability (GA, beta, or experimental) and whether this page needs an AVAILABILITY note or `hide: true` until launch, and (2) any required Coworker entitlement. Content Analytics itself has no separate permission: users get access through data views that are configured for Content Analytics (Access control section of analytics-platform.en/help/content-analytics/config/configuration.md). -->
-
->[!AVAILABILITY]
->
->本文所述的功能處於發行的有限測試階段，可能尚未在您的環境中提供。 當功能正式可用時，將移除此附註。
+<!-- FLAG: Confirm with the PM any required Coworker entitlement. Content Analytics itself has no separate permission: users get access through data views that are configured for Content Analytics (Access control section of analytics-platform.en/help/content-analytics/config/configuration.md). -->
 
 使用Adobe CX Enterprise Coworker Chat從Adobe Content Analytics取得有關您內容的正確答案。 提出特定問題，例如「哪些影像吸引上季最多營收？」，或一般問題，例如「我應該將哪種內容列為優先順序？」 同事會將您的問題轉換為可靠的分析。
 
@@ -34,7 +30,7 @@ ht-degree: 2%
 
 * 同事聊天已連線至您的Customer Journey Analytics資料檢視。 請參閱[開始使用同事聊天](/help/chat/use-cases/data-insights/analytics-chat.md)分析資料。
 * 檢視對您要分析之資料檢視的存取權。 同事聊天會從Customer Journey Analytics繼承您的許可權。
-* 為Content Analytics設定的資料檢視。 請參閱Customer Journey Analytics指南中的[設定Content Analytics](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/content-analytics/configuration/configuration)。
+* 為Content Analytics設定的資料檢視。 請參閱Customer Journey Analytics指南中的[設定Content Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/configuration/configuration)。
 
 ## 提出內容問題
 
@@ -97,11 +93,11 @@ Content Analytics追蹤兩種內容：資產和體驗。 每個報表都有各�
 * **體驗ID：**&#x200B;當您詢問特定頁面時，會依識別該頁面的內容體驗ID來篩選技能。
 * **AI產生的屬性：**&#x200B;每個資產和體驗都由屬性描述，例如攝影風格、色彩、色調和說服策略。 此技能會使用這些屬性來解釋內容表現良好的原因，而不只是哪些內容表現良好。
 
-如需完整的元件清單，請參閱Customer Journey Analytics指南中的[Content Analytics元件](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/content-analytics/report/components)。
+如需完整的元件清單，請參閱Customer Journey Analytics指南中的[Content Analytics元件](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/report/components)。
 
 ### 歸因
 
-此技能會選擇適合您問題的歸因模型。 例如，有關影像點選的問題與有關該影像貢獻了多少收入的問題有不同的回答。 如需詳細資訊，請參閱Customer Journey Analytics指南中的[歸因模型](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-workspace/attribution/models#attribution-models)。
+此技能會選擇適合您問題的歸因模型。 例如，有關影像點選的問題與有關該影像貢獻了多少收入的問題有不同的回答。 如需詳細資訊，請參閱Customer Journey Analytics指南中的[歸因模型](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/attribution/models#attribution-models)。
 
 ### 常見分析和工作流程
 
