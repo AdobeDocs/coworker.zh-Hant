@@ -23,7 +23,7 @@ ht-degree: 1%
 
 說明您要建立的歷程，並由同事在Adobe Journey Optimizer中草稿。 在此影片中，瞭解同事如何設定觸發器、時間、管道和決定邏輯，讓您專注在檢閱和調整歷程上。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496867/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496885/?captions=chi_hant&learn=on&enablevpops)
 
 ## 另請參閱
 

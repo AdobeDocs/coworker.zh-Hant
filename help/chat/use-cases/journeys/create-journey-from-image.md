@@ -33,4 +33,4 @@ ht-degree: 0%
 
 將流程圖影像（例如PowerPoint投影片）上傳至CX Enterprise Coworker。 在本影片中，瞭解如何檢閱從影像擷取的提示、指定觸發事件，以及在Adobe Journey Optimizer中儲存可編輯的歷程草稿。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504865/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504874/?captions=chi_hant&learn=on&enablevpops)
