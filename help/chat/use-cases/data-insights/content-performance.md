@@ -4,9 +4,9 @@ description: 使用「同事聊天」來尋找共同的成功內容、將收入�
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: 3cfee4503efc246c105156e3b99260912eb74d49
 workflow-type: tm+mt
-source-wordcount: '609'
+source-wordcount: '608'
 ht-degree: 1%
 ---
 
@@ -47,7 +47,7 @@ Co-worker會針對本文所述的使用案例使用下列技能。 如需所有�
 
 | 技能 | 用於 |
 | --- | --- |
-| `cja`，`analyze-content` <br/> （可用性限制） | 找出成功內容的一般內容<br>將收入歸因於客戶看到的內容<br>比較網頁和行動裝置上的創意<br>瞭解哪些視覺效果會移動每個對象<p>如需詳細資訊，請參閱[提出有關您內容的問題](/help/chat/use-cases/data-insights/ask-content-questions.md)。</p> |
+| `cja`,`analyze-content` | 找出成功內容的一般內容<br>將收入歸因於客戶看到的內容<br>比較網頁和行動裝置上的創意<br>瞭解哪些視覺效果會移動每個對象<p>如需詳細資訊，請參閱[提出有關您內容的問題](/help/chat/use-cases/data-insights/ask-content-questions.md)。</p> |
 
 ## 取得更好結果的秘訣
 
@@ -60,6 +60,6 @@ Co-worker會針對本文所述的使用案例使用下列技能。 如需所有�
 
 ## 後續步驟
 
-* 若要瞭解同事如何回答內容問題，請參閱[提出有關您內容的問題](/help/chat/use-cases/data-insights/ask-content-questions.md) （可用性限制）。
+* 若要瞭解同事如何回答內容問題，請參閱[提出有關您內容的問題](/help/chat/use-cases/data-insights/ask-content-questions.md)。
 * 如需使用「同事聊天」進行資料分析的概觀，包括其他分析網域和最佳實務，請參閱[使用同事聊天分析資料](/help/chat/use-cases/data-insights/analytics-overview.md)。
 * 若要設定同事聊天並逐步瀏覽工作範例，請參閱[開始使用同事聊天分析資料](/help/chat/use-cases/data-insights/analytics-chat.md)。
