@@ -8,9 +8,9 @@ product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
 hide: true
-source-git-commit: d0099a2e082b15db77876039604d4d37e77255e2
+source-git-commit: 39953e05bb5c7fede783fa344bcc846eaaa9b933
 workflow-type: tm+mt
-source-wordcount: '1635'
+source-wordcount: '1577'
 ht-degree: 1%
 ---
 
@@ -66,8 +66,6 @@ ht-degree: 1%
 
 1. 開啟&#x200B;**[!UICONTROL 自訂]**，選取&#x200B;**[!UICONTROL 組織]**，然後選取&#x200B;**[!UICONTROL 外部聯結器]**。 在&#x200B;**[!UICONTROL Databricks Genie]**&#x200B;卡片上，選取&#x200B;**[!UICONTROL 設定]**。
 
-   ![組織外部聯結器頁面顯示「未設定」狀態的Databricks Genie卡片。](./assets/databricks-genie/org-connectors.png){width="700" zoomable="yes"}
-
 1. 在&#x200B;**[!UICONTROL 連線資料庫精靈]**&#x200B;對話方塊中，在&#x200B;**[!UICONTROL 伺服器URL]**&#x200B;中輸入您的工作區URL或[!DNL Genie One] MCP URL。 同事會以下列格式儲存來源：
 
    ```text
@@ -118,8 +116,6 @@ ht-degree: 1%
 
 1. 檢閱&#x200B;**[!UICONTROL 存取和許可權]**，然後選取&#x200B;**[!UICONTROL 儲存連線]**。 **[!UICONTROL Databricks Genie]**&#x200B;卡片顯示&#x200B;**[!UICONTROL 已儲存的組態]**。
 
-   ![組織External Connectors頁面顯示Databricks Genie卡片，其中包含組態儲存狀態和[檢視]組態按鈕。](./assets/databricks-genie/org-saved.png){width="700" zoomable="yes"}
-
    選取&#x200B;**[!UICONTROL 檢視組態]**&#x200B;以檢閱工作區、驗證、啟用的工具和工具逾時。 然後選取&#x200B;**[!UICONTROL 測試]**&#x200B;以檢查連線。
 
    ![已儲存的Databricks聯結器詳細資訊，顯示來源、驗證、包含四個允許工具的工具原則、工具逾時及工具清單。](./assets/databricks-genie/org-details.png){width="700" zoomable="yes"}
@@ -133,8 +129,6 @@ ht-degree: 1%
 1. 開啟&#x200B;**[!UICONTROL 自訂]**，選取&#x200B;**[!UICONTROL 使用者]**，然後選取&#x200B;**[!UICONTROL 外部聯結器]**。
 
 1. 尋找&#x200B;**[!UICONTROL Databricks Genie]**&#x200B;卡片。 如果您的組織尚未設定聯結器，卡片會顯示&#x200B;**[!UICONTROL 未設定]**&#x200B;和&#x200B;**[!UICONTROL 尚無法使用。 您的管理員需要設定此專案。]** 成員沒有&#x200B;**[!UICONTROL 設定]**&#x200B;按鈕，因此請要求您的管理員[設定聯結器](#configure-organization)。
-
-   ![使用者外部聯結器頁面顯示Databricks Genie卡的[未設定]狀態以及管理員需要設定的訊息。](./assets/databricks-genie/member-not-configured.png){width="700" zoomable="yes"}
 
 1. 如果您的組織使用服務主體，卡片會顯示&#x200B;**[!UICONTROL 可透過您的組織使用]**。 您不需要登入。 若要檢查連線，請開啟聯結器詳細資料，然後選取&#x200B;**[!UICONTROL 測試連線]**。
 
