@@ -8,9 +8,9 @@ product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
 hide: true
-source-git-commit: 39953e05bb5c7fede783fa344bcc846eaaa9b933
+source-git-commit: 4f03df081c098fb1dc1044cb022663ce4d9b3d86
 workflow-type: tm+mt
-source-wordcount: '1577'
+source-wordcount: '1550'
 ht-degree: 1%
 ---
 
@@ -131,8 +131,6 @@ ht-degree: 1%
 1. 尋找&#x200B;**[!UICONTROL Databricks Genie]**&#x200B;卡片。 如果您的組織尚未設定聯結器，卡片會顯示&#x200B;**[!UICONTROL 未設定]**&#x200B;和&#x200B;**[!UICONTROL 尚無法使用。 您的管理員需要設定此專案。]** 成員沒有&#x200B;**[!UICONTROL 設定]**&#x200B;按鈕，因此請要求您的管理員[設定聯結器](#configure-organization)。
 
 1. 如果您的組織使用服務主體，卡片會顯示&#x200B;**[!UICONTROL 可透過您的組織使用]**。 您不需要登入。 若要檢查連線，請開啟聯結器詳細資料，然後選取&#x200B;**[!UICONTROL 測試連線]**。
-
-   ![使用者外部聯結器頁面顯示Databricks Genie卡片，其可透過您的組織狀態和測試按鈕取得。](./assets/databricks-genie/member-connectors.png){width="700" zoomable="yes"}
 
    成功的測試顯示&#x200B;**[!UICONTROL 連線成功]**&#x200B;以及可用的工具數目。
 
