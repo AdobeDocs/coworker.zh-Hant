@@ -1,6 +1,6 @@
 ---
 title: 建立、模擬和分析跨頻道歷程
-description: 瞭解CX Enterprise Coworker如何建立跨管道歷程、建立電子郵件和簡訊內容、模擬分支及診斷歷程設定問題。
+description: 瞭解如何使用CX Enterprise Coworker在Adobe Journey Optimizer中建立、模擬跨管道歷程並進行疑難排解。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -10,16 +10,14 @@ jira: KT-22912
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
+source-git-commit: d7f1f470a99880d46f518b42f4e766066c6fa52e
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '70'
 ht-degree: 0%
 ---
 
 # 建立、模擬和分析跨頻道歷程
 
-瞭解CX Enterprise Coworker如何從自然語言提示建立跨管道歷程，並建立電子郵件和簡訊內容。
-
-在此影片中，瞭解如何模擬歷程的分支路徑和分析診斷以識別設定問題。
+使用CX Enterprise Coworker從簡單語言提示建立跨管道歷程，並產生電子郵件和簡訊內容。 在本影片中，瞭解如何模擬分支路徑並檢閱診斷以識別設定問題。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3504715?captions=chi_hant&learn=on)

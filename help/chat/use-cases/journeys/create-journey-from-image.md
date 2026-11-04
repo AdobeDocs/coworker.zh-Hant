@@ -1,6 +1,6 @@
 ---
 title: 從影像建立歷程
-description: 瞭解CX Enterprise Coworker如何在Adobe Journey Optimizer (AJO)中將流程圖影像（例如行銷團隊的投影片）轉換為準備編輯的歷程。
+description: 瞭解如何使用CX Enterprise Coworker從流程圖影像建立草稿Adobe Journey Optimizer歷程。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -28,14 +28,14 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: da31900f-0b2e-4267-a5f8-69290b954752
     internal-label: Customer experience management
-source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
+source-git-commit: d7f1f470a99880d46f518b42f4e766066c6fa52e
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '71'
 ht-degree: 0%
 ---
 
 # 從影像建立歷程
 
-瞭解CX Enterprise Coworker如何在Adobe Journey Optimizer中將流程圖影像（例如行銷團隊的PowerPoint投影片）轉換為準備編輯的歷程。 您會看到Co-worker如何從影像中擷取提示、讓您檢閱和調整提示、要求觸發事件，以及將結果儲存為符合原始設計的草稿。
+將流程圖影像（例如PowerPoint投影片）上傳至CX Enterprise Coworker。 在本影片中，瞭解如何檢閱從影像擷取的提示、指定觸發事件，以及在Adobe Journey Optimizer中儲存可編輯的歷程草稿。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3504874/?captions=chi_hant&learn=on&enablevpops)
