@@ -25,7 +25,7 @@ ht-degree: 0%
 
 下列影片示範Co-worker如何將對話式AI與Customer Journey Analytics結合。 瞭解如何以自然語言提出問題、視覺化結果、識別有意義的趨勢，並找出無需建立手動查詢即可提升效能的因素。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496847/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496861/?captions=chi_hant&learn=on&enablevpops)
 
 ### 先決條件
 
