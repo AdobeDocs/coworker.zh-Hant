@@ -53,7 +53,7 @@ ht-degree: 0%
 
 開始之前：
 
-1. **可以存取同事聊天並連線Adobe Analytics。** 在Co-worker中，移至&#x200B;**自訂>整合**&#x200B;並確認`aa-mcp`整合已列出且已連線。 如果無法取得，請要求您的管理員檢查組織的設定。 請參閱[開始使用同事聊天](https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/data-insights/analytics-chat)分析資料，以取得設定指南。
+1. **可以存取同事聊天並連線Adobe Analytics。** 在Co-worker中，移至&#x200B;**自訂>整合**&#x200B;並確認`aa-mcp`整合已列出且已連線。 如果無法取得，請要求您的管理員檢查組織的設定。 請參閱[開始使用同事聊天](https://experienceleague.adobe.com/zh-hant/docs/coworker/content/chat/use-cases/data-insights/analytics-chat)分析資料，以取得設定指南。
 1. **擁有您要分析之Adobe Analytics報表套裝的檢視存取權。** 同事會繼承您的Adobe Analytics許可權，而且只能使用Analysis Workspace中可供您使用的報表套裝和元件。
 1. **選擇包含相關資料的報表套裝。** 如果您可以存取多個報表套裝，請為同事要使用的報表套裝命名。
 1. **識別您要調查的變更。** 指定量度和時段。 如需更聚焦的分析，請包含比較期間、相關維度或區段，以及您想要同事測試的任何假設。
@@ -68,5 +68,5 @@ ht-degree: 0%
 
 ## 相關資源
 
-* [使用Adobe CX Enterprise Coworker Chat分析資料](https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/data-insights/analytics-overview)
-* [開始使用同事聊天分析資料](https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/data-insights/analytics-chat)
+* [使用Adobe CX Enterprise Coworker Chat分析資料](https://experienceleague.adobe.com/zh-hant/docs/coworker/content/chat/use-cases/data-insights/analytics-overview)
+* [開始使用同事聊天分析資料](https://experienceleague.adobe.com/zh-hant/docs/coworker/content/chat/use-cases/data-insights/analytics-chat)
