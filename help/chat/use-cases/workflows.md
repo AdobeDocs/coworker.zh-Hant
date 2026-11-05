@@ -4,7 +4,7 @@ title: 同事聊天工作流程
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 3cfee4503efc246c105156e3b99260912eb74d49
+source-git-commit: 41216c2254d4c98f05c608f02bc6da31da3dd3c6
 workflow-type: tm+mt
 source-wordcount: '8820'
 ht-degree: 6%
@@ -123,7 +123,7 @@ Co-worker Chat可讓您使用自然語言來查詢、分析和處理您的[!DNL 
 | [AA ↔ CJA資料驗證](data-insights/data-validation-aa-cja.md) | 在Adobe Analytics和Customer Journey Analytics之間比較、稽核及調解資料，尤其是從Adobe Analytics升級為Customer Journey Analytics時 | `aa-cja-validation`, `cja`, `aa`, `dx-api` | ADOBE ANALYTICS + CJA | 「比較我的AA報告套裝與CJA資料檢視」 <br>「驗證AA與CJA之間的頁面檢視」 |
 | [將AA專案移轉至CJA](data-insights/migrate-projects-aa-cja.md) （可用性限制） | 驗證、對應及移轉Adobe Analytics專案及其相關元件至Customer Journey Analytics，然後檢查移轉狀態<!-- FLAG: No dedicated skill yet; the tools run through the aa-mcp integration. Update the Skills column when a skill is released. --> | 無<br/> （使用`aa-mcp`整合） | ADOBE ANALYTICS + CJA | 「我想將元件從AA移轉至CJA」<br>「我的報表套裝中的哪些維度和量度未對應至我的資料檢視？」 |
 | [驗證資料集和欄位品質](data-insights/data-validation-aep.md) | 對Experience Platform資料集和欄位執行統計和語意驗證，以在實作後或持續進行時擷取資料品質問題<!--TODO: confirm skill ID(s) with engineering before publishing--> | `data-validation` | Adobe Experience Platform | 「驗證資料集Electronics Sample 1000」 <br>「驗證Customers_2024資料集中的電子郵件欄位」 |
-| 作業時間序列與因果分析 | 查詢和分析具有因果歸因的對象、資料集和歷程的歷史時間序列資料 | `operational-stats-causal-analysis` | 所有符合資格的應用程式 | 「顯示過去90天的對象人數趨勢」 <br> 「為什麼我的資料集列計數在3月3日激增？」 |
+| [作業時間序列與因果分析](audiences/why-your-audience-size-changed.md) | 查詢和分析具有因果歸因的對象、資料集和歷程的歷史時間序列資料 | `operational-stats-causal-analysis` | 所有符合資格的應用程式 | 「顯示過去90天的對象人數趨勢」 <br> 「為什麼我的資料集列計數在3月3日激增？」 |
 | 建立自訂CJA技能 | 將分析模式轉換為可重複使用、且跨工作階段儲存的技能 | `cja-skill-creator` | Customer Journey Analytics (CJA) | 「將此每週收入分析轉換為可重複使用的技能」 <br>「將此儲存為每月funnel報告的技能」 |
 
 ## 客群
