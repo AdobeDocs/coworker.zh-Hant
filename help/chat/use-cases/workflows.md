@@ -4,9 +4,9 @@ title: 同事聊天工作流程
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 41216c2254d4c98f05c608f02bc6da31da3dd3c6
+source-git-commit: 0d2b1c7e146114fac57a894ce1b61727456d263f
 workflow-type: tm+mt
-source-wordcount: '8820'
+source-wordcount: '9190'
 ht-degree: 6%
 ---
 # 同事聊天工作流程 {#use-cases}
@@ -258,6 +258,20 @@ Co-worker Chat可讓您使用自然語言來查詢、分析和處理您的[!DNL 
 **相關資訊**
 
 * [內容管理的同事](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/content-management/content-management-coworker-skills){target="_blank"}提供Adobe Journey Optimizer內容管理工具和可用技能的詳細資訊。
+
+## 協調的行銷活動
+
+在Adobe Journey Optimizer中使用同事聊天來尋找及檢查協調的行銷活動，以及呈現工作流程圖表。 這些技能為唯讀：目前的工具集不支援建立或編輯協調的行銷活動，也不支援協調的行銷活動分析和效能報告。
+
+| 工作流程 | 說明 | 技能 | 應用程式 | 範例提示 |
+| --- | --- | --- | --- | --- |
+| [尋找及瀏覽協調的行銷活動](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrated/orchestrated-campaigns-coworker-skills#orchestrated-campaign-list){target="_blank"} | 清單、瀏覽、篩選、搜尋、計數，或取得精心安排的促銷活動概覽，並呈現為包含量度卡片、圖表和促銷活動表格的儀表板 | 協調的行銷活動清單 | Adobe Journey Optimizer (AJO) | 「列出我所有協調的行銷活動。」<br> 「顯示即時協調的行銷活動。」 <br> 「有多少協調的行銷活動使用電子郵件？」 <br> 「顯示由Xavier建立的協調行銷活動。」<br> 「在生產沙箱中瀏覽協調的行銷活動。」 <br> 「依狀態草稿篩選協調的行銷活動。」 |
+| [檢查協調的行銷活動](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrated/orchestrated-campaigns-coworker-skills#orchestrated-campaign-get){target="_blank"} | 取得單一具名或識別之協調行銷活動的所有資訊：其詳細資訊、狀態、中繼資料、生命週期歷史記錄和執行歷史記錄，並將其活動圖表視覺化 | 協調的行銷活動取得 | Adobe Journey Optimizer (AJO) | 「顯示夏季重新參與協調行銷活動的詳細資料。」<br> 「誰發佈了Welcome Series OC？」 <br> 「顯示我第3季行銷活動的生命週期歷史記錄。」<br> 「節日促銷活動執行了多少次？」 <br> 「為上線OC繪圖/視覺化圖表。」<br> 「放棄購物車協調的行銷活動是否失敗？」 |
+| [演算工作流程圖表](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrated/orchestrated-campaigns-coworker-skills#orchestrated-campaign-workflow-renderer){target="_blank"} | 將包含節點和邊緣的工作流程或協調流程圖表呈現為視覺化圖表（提供為JSON裝載）。<br> 只有在圖表裝載已存在於交談中時才使用它。<br> 若要依名稱或ID繪製促銷活動圖形，請使用「協調的促銷活動取得」。 | 協調的行銷活動工作流程轉譯器 | Adobe Journey Optimizer (AJO) | 「將此工作流程圖表呈現為圖表。」<br> 「將此協調流程圖表視覺化。」 |
+
+**相關資訊**
+
+* [協調行銷活動的同事](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrated/orchestrated-campaigns-coworker-skills){target="_blank"}提供詳細的指引、使用案例，以及Adobe Journey Optimizer中「協調行銷活動清單」、「協調行銷活動取得」和「協調行銷活動工作流程轉譯器」技能的範例提示。
 
 ## Campaign v8
 
