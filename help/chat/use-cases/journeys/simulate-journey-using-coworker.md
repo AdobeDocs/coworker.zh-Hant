@@ -30,4 +30,4 @@ ht-degree: 0%
 
 使用同事以自動產生的測試設定檔和事件來模擬Adobe Journey Optimizer歷程。 在此影片中，瞭解如何在發佈前測試歷程路徑、接收校樣訊息，以及檢視路徑涵蓋範圍和模擬結果。
 
->[!VIDEO](https://video.tv.adobe.com/v/3507004?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507040?captions=chi_hant&learn=on)

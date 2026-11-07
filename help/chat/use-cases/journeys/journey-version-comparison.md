@@ -17,4 +17,4 @@ ht-degree: 0%
 
 瞭解如何使用合作者來比較Adobe Journey Optimizer歷程的版本。 探索視覺比較和詳細摘要，以識別活動、分支和歷程屬性的變更，並追蹤何時進行特定更新。
 
->[!VIDEO](https://video.tv.adobe.com/v/3507163/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3507255/?captions=chi_hant&learn=on&enablevpops)
