@@ -38,7 +38,7 @@ ht-degree: 0%
 
 使用本影片瞭解如何新增同事管理員。
 
->[!VIDEO](https://video.tv.adobe.com/v/3507041?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507050?captions=chi_hant&learn=on){transcript=true}
 
 ## 管理使用者存取權 {#manage-user-access}
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
    使用本影片瞭解如何管理同事使用者。
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3507151?learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3507160?captions=chi_hant&learn=on){transcript=true}
 
 4. 在同事中，使用&#x200B;**[!UICONTROL 使用者]**&#x200B;管理個人的存取權，或使用&#x200B;**[!UICONTROL 使用者群組]**&#x200B;管理使用者群組的同事存取權。 使用者群組設定適用於其成員。
 
