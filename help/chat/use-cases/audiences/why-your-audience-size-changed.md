@@ -30,7 +30,7 @@ ht-degree: 0%
 
 在此影片中，您將會瞭解如何在同事中使用純語言提示，以在行銷活動啟動前調查Adobe Experience Platform對象中意外的增加。 逐步解說會顯示因果分析如何將受眾規模變更與營運資料連結、排除設定變更，以及提供可能的解釋，而不需要等待工程部門調查。
 
->[!VIDEO](https://video.tv.adobe.com/v/3507342/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3507352/?captions=chi_hant&learn=on&enablevpops)
 
 您將學習如何：
 
