@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您的組織必須啟用「同事」功能，才能使用此功能。 存取控制將逐步推出，並非所有同事組織都能在啟動時啟用。如需詳細資訊，請參閱[同事聊天概述](https://experienceleague.adobe.com/en/docs/coworker/content/chat/overview)。
+>您的組織必須啟用「同事」功能，才能使用此功能。 存取控制將逐步推出，並非所有同事組織都能在啟動時啟用。如需詳細資訊，請參閱[同事聊天概述](https://experienceleague.adobe.com/zh-hant/docs/coworker/content/chat/overview)。
 
 ## 存取權的決定方式 {#how-access-is-determined}
 
