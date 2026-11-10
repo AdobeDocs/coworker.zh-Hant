@@ -4,10 +4,10 @@ title: Adobe CX Enterprise Coworker Chat概觀
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: 4d1a45924304a21da9f23287c307e7616bb86219
 workflow-type: tm+mt
-source-wordcount: '721'
-ht-degree: 6%
+source-wordcount: '546'
+ht-degree: 8%
 ---
 # 關於同事聊天 {#overview}
 
@@ -27,7 +27,7 @@ ht-degree: 6%
 
 ## AI助理的演變
 
-同事聊天是[AI小幫手](https://experienceleague.adobe.com/zh-hant/docs/cx-enterprise-ai/experience-cloud-ai/ai-assistant/ai-assistant-ui)和Adobe Experience Platform Agent Orchestrator之後的下一個步驟。 您現在可以在AI Assistant中執行的所有操作，包括產品知識以及操作和資料分析，仍可使用。 同事聊天新增讓交談完成工作的[建置區塊](#building-blocks)，而不只是回答問題。
+同事聊天是[AI小幫手](https://experienceleague.adobe.com/zh-hant/docs/cx-enterprise-ai/experience-cloud-ai/ai-assistant/ai-assistant-ui)和Adobe Experience Platform Agent Orchestrator之後的下一個步驟。 您現在可以在AI Assistant中執行的所有操作，包括產品知識以及操作和資料分析，仍可使用。 同事聊天會使用共用的[同事建置區塊](/help/home.md#building-blocks)來完成交談工作，而不只是回答問題。
 
 ## 聊天體驗
 
@@ -53,16 +53,6 @@ ht-degree: 6%
 * _Real-Time CDP B2B edition （即將推出）_
 * _Adobe Journey Optimizer B2B Edition （即將推出）_
 * _Customer Journey Analytics B2B edition （即將推出）_
-
-## 建置區塊
-
-同事聊天由同事建置區塊提供支援。 下列建置區塊目前可供使用。
-
-* **企業環境：**&#x200B;將目標轉換為已完成工作的引擎。 它會執行連續、自我修正的回圈（原因、選取技能、執行、驗證、重複）、從錯誤中復原並並行工作，直到完成工作為止，而不僅僅是嘗試完成。
-* **技能：**&#x200B;可重複使用的教戰手冊，使用Markdown語言輕鬆完成每項工作。 「同事聊天」提供現今最常見客戶體驗工作的相關技能，目標是涵蓋所有Adobe CX Enterprise應用程式隨著時間流逝的工作。
-* **MCP聯結器：**&#x200B;已控管存取，可跨Adobe和協力廠商系統運作，並提供現成的聯結器以及您自己的選項。
-* **治理：**&#x200B;核准閘門、從您的Adobe組織繼承的許可權、執行動作前執行的檢查，以及完整的稽核軌跡。
-* **記憶體：**&#x200B;同事聊天會學習您在不同工作階段中的喜好設定、決定和更正內容，範圍從整個組織的規則到您的個人喜好設定，因此當您使用聊天工具時，其內容會更清晰。
 
 ## 影片概觀
 

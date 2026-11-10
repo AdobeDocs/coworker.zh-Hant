@@ -4,16 +4,27 @@ description: 瞭解Adobe CX Enterprise Coworker，這是AI支援的團隊成員�
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 81e7de5e1b3b322fc74fa7bab8cb16841d627349
+source-git-commit: 4d1a45924304a21da9f23287c307e7616bb86219
 workflow-type: tm+mt
-source-wordcount: '1233'
-ht-degree: 15%
+source-wordcount: '1367'
+ht-degree: 14%
 ---
 # CX Enterprise Coworker概觀 {#overview}
 
 [!DNL Coworker]是AI支援的團隊成員，可重新構想組織、團隊和個人的工作性質。 它自動化了客戶體驗和行銷工作流程，讓組織可以聚焦於實現業務目標和改善成果，而非協調工作。 Co-worker作為代理引擎，採用創新的方式實現業務流程自動化。 它將企業內容、資料、情報、共同作業和執行代理技能結合在一起，並內建治理和人力監督，以改善AI模型效能和準確性。
 
 Co-worker是為執行複雜、跨職能客戶體驗工作流程的組織所建置。 它將「同事聊天」和「同事專案」整合在一起，讓從業人員能夠在同事體驗中，從單一任務移至完整的多團隊工作流程。 治理、核准和人力監督從一開始就進行整合。 深入瞭解[Adobe for Business](https://business.adobe.com/tw/products/cx-enterprise-coworker.html)。
+
+## 建置區塊 {#building-blocks}
+
+「同事聊天」和「同事專案」共用下列建置組塊，但註明者除外。 即將推出同事專案。
+
+* **企業環境：**&#x200B;透過推理、技能選擇、執行和驗證（包含錯誤復原和平行執行）的持續循環，將您的目標變成已完成的工作。
+* **技能：**&#x200B;使用純Markdown格式的可重複使用教戰手冊，以執行常見的客戶體驗工作。
+* **MCP聯結器：**&#x200B;使用內建聯結器或您自己的聯結器，透過控管存取跨Adobe和外部系統運作。
+* **治理：**&#x200B;透過核准門檻保持控制、從您的Adobe組織繼承的許可權、執行動作前的檢查以及稽核軌跡。
+* **記憶體：**&#x200B;跨工作階段（從組織規則到您的個人偏好設定）套用偏好設定、決定和修正。
+* **Collaboration （僅限同事專案）：**&#x200B;將每個利害關係人保留在一個專案執行緒中，將稽核、核准和代理程式輸出從簡報到啟動的工作連結。
 
 ## 選擇體驗
 
