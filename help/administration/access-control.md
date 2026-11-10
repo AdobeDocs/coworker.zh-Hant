@@ -8,9 +8,9 @@ jira: KT-22980
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 61a0368cd6119139cce74c9e374257e99809ea00
+source-git-commit: a14bd350d7259294368acdcb08549ea6e084f1c1
 workflow-type: tm+mt
-source-wordcount: '534'
+source-wordcount: '517'
 ht-degree: 0%
 ---
 # 同事的存取控制 {#access-control}
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您的組織必須啟用「同事」功能，才能使用此功能。 存取控制將逐步推出，並非所有同事組織都能在啟動時啟用。如需詳細資訊，請參閱[同事聊天概述](https://experienceleague.adobe.com/zh-hant/docs/coworker/content/chat/overview)。
+>您的組織必須啟用「同事」功能，才能使用此功能。 存取控制將逐步推出，並非所有同事組織都能在啟動時啟用。 如需詳細資訊，請參閱[同事聊天概述](https://experienceleague.adobe.com/en/docs/coworker/content/chat/overview)。
 
 ## 存取權的決定方式 {#how-access-is-determined}
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    使用本影片瞭解如何管理同事使用者。
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3507160?captions=chi_hant&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3507151?learn=on){transcript=true}
 
 4. 在同事中，使用&#x200B;**[!UICONTROL 使用者]**&#x200B;管理個人的存取權，或使用&#x200B;**[!UICONTROL 使用者群組]**&#x200B;管理使用者群組的同事存取權。 使用者群組設定適用於其成員。
 
