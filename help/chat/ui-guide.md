@@ -5,7 +5,7 @@ jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 52a5bd4f877300cb0ee6b7acbb7d0d0e4fddd3db
+source-git-commit: b2a8aa48302c80efa48416dede5f5d66005b8e7c
 workflow-type: tm+mt
 source-wordcount: '2116'
 ht-degree: 3%
@@ -27,7 +27,7 @@ Co-worker Chat可讓您透過簡單語言詢問您所需的內容，以使用Ado
 | Customer Journey Analytics | 現在可用 | 現在可用 |
 | Customer Journey Analytics B2B Edition | 現在可用 | 現在可用 |
 | Content Analytics | 現在可用 | 現在可用 |
-| Marketing Campaign Analytics | 現在可用 | 現在可用 |
+| Marketing Campaign Analytics | 現在可用 | 即將推出 |
 | Adobe Analytics | 現在可用 | 即將推出 |
 | Workfront | 現在可用 | 現在可用 |
 | 目標 | 現在可用 | 現在可用 |

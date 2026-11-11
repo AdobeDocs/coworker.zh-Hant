@@ -8,18 +8,20 @@ jira: KT-22980
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 756748b585685de6cd0544a46014bc44a4cddc63
+source-git-commit: d9dae093a2a6366154366a9da320f07a891114f2
 workflow-type: tm+mt
-source-wordcount: '520'
+source-wordcount: '535'
 ht-degree: 0%
 ---
 # 同事的存取控制 {#access-control}
 
 使用Adobe CX Enterprise Coworker存取控制來管理誰可以使用同事，以及他們可以使用哪些功能。
 
+存取控制適用於右側邊欄和全熒幕體驗中的同事。
+
 >[!NOTE]
 >
->存取控制正在逐步推廣到所有具有同事存取權的客戶。 您可能尚未在組織中看到[!UICONTROL 存取控制]。 如需詳細資訊，請參閱[同事聊天概述](/help/chat/overview.md)。
+>存取控制正在逐步推廣到所有具有同事存取權的客戶。 您可能尚未在組織中看到[!UICONTROL 存取控制]。 如需詳細資訊，請參閱[取得存取權的說明](#get-help-with-access)。
 
 ## 存取權的決定方式 {#how-access-is-determined}
 

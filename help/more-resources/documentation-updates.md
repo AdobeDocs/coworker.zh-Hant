@@ -4,9 +4,9 @@ description: 請參閱CX Enterprise Coworker檔案中的最新和更新文章及
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 52a5bd4f877300cb0ee6b7acbb7d0d0e4fddd3db
+source-git-commit: b2a8aa48302c80efa48416dede5f5d66005b8e7c
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '419'
 ht-degree: 0%
 ---
 # 文件更新 {#documentation-updates}
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 **2026年11月10日**
 
-* 已更新： [開始使用同事聊天](../chat/ui-guide.md)。 可用性表格現在會列出Customer Journey Analytics B2B edition、Content Analytics和Marketing Campaign Analytics。 三種體驗皆可在沈浸式與產品內提供同事聊天。
+* 已更新： [開始使用同事聊天](../chat/ui-guide.md)。 可用性表格現在會列出Customer Journey Analytics B2B edition、Content Analytics和Marketing Campaign Analytics。 身臨其境的體驗適用於所有這三種情況。 Customer Journey Analytics B2B edition和Content Analytics提供產品內體驗，Marketing Campaign Analytics即將推出這些體驗。
 
 **2026年11月4日**
 
