@@ -8,9 +8,9 @@ jira: KT-22980
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: d9dae093a2a6366154366a9da320f07a891114f2
+source-git-commit: ef8141ff251a2900b9f10b77942e1c9097cba59f
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '562'
 ht-degree: 0%
 ---
 # 同事的存取控制 {#access-control}
@@ -40,22 +40,28 @@ ht-degree: 0%
 
 ## 管理使用者存取權 {#manage-user-access}
 
+在同事中使用[!UICONTROL 存取控制]來管理個人或使用者群組的存取權。
+
+>[!NOTE]
+>
+>針對每個大量動作選取最多100個使用者或使用者群組。 匯出使用者時，匯出僅包含載入的使用者。
+
 1. 開啟同事體驗。 如需指示，請參閱[登入同事](/help/chat/ui-guide.md#sign-in)。
-2. 開啟設定檔功能表並選取&#x200B;**[!UICONTROL 管理員設定]**。
+1. 開啟設定檔功能表並選取&#x200B;**[!UICONTROL 管理員設定]**。
 
    ![已反白設定檔功能表控制項的同事首頁。](./assets/access-control/coworker-home.png)
 
    ![已反白顯示管理員設定的[同事設定檔]功能表。](./assets/access-control/admin-settings.png)
 
-3. 選取&#x200B;**[!UICONTROL 存取控制]**。
+1. 選取&#x200B;**[!UICONTROL 存取控制]**。
 
    ![反白顯示存取控制卡的管理設定。](./assets/access-control/access-control.png)
 
    使用本影片瞭解如何管理同事使用者。
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3507160?captions=chi_hant&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3507151?learn=on){transcript=true}
 
-4. 在同事中，使用&#x200B;**[!UICONTROL 使用者]**&#x200B;管理個人的存取權，或使用&#x200B;**[!UICONTROL 使用者群組]**&#x200B;管理使用者群組的同事存取權。 使用者群組設定適用於其成員。
+1. 選取&#x200B;**[!UICONTROL 使用者]**&#x200B;以管理個別存取權，或選取&#x200B;**[!UICONTROL 使用者群組]**&#x200B;以管理群組存取權。 使用者群組設定適用於其成員。
 
    同事使用者群組與[!DNL Adobe Admin Console]群組不同。 即將從[!DNL Adobe Admin Console]將使用者群組同步至同事。
 
