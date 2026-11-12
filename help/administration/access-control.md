@@ -59,7 +59,7 @@ ht-degree: 0%
 
    使用本影片瞭解如何管理同事使用者。
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3507151?learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3507160?captions=chi_hant&learn=on){transcript=true}
 
 1. 選取&#x200B;**[!UICONTROL 使用者]**&#x200B;以管理個別存取權，或選取&#x200B;**[!UICONTROL 使用者群組]**&#x200B;以管理群組存取權。 使用者群組設定適用於其成員。
 
