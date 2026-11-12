@@ -6,9 +6,9 @@ description: 瞭解CX Enterprise中的AI工具。 在CX Enterprise中使用AI來
 solution: Coworker
 role: Admin,User,Developer,Leader
 auto-video-transcripts: true
-source-git-commit: 5377963a32db6b195349a198c4158ffb99eaeeec
+source-git-commit: bafd318fee6017f992d4feab453058b5332005ce
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '373'
 ht-degree: 13%
 ---
 
@@ -57,6 +57,7 @@ ht-degree: 13%
       - [管理資料湖保留](./chat/use-cases/data-management/manage-data-lake-retention.md)
     - 客群 {#audiences}
       - [評估平台運作狀況並建置對象](./chat/use-cases/audiences/create-audience-from-natural-language.md)
+      - [從構思到可啟動的受眾](./chat/use-cases/audiences/from-idea-to-activation-ready-audience-with-coworker.md)
       - [為什麼我的對象人數激增/下降？](./chat/use-cases/audiences/why-your-audience-size-changed.md)
     - 歷程 {#journeys}
       - [使用自然語言建立歷程](./chat/use-cases/journeys/create-journey-from-natural-language.md)
