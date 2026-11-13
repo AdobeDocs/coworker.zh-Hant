@@ -20,4 +20,4 @@ ht-degree: 0%
 
 瞭解如何與同事設定適用於AEM Assets的Adobe Asset Sourcing入口網站，並授予供應商特定範圍的入口網站存取權。 內嵌資產時，會在Adobe Experience Manager Assets中對應自訂中繼資料欄位，並自動同步中繼資料。
 
->[!VIDEO](https://video.tv.adobe.com/v/3508276/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3508285/?captions=chi_hant&learn=on&enablevpops)
