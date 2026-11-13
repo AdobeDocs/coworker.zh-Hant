@@ -6,9 +6,9 @@ description: 瞭解CX Enterprise中的AI工具。 在CX Enterprise中使用AI來
 solution: Coworker
 role: Admin,User,Developer,Leader
 auto-video-transcripts: true
-source-git-commit: bafd318fee6017f992d4feab453058b5332005ce
+source-git-commit: 3a1fbd2a3ed69c47fd4450c0c1e07bb7398f2dbe
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '380'
 ht-degree: 13%
 ---
 
@@ -82,6 +82,7 @@ ht-degree: 13%
       - [品牌法規遵循檢查](./chat/use-cases/brand-visibility/brand-compliance.md)
       - [撰寫AEM Sites頁面](./chat/use-cases/brand-visibility/author-web-pages.md)
       - [上線AEM Assets](./chat/use-cases/brand-visibility/onboard-aem-assets.md)
+      - [與同事建立Asset Sourcing入口網站](./chat/use-cases/brand-visibility/set-up-asset-sourcing-portal.md)
       - [產生行銷資產](./chat/use-cases/brand-visibility/generate-assets.md)
     - 工作流程與規劃 {#workflow-and-planning}
       - [規劃數位行銷活動啟動](./chat/use-cases/workflow-and-planning/plan-digital-campaign-launch.md)
