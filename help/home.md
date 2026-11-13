@@ -4,7 +4,7 @@ description: 瞭解Adobe CX Enterprise Coworker，這是AI支援的團隊成員�
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 4d1a45924304a21da9f23287c307e7616bb86219
+source-git-commit: abb341180786a0d250db4313ad1719a1947151ca
 workflow-type: tm+mt
 source-wordcount: '1367'
 ht-degree: 14%
@@ -14,6 +14,8 @@ ht-degree: 14%
 [!DNL Coworker]是AI支援的團隊成員，可重新構想組織、團隊和個人的工作性質。 它自動化了客戶體驗和行銷工作流程，讓組織可以聚焦於實現業務目標和改善成果，而非協調工作。 Co-worker作為代理引擎，採用創新的方式實現業務流程自動化。 它將企業內容、資料、情報、共同作業和執行代理技能結合在一起，並內建治理和人力監督，以改善AI模型效能和準確性。
 
 Co-worker是為執行複雜、跨職能客戶體驗工作流程的組織所建置。 它將「同事聊天」和「同事專案」整合在一起，讓從業人員能夠在同事體驗中，從單一任務移至完整的多團隊工作流程。 治理、核准和人力監督從一開始就進行整合。 深入瞭解[Adobe for Business](https://business.adobe.com/tw/products/cx-enterprise-coworker.html)。
+
+<div id="recs-overview-body-1"></div>
 
 ## 建置區塊 {#building-blocks}
 
@@ -162,6 +164,13 @@ CARDS
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
 
 ### 加入Experience League LIVE
 

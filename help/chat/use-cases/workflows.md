@@ -4,9 +4,9 @@ title: 同事聊天工作流程
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 0d2b1c7e146114fac57a894ce1b61727456d263f
+source-git-commit: e8010a31192b717a762510d189f3a8a344b3e2fe
 workflow-type: tm+mt
-source-wordcount: '9190'
+source-wordcount: '9318'
 ht-degree: 6%
 ---
 # 同事聊天工作流程 {#use-cases}
@@ -212,6 +212,18 @@ Co-worker Chat可讓您使用自然語言來查詢、分析和處理您的[!DNL 
 **相關資訊**
 
 * [決策同事](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills){target="_blank"}針對Adobe Journey Optimizer中的決策技能提供詳細指引、使用案例和提示最佳實務。
+
+## 處理程序管理員
+
+>[!AVAILABILITY]
+>
+>處理程式管理員位於&#x200B;**beta**。 若要深入瞭解程式管理員，請閱讀[程式管理員概觀](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/process-manager/home)。
+
+| 工作流程 | 說明 | 技能 | 應用程式 | 範例提示 |
+| --- | --- | --- | --- | --- |
+| Process Manager建立器 | 在「流&#39;b5&#39;7b管理員」中設計、建立、更新、重新命名和刪除流&#39;b5&#39;7b。 列出「流&#39;b5&#39;7b管理員」可用的工作型別。 | `process-manager-builder` | 處理程序管理員 | 「列出所有可在「程式管理員」中使用的程式。」 |
+| Process Manager執行運運算元 | 開始執行、檢查執行的狀態和歷史記錄、找出執行失敗的原因、重新執行現有的執行、取消進行中的執行。 | `process-manager-run-operator` | 處理程序管理員 | 「檢查範例程式中執行的歷史記錄。」 |
+| Process Manager排程器 | 建立、變更、暫停、繼續、列出和移除「程式管理員」排程 | `process-manager-scheduler` | 處理程序管理員 | 「列出範例程式的排程。」 |
 
 ## 管道
 
