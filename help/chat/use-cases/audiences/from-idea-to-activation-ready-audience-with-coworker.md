@@ -25,4 +25,4 @@ ht-degree: 0%
 
 瞭解如何使用同事將純語言請求轉換為目標行銷對象。 回答澄清問題以調整您的對象，然後讓同事直接在平台中建立它，準備好跨目的地啟用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3508216/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3508225/?captions=chi_hant&learn=on&enablevpops)
