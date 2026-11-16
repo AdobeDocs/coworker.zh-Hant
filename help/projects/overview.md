@@ -82,6 +82,6 @@ ht-degree: 0%
 
 透過此影片瞭解同事專案。
 
->[!VIDEO](https://video.tv.adobe.com/v/3508234?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3508244?captions=chi_hant&learn=on){transcript=true}
 
 
