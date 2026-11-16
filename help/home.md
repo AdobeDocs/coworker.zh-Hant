@@ -4,9 +4,9 @@ description: 瞭解Adobe CX Enterprise Coworker，這是AI支援的團隊成員�
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: abb341180786a0d250db4313ad1719a1947151ca
+source-git-commit: 69468cabd86925ee6a7f3f86022ffefb26ffa66c
 workflow-type: tm+mt
-source-wordcount: '1367'
+source-wordcount: '1369'
 ht-degree: 14%
 ---
 # CX Enterprise Coworker概觀 {#overview}
@@ -36,7 +36,7 @@ Co-worker是為執行複雜、跨職能客戶體驗工作流程的組織所建�
 | --- | --- | --- |
 | [同事[!UICONTROL 聊天]](./chat/overview.md) | 以自然語言詢問跨Adobe應用程式的深入分析、內容和動作。 | 透過您的Adobe客戶團隊授權。 請參閱[檢查可用性](#chat-availability)。 |
 | 團隊的[同事](./coworker-for-teams/overview.md) | 從行銷活動目標移至協調執行，成為小型敏捷行銷團隊。 | 免費試用至2026年12月31日。 僅限北美。 |
-| 同事[!UICONTROL 專案] | 執行長期、跨職能的工作流程，讓您的團隊設定流程、核准和同事的自主程度。 | 即將推出。 |
+| [同事專案](/help/projects/overview.md) | 跨團隊協調工作流程，並共用進度、核准和控管。 | 可用性限制。 如需未來可用性的相關資訊，請聯絡您的Adobe客戶代表。 |
 
 ## 同事聊天
 

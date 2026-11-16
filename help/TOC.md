@@ -6,10 +6,10 @@ description: 瞭解CX Enterprise中的AI工具。 在CX Enterprise中使用AI來
 solution: Coworker
 role: Admin,User,Developer,Leader
 auto-video-transcripts: true
-source-git-commit: 3a1fbd2a3ed69c47fd4450c0c1e07bb7398f2dbe
+source-git-commit: 69468cabd86925ee6a7f3f86022ffefb26ffa66c
 workflow-type: tm+mt
-source-wordcount: '380'
-ht-degree: 13%
+source-wordcount: '385'
+ht-degree: 12%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -86,6 +86,8 @@ ht-degree: 13%
       - [產生行銷資產](./chat/use-cases/brand-visibility/generate-assets.md)
     - 工作流程與規劃 {#workflow-and-planning}
       - [規劃數位行銷活動啟動](./chat/use-cases/workflow-and-planning/plan-digital-campaign-launch.md)
+- 同事專案 {#projects}
+  - [關於同事專案](./projects/overview.md)
 - 自訂 {#customizations}
   - [自訂概述](./customizations/overview.md)
   - 技能 {#skills}
