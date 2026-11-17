@@ -4,19 +4,38 @@ description: 請參閱CX Enterprise Coworker檔案中的最新和更新文章及
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: b2a8aa48302c80efa48416dede5f5d66005b8e7c
+source-git-commit: c29ae8ac2b69dd3d5e52529875a9224cb697ebee
 workflow-type: tm+mt
-source-wordcount: '419'
-ht-degree: 0%
+source-wordcount: '539'
+ht-degree: 1%
 ---
 # 文件更新 {#documentation-updates}
 
 使用此頁面尋找CX Enterprise Coworker檔案中的新內容及大幅更新內容。 更新會依月份列出，最新的排在前。 如需團隊同事的產品變更，請參閱[團隊同事發行說明](../coworker-for-teams/release-notes.md)。
 
-## 2026年11月 {#nov-2026}
+## 2026 年 11 月 {#nov-2026}
+
+**2026年11月16日**
+
+* 新增： [關於同事專案](../projects/overview.md)。 同事專案的可用性有限。
+* 已更新：[關於同事聊天](../chat/overview.md)。 相容的應用程式清單現在包含Customer Journey Analytics B2B edition、Content Analytics和Marketing Campaign Analytics。 文章也連結至「同事專案」。
+
+**2026年11月13日**
+
+* 新增： [與同事](../chat/use-cases/brand-visibility/set-up-asset-sourcing-portal.md)建立資產來源入口網站
+* 已更新： [同事](../administration/access-control.md)的存取控制。 文章現在會說明大量動作（最多100個使用者或使用者群組）的限制，並釐清預設的「同事存取」設定。
+
+**2026年11月12日**
+
+* 已更新： [同事聊天工作流程](../chat/use-cases/workflows.md)。 本文現在列出了「流程管理員」建立、執行及排程流程的技能。 「程式管理員」目前是Beta版。
+
+**2026年11月11日**
+
+* 新增： [從創意到可啟動的對象](../chat/use-cases/audiences/from-idea-to-activation-ready-audience-with-coworker.md)
 
 **2026年11月10日**
 
+* 新增： [稽核同事事件](../administration/audit.md)
 * 已更新： [開始使用同事聊天](../chat/ui-guide.md)。 可用性表格現在會列出Customer Journey Analytics B2B edition、Content Analytics和Marketing Campaign Analytics。 身臨其境的體驗適用於所有這三種情況。 Customer Journey Analytics B2B edition和Content Analytics提供產品內體驗，Marketing Campaign Analytics即將推出這些體驗。
 
 **2026年11月4日**
