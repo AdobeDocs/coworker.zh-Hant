@@ -4,9 +4,9 @@ title: 同事聊天工作流程
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 195ec9f05a901294bbd3631ef91435e58f016cd0
+source-git-commit: 0089deb08fffb7ff7318d3b8ad0d89d465999793
 workflow-type: tm+mt
-source-wordcount: '9326'
+source-wordcount: '9483'
 ht-degree: 6%
 ---
 # 同事聊天工作流程 {#use-cases}
@@ -205,13 +205,16 @@ Co-worker Chat可讓您使用自然語言來查詢、分析和處理您的[!DNL 
 
 ## 決策
 
+使用「同事聊天」管理Adobe Journey Optimizer中的決定物件：建立和維護適用性規則、排名公式、頻率上限運算式，以及來自自然語言提示的決定專案。
+
 | 工作流程 | 說明 | 技能 | 應用程式 | 範例提示 |
 | --- | --- | --- | --- | --- |
-| [產生、解釋、模擬和最佳化決策規則](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills#rules-ranking){target="_blank"} | 使用自然語言來建立適用性規則和排名公式，並取得簡單的英文說明。<br> 針對最多三個設定檔進行測試。<br> 重新寫入以符合PQL大小限制，無需手動寫入PQL語法。 | 決策規則工作流程 | Adobe Journey Optimizer (AJO) | 「建立以第2級或以上忠誠度會員為目標的適用性規則。」<br><br>「以自然語言向我說明此規則。」<br><br>「使用測試設定檔模擬此規則。」<br><br>「為我最佳化此PQL規則。」 |
+| [建立、管理、模擬和最佳化決策規則](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills#rules-ranking){target="_blank"} | 使用自然語言來建立、尋找、修正和刪除適用性規則、排名公式，以及優惠方案專案頻率限定運算式，並取得簡單的英文說明。<br> 針對最多三個設定檔進行驗證和測試。<br> 重新寫入以符合PQL大小限制，無需手動寫入PQL語法。 | 決策規則工作流程 | Adobe Journey Optimizer (AJO) | 「建立以第2級或以上忠誠度會員為目標的適用性規則。」<br><br>「以自然語言向我說明此規則。」<br><br>「使用測試設定檔模擬此規則。」<br><br>「為我最佳化此PQL規則。」<br><br>「列出排名公式。」<br><br>「建立計算點選事件的上限規則。」 |
+| [建立和管理決定專案](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills#decisioning-offer-item-workflow){target="_blank"} | 透過在聊天中描述來建立決策專案（優惠方案），包括標籤或標籤、資格、排程、頻率限定、內容片段和自訂屬性。<br> 更新、核准、取消核准、封存或永久刪除專案。<br> 從CSV檔案或清單中一次建立或更新多個專案。 | 決定優惠專案工作流程 | Adobe Journey Optimizer (AJO) | 「在名為drc之類的位置上建立限定優惠方案。」<br><br>「從此CSV檔案建立決定專案。」<br><br>「核准夏季銷售專案。」<br><br>「封存此優惠方案」。 |
 
 **相關資訊**
 
-* [決策同事](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills){target="_blank"}針對Adobe Journey Optimizer中的決策技能提供詳細指引、使用案例和提示最佳實務。
+* [決策共同背景工作](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills){target="_blank"}針對Adobe Journey Optimizer中的決策規則工作流程與決策優惠方案專案工作流程技能，提供詳細指引、使用案例和提示最佳實務。
 
 ## 處理程序管理員
 
