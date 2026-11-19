@@ -25,7 +25,7 @@ ht-degree: 1%
 在AI平台中使用同事之前，請確認您具備下列條件。
 
 * 為您的組織布建的Adobe CX Enterprise Coworker，以及您在Adobe中擁有該網站的存取權。
-* [Adobe CX Enterprise](https://business.adobe.com/solutions/customer-experience-orchestration.html)應用程式之一。
+* [Adobe CX Enterprise](https://business.adobe.com/tw/solutions/customer-experience-orchestration.html)應用程式之一。
 * 存取[設定同事](#set-up-coworker)中列出的AI平台。
 
 ## 資料存取與許可權 {#data-access-and-permissions}
