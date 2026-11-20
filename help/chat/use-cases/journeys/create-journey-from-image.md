@@ -37,6 +37,6 @@ ht-degree: 5%
 
 ## 另請參閱
 
-- [歷程的同事：歷程建立](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-create){target="_blank"}，包含重要使用案例、提示最佳作法，以及在Adobe Journey Optimizer中建立歷程的超出範圍技能。
-- [Journey Optimizer的同事技能](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}，整個Journey Optimizer的同事技能概觀。
+- [歷程的同事：歷程建立](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-create){target="_blank"}，包含重要使用案例、提示最佳作法，以及在Adobe Journey Optimizer中建立歷程的超出範圍技能。
+- [Journey Optimizer的同事技能](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}，整個Journey Optimizer的同事技能概觀。
 - [更多同事聊天工作流程](../workflows.md#journeys)
