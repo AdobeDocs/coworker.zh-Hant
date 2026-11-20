@@ -5,9 +5,9 @@ jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: b2a8aa48302c80efa48416dede5f5d66005b8e7c
+source-git-commit: 1fd895142c5f222c3a5f47e30390d2cf9072fad1
 workflow-type: tm+mt
-source-wordcount: '2116'
+source-wordcount: '2131'
 ht-degree: 3%
 ---
 # 開始使用同事聊天 {#ui-guide}
@@ -24,6 +24,7 @@ Co-worker Chat可讓您透過簡單語言詢問您所需的內容，以使用Ado
 |---|---|---|
 | Real-Time CDP | 現在可用 | 即將推出 |
 | Adobe Journey Optimizer | 現在可用 | 即將推出 |
+| Adobe Journey Optimizer B2B Edition | 現在可用 | 即將推出 |
 | Customer Journey Analytics | 現在可用 | 現在可用 |
 | Customer Journey Analytics B2B Edition | 現在可用 | 現在可用 |
 | Content Analytics | 現在可用 | 現在可用 |
@@ -33,12 +34,13 @@ Co-worker Chat可讓您透過簡單語言詢問您所需的內容，以使用Ado
 | 目標 | 現在可用 | 現在可用 |
 | AEM | 現在可用 | 現在可用 |
 | Marketo Engage | 現在可用 | 即將推出 |
+| Marketo Optimizer | 現在可用 | 現在可用 |
 
 ## 登入[!DNL Coworker] {#sign-in}
 
 使用您的Adobe認證登入[!DNL Coworker]。
 
-1. [使用您的Adobe ID登入](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/experience-cloud#sign-in-to-cx-enterprise) CX Enterprise。
+1. [使用您的Adobe ID登入](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud#sign-in-to-cx-enterprise) CX Enterprise。
 
    登入後，您可以從[!DNL CX Enterprise]應用程式功能表或使用直接連結來開啟[!DNL Coworker]：
 

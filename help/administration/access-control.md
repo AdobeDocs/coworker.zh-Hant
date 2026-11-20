@@ -8,9 +8,9 @@ jira: KT-22980
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: d3438a28430c6c845cea881e28ab8e22a636edbb
+source-git-commit: 386a24a7a52efce2e36f8391b55fd044e4f44a71
 workflow-type: tm+mt
-source-wordcount: '571'
+source-wordcount: '622'
 ht-degree: 0%
 ---
 # 同事的存取控制 {#access-control}
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ## 存取權的決定方式 {#how-access-is-determined}
 
-同事存取許可權是由整個組織的設定所控制，且可選的使用者或群組覆寫。 組織範圍的設定可啟用或停用組織中使用者的「同事」存取權。 貴組織的存取權預設為啟用或停用。
+身為同事系統管理員，請使用[!UICONTROL 設定預設存取權]來開啟或關閉整個組織的同事存取權。 您也可以為特定使用者或使用者群組設定存取覆寫。 貴組織的存取權預設為啟用或停用。
 
 | 設定 | 如何影響存取 |
 | --- | --- |
@@ -61,6 +61,13 @@ ht-degree: 0%
 
    >[!VIDEO](https://video.tv.adobe.com/v/3507160?captions=chi_hant&learn=on){transcript=true}
 
+1. 在&#x200B;**[!UICONTROL 設定預設存取權]**&#x200B;中，開啟或關閉您組織的存取權：
+
+   * **於：**&#x200B;啟用組織中每個人的同事存取權，受使用者或群組覆寫限制。
+   * **關閉：**&#x200B;停用組織中每個人的同事存取權，除非您允許使用者或群組覆寫。
+
+   若要在組織存取權關閉時授與特定使用者或群組的存取權，請開啟&#x200B;**[!UICONTROL 允許覆寫]**。 Select **[!UICONTROL 新增覆寫]**&#x200B;以新增應具有存取權的使用者或群組。
+
 1. 選取&#x200B;**[!UICONTROL 使用者]**&#x200B;以管理個別存取權，或選取&#x200B;**[!UICONTROL 使用者群組]**&#x200B;以管理群組存取權。 使用者群組設定適用於其成員。
 
    同事使用者群組與[!DNL Adobe Admin Console]群組不同。 即將從[!DNL Adobe Admin Console]將使用者群組同步至同事。
@@ -69,8 +76,6 @@ ht-degree: 0%
 
    * **已啟用：**&#x200B;使用者或使用者群組為作用中。
    * **已停用：**&#x200B;使用者或使用者群組為非使用中。
-
-   當所有人的存取權停用時，請開啟&#x200B;**[!UICONTROL 允許覆寫]**&#x200B;並選取&#x200B;**[!UICONTROL 新增覆寫]**&#x200B;以新增仍應具有存取權的使用者或群組。
 
 ## 與同事相容的CX Enterprise應用程式中的許可權 {#permissions-in-compatible-applications}
 

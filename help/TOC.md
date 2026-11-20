@@ -6,10 +6,10 @@ description: 瞭解CX Enterprise中的AI工具。 在CX Enterprise中使用AI來
 solution: Coworker
 role: Admin,User,Developer,Leader
 auto-video-transcripts: true
-source-git-commit: 69468cabd86925ee6a7f3f86022ffefb26ffa66c
+source-git-commit: e80cad8019c00fdf6bf101f113e9bbef780d5923
 workflow-type: tm+mt
-source-wordcount: '385'
-ht-degree: 12%
+source-wordcount: '389'
+ht-degree: 20%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -29,7 +29,7 @@ ht-degree: 12%
       - [關於分析資料](./chat/use-cases/data-insights/analytics-overview.md)
       - [開始分析資料](./chat/use-cases/data-insights/analytics-chat.md)
       - 智慧型實作與管理 {#intelligent-implementation-and-administration}
-        - [概觀](./chat/use-cases/data-insights/data-governance-and-validation.md)
+        - [概覽](./chat/use-cases/data-insights/data-governance-and-validation.md)
         - [規劃您的實作](./chat/use-cases/data-insights/implementation-guide.md)
         - [產生實施檢查清單](./chat/use-cases/data-insights/intelligent-checklist.md)
         - [升級時驗證AA至CJA資料](./chat/use-cases/data-insights/data-validation-aa-cja.md)
@@ -40,17 +40,17 @@ ht-degree: 12%
         - [偵測Experience Platform異常](./chat/use-cases/data-insights/anomaly-detection.md)
         - [加速資料深入分析](./chat/use-cases/data-insights/accelerate-data-insights.md)
       - 歷程分析 {#journey-analysis}
-        - [概觀](./chat/use-cases/data-insights/journey-analysis.md)
+        - [概覽](./chat/use-cases/data-insights/journey-analysis.md)
       - 對象和區段分析 {#audience-and-segment-analysis}
-        - [概觀](./chat/use-cases/data-insights/audience-and-segment-analysis.md)
+        - [概覽](./chat/use-cases/data-insights/audience-and-segment-analysis.md)
       - 業務績效 {#business-performance}
-        - [概觀](./chat/use-cases/data-insights/business-performance.md)
+        - [概覽](./chat/use-cases/data-insights/business-performance.md)
         - [探索趨勢和根本原因](./chat/use-cases/data-insights/root-cause-analysis.md)
       - 內容績效 {#content-performance}
-        - [概觀](./chat/use-cases/data-insights/content-performance.md)
+        - [概覽](./chat/use-cases/data-insights/content-performance.md)
         - [提出關於內容的問題](./chat/use-cases/data-insights/ask-content-questions.md)
       - 行銷測量與歸因 {#marketing-measurement-and-attribution}
-        - [概觀](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
+        - [概覽](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
     - 資料上線 {#data-onboarding}
       - {hide-from-toc}[與同事將資料上線](./agents/data-onboarding-skill.md)
     - 資料管理 {#data-management}
@@ -62,9 +62,9 @@ ht-degree: 12%
     - 歷程 {#journeys}
       - [使用自然語言建立歷程](./chat/use-cases/journeys/create-journey-from-natural-language.md)
       - [從影像建立歷程](./chat/use-cases/journeys/create-journey-from-image.md)
-      - [使用同事模擬歷程](./chat/use-cases/journeys/simulate-journey-using-coworker.md)
+      - [使用 Coworker 模擬歷程](./chat/use-cases/journeys/simulate-journey-using-coworker.md)
       - [加速客戶參與](./chat/use-cases/journeys/accelerate-personalized-customer-engagement.md)
-      - [使用同事比較歷程版本](./chat/use-cases/journeys/journey-version-comparison.md)
+      - [使用 Coworker 比較歷程版本](./chat/use-cases/journeys/journey-version-comparison.md)
       - [建立、模擬和分析跨頻道歷程](./chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker.md)
     - 忠誠度 {#loyalty}
       - [建立忠誠度挑戰並顯示深入分析](./chat/use-cases/journeys/create-loyalty-challenge.md)
@@ -97,6 +97,7 @@ ht-degree: 12%
     - [管理和反複處理技能](./customizations/skills/manage-and-iterate-on-skills.md)
   - 整合 {#integrations}
     - [什麼是整合？](./customizations/integrations/understanding-integrations-in-coworker.md)
+    - [啟用您的第一次整合](./customizations/integrations/enable-your-first-integration.md)
   - 外掛程式 {#plugins}
     - [什麼是外掛程式？](./customizations/plugins/what-are-plugins.md)
     - [管理組織的外掛程式](./customizations/plugins/manage-plugins-for-your-org.md)
@@ -109,7 +110,7 @@ ht-degree: 12%
   - 記憶 {#memory}
     - [什麼是記憶體？](./customizations/memory/what-is-memory.md)
 - 團隊同事 {#coworker-for-teams}
-  - [概觀](./coworker-for-teams/overview.md)
+  - [概覽](./coworker-for-teams/overview.md)
   - [建立電子郵件行銷活動](./coworker-for-teams/create-an-email-campaign.md)
   - [啟動及管理行銷活動](./coworker-for-teams/launch-manage-campaign.md)
   - [使用案例](./coworker-for-teams/use-cases.md)
