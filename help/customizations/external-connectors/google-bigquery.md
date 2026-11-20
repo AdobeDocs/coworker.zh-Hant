@@ -70,7 +70,7 @@ ht-degree: 0%
 | [!UICONTROL BigQuery工作使用者] (`roles/bigquery.jobUser`) | 查詢專案 | 執行查詢工作。 |
 | [!UICONTROL BigQuery資料檢視器] (`roles/bigquery.dataViewer`) | 授權的資料集或資料專案 | 讀取資料和中繼資料。 |
 
-請勿僅授予[!UICONTROL BigQuery資料編輯器]、[!UICONTROL BigQuery資料擁有者]或[!UICONTROL BigQuery管理員]使用此唯讀聯結器。 作為額外的保護措施，請考慮針對讀寫MCP工具](https://docs.cloud.google.com/mcp/prevent-read-write-tool-use)的[拒絕原則。 要求您的[!DNL Google Cloud]系統管理員先檢閱拒絕原則的範圍，因為它可能會影響其他[!DNL Google]個MCP使用者端和服務。 如需詳細資訊，請參閱[BigQuery IAM角色與許可權](https://docs.cloud.google.com/bigquery/docs/access-control)。
+請勿僅授予[!UICONTROL BigQuery資料編輯器]、[!UICONTROL BigQuery資料擁有者]或[!UICONTROL BigQuery管理員]使用此唯讀聯結器。 作為額外的保護措施，請考慮針對讀寫MCP工具[&#128279;](https://docs.cloud.google.com/mcp/prevent-read-write-tool-use)的拒絕原則。 要求您的[!DNL Google Cloud]系統管理員先檢閱拒絕原則的範圍，因為它可能會影響其他[!DNL Google]個MCP使用者端和服務。 如需詳細資訊，請參閱[BigQuery IAM角色與許可權](https://docs.cloud.google.com/bigquery/docs/access-control)。
 
 ## 為您的組織設定聯結器 {#configure-organization}
 
