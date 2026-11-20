@@ -20,10 +20,10 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: d7f1f470a99880d46f518b42f4e766066c6fa52e
+source-git-commit: cf3c531cc5daacec7b917cad472fe95b08f31b9a
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 0%
+source-wordcount: '133'
+ht-degree: 1%
 ---
 
 # 使用同事模擬Adobe Journey Optimizer歷程
@@ -31,3 +31,9 @@ ht-degree: 0%
 使用同事以自動產生的測試設定檔和事件來模擬Adobe Journey Optimizer歷程。 在此影片中，瞭解如何在發佈前測試歷程路徑、接收校樣訊息，以及檢視路徑涵蓋範圍和模擬結果。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3507040?captions=chi_hant&learn=on)
+
+## 另請參閱
+
+- [歷程的同事：歷程模擬](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-simulation){target="_blank"}，包含主要使用案例和與同事模擬歷程的限制。
+- [Journey Optimizer的同事技能](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}，整個Journey Optimizer的同事技能概觀。
+- [更多同事聊天工作流程](../workflows.md#journeys)
