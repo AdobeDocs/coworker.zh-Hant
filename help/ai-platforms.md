@@ -308,7 +308,7 @@ ChatGPT中的![Adobe CX Enterprise Coworker詳細資料，其中的[安裝外掛
    ![Adobe CX Enterprise Coworker的Databricks Marketplace安裝對話方塊，包含目錄、結構描述、連線和認證欄位。](./assets/ai-platforms/databricks/databricks-install.png){width="700"}
 
 1. 輸入您的&#x200B;**[!UICONTROL 使用者端識別碼]**&#x200B;和&#x200B;**[!UICONTROL 使用者端密碼]**。
-1. 檢閱並接受條款，然後選取[安裝]。****
+1. 檢閱並接受條款，然後選取[安裝]。**&#x200B;**
 
 <!-- Confirm the customer process for obtaining OAuth settings before publication. -->
 
