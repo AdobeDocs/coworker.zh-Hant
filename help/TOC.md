@@ -6,9 +6,9 @@ description: 瞭解CX Enterprise中的AI工具。 在CX Enterprise中使用AI來
 solution: Coworker
 role: Admin,User,Developer,Leader
 auto-video-transcripts: true
-source-git-commit: 98439066e28b43d6f97f1ac769dfb9d45e698ea9
+source-git-commit: 4c82db341547bf3009009a3fea4a88e294ce6c24
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '408'
 ht-degree: 20%
 ---
 
@@ -34,6 +34,7 @@ ht-degree: 20%
         - [產生實施檢查清單](./chat/use-cases/data-insights/intelligent-checklist.md)
         - [升級時驗證AA至CJA資料](./chat/use-cases/data-insights/data-validation-aa-cja.md)
         - [將AA專案移轉至CJA](./chat/use-cases/data-insights/migrate-projects-aa-cja.md)
+        - [建立Content Analytics計畫](./chat/use-cases/data-insights/content-analytics-implementation-plan.md)
         - [驗證串流媒體實施](./chat/use-cases/data-insights/streaming-media-validation.md)
         - [驗證CJA報表的資料集品質](./chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)
         - [驗證Experience Platform資料](./chat/use-cases/data-insights/data-validation-aep.md)
