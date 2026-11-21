@@ -40,7 +40,7 @@ Co-worker Chat可讓您透過簡單語言詢問您所需的內容，以使用Ado
 
 使用您的Adobe認證登入[!DNL Coworker]。
 
-1. [使用您的Adobe ID登入](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud#sign-in-to-cx-enterprise) CX Enterprise。
+1. [使用您的Adobe ID登入](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/experience-cloud#sign-in-to-cx-enterprise) CX Enterprise。
 
    登入後，您可以從[!DNL CX Enterprise]應用程式功能表或使用直接連結來開啟[!DNL Coworker]：
 
